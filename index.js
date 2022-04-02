@@ -17,9 +17,16 @@ app.listen(8080, () => console.log('is on !'))
 
 app.get('/random', (req, res) => {
 	const lang = req.query.lang || 'en'
+	const count = req.query.count || 1
 	const all = quotes[lang]
 
-	res.status(200).send(all[getRandomInt(all.length)])
+	let list = []
+
+	for (let i = 0; i < count; i++) {
+		list.push(all[getRandomInt(all.length)])
+	}
+
+	res.status(200).send(list)
 })
 
 app.get('/all', (req, res) => {

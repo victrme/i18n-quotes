@@ -22,10 +22,6 @@ app.use(
 app.listen(process.env.PORT || 8080, () => console.log('server running on port 8080'))
 
 app.get('/', (req, res) => {
-	res.status(200).send('Hello, I am under the water, please help')
-})
-
-app.get('/random', (req, res) => {
 	const lang = req.query.lang || 'en'
 	const count = req.query.count || 1
 	const all = quotes[lang]

@@ -20,12 +20,12 @@ app.listen(process.env.PORT || 8080, () => console.log('server running on port 8
 
 app.get('/:lang', (req, res) => {
 	const lang = req.params.lang || 'en'
-	const count = req.query.count || 1
+	const amount = req.query.amount || 1
 	const all = quotes[lang]
 
 	let list = []
 
-	for (let i = 0; i < count; i++) {
+	for (let i = 0; i < amount; i++) {
 		list.push(all[randInt(all.length)])
 	}
 

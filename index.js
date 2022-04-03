@@ -9,11 +9,21 @@ function getRandomInt(max) {
 }
 
 const express = require('express')
+const cors = require('cors')
 const app = express()
 
-app.use(express.json())
+app.use(
+	cors({
+		credientials: true,
+		origin: true,
+	})
+)
 
-app.listen(8080, () => console.log('is on !'))
+app.listen(process.env.PORT || 8080, () => console.log('server running on port 8080'))
+
+app.get('/', (req, res) => {
+	res.status(200).send('Hello, I am under the water, please help')
+})
 
 app.get('/random', (req, res) => {
 	const lang = req.query.lang || 'en'

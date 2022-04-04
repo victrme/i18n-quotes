@@ -2,6 +2,7 @@ const quotes = {
 	en: require('./quotes/en.json'),
 	fr: require('./quotes/fr.json'),
 	ru: require('./quotes/ru.json'),
+	it: require('./quotes/it.json'),
 }
 
 const randInt = (max) => Math.floor(Math.random() * max)
@@ -18,18 +19,27 @@ app.use(
 
 app.listen(process.env.PORT || 8080, () => console.log('server running on port 8080'))
 
+app.get('/', (req, res) => {
+	res.status(200).send(quotes.en[randInt(quotes.en.length)])
+})
+
 app.get('/:lang', (req, res) => {
 	const lang = req.params.lang || 'en'
-	const amount = req.query.amount || 1
 	const all = quotes[lang]
 
-	let list = []
+	if (req.query.amount) {
+		const amount = req.query.amount
+		let list = []
 
-	for (let i = 0; i < amount; i++) {
-		list.push(all[randInt(all.length)])
+		for (let i = 0; i < amount; i++) {
+			list.push(all[randInt(all.length)])
+		}
+
+		res.status(200).send(list)
+		return
 	}
 
-	res.status(200).send(list)
+	res.status(200).send(all[randInt(all.length)])
 })
 
 app.get('/:lang/all', (req, res) => {

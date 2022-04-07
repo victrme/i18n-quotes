@@ -5,6 +5,7 @@ const quotes = {
 	it: require('./quotes/it.json'),
 }
 
+const getLang = (lang) => Object.keys(quotes).find((l) => lang === l) || 'en'
 const randInt = (max) => Math.floor(Math.random() * max)
 const express = require('express')
 const cors = require('cors')
@@ -24,7 +25,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/:lang', (req, res) => {
-	const lang = req.params.lang || 'en'
+	const lang = getLang(req.params.lang)
 	const all = quotes[lang]
 
 	if (req.query.amount) {
@@ -43,11 +44,11 @@ app.get('/:lang', (req, res) => {
 })
 
 app.get('/:lang/all', (req, res) => {
-	res.status(200).send(quotes[req.params.lang])
+	res.status(200).send(quotes[getLang(req.params.lang)])
 })
 
 app.get('/:lang/count', (req, res) => {
-	const lang = req.params.lang
+	const lang = getLang(req.params.lang)
 	const length = quotes[lang].length
 
 	res.status(200).send({ lang, length })

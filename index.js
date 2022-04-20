@@ -3,6 +3,8 @@ const quotes = {
 	fr: require('./quotes/fr.json'),
 	ru: require('./quotes/ru.json'),
 	it: require('./quotes/it.json'),
+	it: require('./quotes/nl.json'),
+	it: require('./quotes/sv.json'),
 }
 
 const getLang = (lang) => Object.keys(quotes).find((l) => lang === l) || 'en'

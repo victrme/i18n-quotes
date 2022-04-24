@@ -1,5 +1,5 @@
 // keep .default, if not everything somehow breaks
-const fetch = require('node-fetch').default
+const fetch = require('node-fetch')
 
 exports.handler = async () => {
 	const inspirobot = await fetch('https://inspirobot.me/api?generateFlow=1')

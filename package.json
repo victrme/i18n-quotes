@@ -18,16 +18,9 @@
 	},
 	"homepage": "https://github.com/victrme/i18n-quotes#readme",
 	"devDependencies": {
-		"body-parser": "^1.19.0",
-		"chokidar": "^3.5.3",
-		"express": "^4.17.1",
 		"netlify-lambda": "^1.6.3",
-		"nodemon": "^1.19.2",
-		"serverless-http": "^2.3.0",
-		"utils-merge": "^1.0.1"
-	},
-	"dependencies": {
 		"@netlify/zip-it-and-ship-it": "^5.9.1",
 		"node-fetch": "^2.6.7"
-	}
+	},
+	"dependencies": {}
 }

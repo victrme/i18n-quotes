@@ -8,7 +8,7 @@
 		"url": "git+https://github.com/victrme/i18n-quotes.git"
 	},
 	"scripts": {
-		"build": "netlify-lambda build express"
+		"build": "netlify-lambda build functions/api"
 	},
 	"keywords": [],
 	"author": "",
@@ -23,5 +23,8 @@
 		"netlify-lambda": "^1.6.3",
 		"nodemon": "^1.19.2",
 		"serverless-http": "^2.3.0"
+	},
+	"dependencies": {
+		"node-fetch": "^2.6.7"
 	}
 }

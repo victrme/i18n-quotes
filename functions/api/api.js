@@ -5,14 +5,14 @@ const router = express.Router()
 const bodyParser = require('body-parser')
 
 const quotes = {
-	en: require('../quotes/en.json'),
-	fr: require('../quotes/fr.json'),
-	ru: require('../quotes/ru.json'),
-	it: require('../quotes/it.json'),
-	nl: require('../quotes/nl.json'),
-	sv: require('../quotes/sv.json'),
-	de: require('../quotes/de.json'),
-	pl: require('../quotes/pl.json'),
+	en: require('./quotes/en.json'),
+	fr: require('./quotes/fr.json'),
+	ru: require('./quotes/ru.json'),
+	it: require('./quotes/it.json'),
+	nl: require('./quotes/nl.json'),
+	sv: require('./quotes/sv.json'),
+	de: require('./quotes/de.json'),
+	pl: require('./quotes/pl.json'),
 }
 
 const getLang = (lang) => Object.keys(quotes).find((l) => lang === l) || 'en'

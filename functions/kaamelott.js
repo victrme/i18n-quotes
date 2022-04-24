@@ -1,5 +1,4 @@
-// keep .default, if not everything somehow breaks
-const fetch = require('node-fetch')
+const fetch = require('node-fetch').default
 
 exports.handler = async () => {
 	const kaamelott = await fetch('https://quotes-proxy.herokuapp.com/kaamelott')

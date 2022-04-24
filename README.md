@@ -1,3 +1,7 @@
+# i18n-quotes
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e18943d8-30d9-4784-a0a4-3895d7eca4fa/deploy-status)](https://app.netlify.com/sites/i18nquotes/deploys)
+
+
 ### `/`
 A single random english quote
 ```json

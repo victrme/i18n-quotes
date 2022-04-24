@@ -27,6 +27,7 @@
 		"utils-merge": "^1.0.1"
 	},
 	"dependencies": {
+		"@netlify/zip-it-and-ship-it": "^5.9.1",
 		"node-fetch": "^2.6.7"
 	}
 }

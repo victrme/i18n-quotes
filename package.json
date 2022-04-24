@@ -2,11 +2,7 @@
 	"name": "i18n-quotes",
 	"version": "1.0.0",
 	"description": "Retrieves random quotes with different languages ",
-	"main": "index.js",
-	"scripts": {
-		"build": "netlify-lambda build express",
-		"start": "nodemon server-local.js"
-	},
+	"main": "functions/api.js",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/victrme/i18n-quotes.git"

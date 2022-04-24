@@ -5,12 +5,12 @@ const router = express.Router()
 const bodyParser = require('body-parser')
 
 const quotes = {
-	en: require('./quotes/en.json'),
-	fr: require('./quotes/fr.json'),
-	ru: require('./quotes/ru.json'),
-	it: require('./quotes/it.json'),
-	nl: require('./quotes/nl.json'),
-	sv: require('./quotes/sv.json'),
+	en: require('../quotes/en.json'),
+	fr: require('../quotes/fr.json'),
+	ru: require('../quotes/ru.json'),
+	it: require('../quotes/it.json'),
+	nl: require('../quotes/nl.json'),
+	sv: require('../quotes/sv.json'),
 }
 
 const getLang = (lang) => Object.keys(quotes).find((l) => lang === l) || 'en'
@@ -51,7 +51,7 @@ router.get('/:lang/count', (req, res) => {
 })
 
 app.use(bodyParser.json())
-app.use('/.netlify/functions/server', router) // path must route to lambda
+app.use('/.netlify/functions/api', router) // path must route to lambda
 app.use('/', (req, res) => res.sendFile(path.join(__dirname, '../index.html')))
 
 module.exports = app

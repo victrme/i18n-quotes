@@ -7,6 +7,9 @@
 		"type": "git",
 		"url": "git+https://github.com/victrme/i18n-quotes.git"
 	},
+	"scripts": {
+		"build": "netlify-lambda build express"
+	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",

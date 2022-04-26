@@ -1,0 +1,11 @@
+{
+	"name": "i18n-quotes-test",
+	"version": "2",
+	"description": "",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"node-fetch": "^3.2.3"
+	}
+}

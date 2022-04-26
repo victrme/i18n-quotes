@@ -3,7 +3,7 @@
   command = "npm install && npm run build"
   functions = "dist"
 
-[functions.my-function-1]
+[functions.node-fetch]
   external_node_modules = ["node-fetch"]
 
 [[redirects]]

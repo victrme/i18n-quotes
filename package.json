@@ -19,9 +19,5 @@
 	"homepage": "https://github.com/victrme/i18n-quotes#readme",
 	"devDependencies": {
 		"netlify-lambda": "^1.6.3"
-	},
-	"dependencies": {
-		"@netlify/zip-it-and-ship-it": "^5.9.1",
-		"node-fetch": "^2.6.7"
 	}
 }

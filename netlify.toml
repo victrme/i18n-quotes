@@ -4,7 +4,7 @@
   functions = "dist"
 
 [functions.node-fetch]
-  external_node_modules = ["node-fetch"]
+  external_node_modules = ["node-fetch", "@netlify/zip-it-and-ship-it"]
 
 [[redirects]]
   from = '/*'

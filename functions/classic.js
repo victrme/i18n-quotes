@@ -1,7 +1,6 @@
 module.exports.handler = async (event) => {
-	const randInt = (max) => Math.floor(Math.random() * max)
-	const path = event.path.replaceAll('/', '').replace('classic', '')
-	const lang = path || 'en'
+	const path = event.path || ''
+	const lang = path.replace('/classic', '').replace('/', '') || 'en'
 	let list
 
 	try {
@@ -12,6 +11,6 @@ module.exports.handler = async (event) => {
 
 	return {
 		statusCode: 200,
-		body: JSON.stringify(list[randInt(list.length)]),
+		body: JSON.stringify(list[Math.floor(Math.random() * list.length)]),
 	}
 }

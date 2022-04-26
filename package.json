@@ -8,6 +8,7 @@
 		"url": "git+https://github.com/victrme/i18n-quotes.git"
 	},
 	"scripts": {
+		"prebuild": "cd functions && yarn",
 		"build": "netlify-lambda build functions"
 	},
 	"keywords": [],

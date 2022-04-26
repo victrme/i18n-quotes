@@ -6,6 +6,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"@netlify/zip-it-and-ship-it": "^5.9.1",
 		"node-fetch": "^2.3.0"
 	}
 }

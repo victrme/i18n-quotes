@@ -1,6 +1,7 @@
 module.exports.handler = async (event) => {
 	const randInt = (max) => Math.floor(Math.random() * max)
-	const lang = event.path.replace('/classic/', '') || 'en'
+	const path = event.path.replaceAll('/', '').replace('classic', '')
+	const lang = path || 'en'
 	let list
 
 	try {

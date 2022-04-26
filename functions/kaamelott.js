@@ -1,7 +1,7 @@
 const axios = require('axios').default
 
 exports.handler = async () => {
-	const resp = await axios('https://inspirobot.me/api?generateFlow=1')
+	const resp = await axios('https://kaamelott.chaudie.re/api/random')
 
 	return {
 		statusCode: 200,

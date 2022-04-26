@@ -3,6 +3,9 @@
   command = "npm install && npm run build"
   functions = "dist"
 
+[functions.my-function-1]
+  external_node_modules = ["node-fetch"]
+
 [[redirects]]
   from = '/*'
   to = '/.netlify/functions/:splat'

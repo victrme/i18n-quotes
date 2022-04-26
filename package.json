@@ -17,7 +17,7 @@
 		"url": "https://github.com/victrme/i18n-quotes/issues"
 	},
 	"homepage": "https://github.com/victrme/i18n-quotes#readme",
-	"dependencies": {
+	"devDependencies": {
 		"@netlify/zip-it-and-ship-it": "^5.9.1",
 		"netlify-lambda": "^1.6.3",
 		"esbuild": "^0.14.38"

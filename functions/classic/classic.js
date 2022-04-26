@@ -2,11 +2,11 @@ const axios = require('axios').default
 
 module.exports.handler = async (event) => {
 	const randInt = (max) => Math.floor(Math.random() * max)
-	const lang = event.path.replace('/classic/', '') || 'en'
+	const lang = 'en' //event.path.replace('/classic/', '') || 'en'
 	let list
 
 	try {
-		list = require(`../quotes/${lang}.json`)
+		list = require(`../../quotes/${lang}.json`)
 	} catch (error) {
 		return { statusCode: 418 }
 	}

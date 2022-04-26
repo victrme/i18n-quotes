@@ -3,12 +3,22 @@
 	"version": "2",
 	"description": "Retrieves random quotes with different languages",
 	"main": "functions/classic.js",
-	"homepage": "https://github.com/victrme/i18n-quotes#readme",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/victrme/i18n-quotes.git"
 	},
+	"scripts": {
+		"prebuild": "cd functions && npm i",
+		"build": "netlify-lambda build functions"
+	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC"
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/victrme/i18n-quotes/issues"
+	},
+	"homepage": "https://github.com/victrme/i18n-quotes#readme",
+	"devDependencies": {
+		"netlify-lambda": "^1.6.3"
+	}
 }

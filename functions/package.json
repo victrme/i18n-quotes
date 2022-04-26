@@ -6,6 +6,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"node-fetch": "^3.2.3"
+		"encoding": "^0.1.13",
+		"node-fetch": "^2.3.0"
 	}
 }

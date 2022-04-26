@@ -20,8 +20,6 @@
 	"homepage": "https://github.com/victrme/i18n-quotes#readme",
 	"dependencies": {
 		"@netlify/zip-it-and-ship-it": "^5.9.1",
-		"encoding": "^0.1.13",
-		"netlify-lambda": "^1.6.3",
-		"esbuild": "^0.14.38"
+		"netlify-lambda": "^1.6.3"
 	}
 }

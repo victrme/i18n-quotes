@@ -1,4 +1,4 @@
-const fetch = require('node-fetch')
+const axios = require('axios').default
 
 module.exports.handler = async (event) => {
 	const randInt = (max) => Math.floor(Math.random() * max)

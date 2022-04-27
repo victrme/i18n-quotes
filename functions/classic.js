@@ -12,5 +12,9 @@ module.exports.handler = async (event) => {
 	return {
 		statusCode: 200,
 		body: JSON.stringify(list[Math.floor(Math.random() * list.length)]),
+		headers: {
+			'content-type': 'application/json',
+			'access-control-allow-origin': '*',
+		},
 	}
 }

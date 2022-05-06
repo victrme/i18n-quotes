@@ -6,7 +6,7 @@ module.exports.handler = async (event) => {
 	try {
 		list = require(`../quotes/${lang}.json`)
 	} catch (error) {
-		return { statusCode: 418 }
+		list = require(`../quotes/en.json`)
 	}
 
 	return {

@@ -9,7 +9,7 @@ exports.handler = async () => {
 
 		array = [...resp.data.data]
 		array = array.filter((d) => d.type === 'quote' && filter(d.text)) // data is a quote & passes the filter
-		array = array.map((a) => a.text)
+		array = array.map((a) => ({ author: 'Inspirobot', content: a.text }))
 	} catch (error) {
 		console.log(error)
 	}

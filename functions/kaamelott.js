@@ -1,19 +1,13 @@
-const axios = require('axios').default
+module.exports.handler = async () => {
+	let raw = require(`../quotes/kaamelott.json`);
 
-exports.handler = async () => {
-	const api = await axios('https://kaamelott.chaudie.re/api/random')
-	let result = {}
-
-	try {
-		const { citation, infos } = api.data.citation
-		result = { author: infos.personnage, content: citation }
-	} catch (error) {
-		console.log(error)
-	}
+	const array = Array(20)
+		.fill()
+		.map(() => raw[Math.floor(Math.random() * raw.length)])
 
 	return {
 		statusCode: 200,
-		body: JSON.stringify(result),
+		body: JSON.stringify(array),
 		headers: {
 			'content-type': 'application/json',
 			'access-control-allow-origin': '*',

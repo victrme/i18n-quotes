@@ -1,5 +1,5 @@
 module.exports.handler = async () => {
-	let raw = require(`../quotes/kaamelott.json`);
+	let raw = require(`../quotes/kaamelott-small.json`)
 
 	const array = Array(20)
 		.fill()

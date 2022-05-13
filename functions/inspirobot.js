@@ -5,10 +5,10 @@ exports.handler = async () => {
 	let array = []
 
 	try {
-		const filter = (quote) => !quote.includes('[pause') || quote.length < 200
+		const filtering = (quote) => !quote.includes('[pause') || quote.length < 200
 
 		array = [...resp.data.data]
-		array = array.filter((d) => d.type === 'quote' && filter(d.text)) // data is a quote & passes the filter
+		array = array.filter((d) => d.type === 'quote' && filtering(d.text)) // data is a quote & passes the filter
 		array = array.map((a) => ({ author: 'Inspirobot', content: a.text }))
 	} catch (error) {
 		console.log(error)

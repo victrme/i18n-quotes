@@ -1,11 +1,13 @@
-const axios = require('axios').default
+module.exports.handler = async () => {
+	let raw = require(`../quotes/kaamelott-small.json`)
 
-exports.handler = async () => {
-	const resp = await axios('https://kaamelott.chaudie.re/api/random')
+	const array = Array(20)
+		.fill()
+		.map(() => raw[Math.floor(Math.random() * raw.length)])
 
 	return {
 		statusCode: 200,
-		body: JSON.stringify(resp.data),
+		body: JSON.stringify(array),
 		headers: {
 			'content-type': 'application/json',
 			'access-control-allow-origin': '*',

@@ -1,17 +1,14 @@
-[build]
-  NETLIFY_USE_YARN = true
-  command = "yarn && yarn run build"
-  functions = "dist"
-
-[[redirects]]
-  from = '/*'
-  to = '/.netlify/functions/:splat'
-  status = 200
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
-
 [dev]
-  publish = "dist"
+  autoLaunch = false
+
+[[edge_functions]]
+  path = "/classic/*"
+  function = "classic"
+
+[[edge_functions]]
+  path = "/inspirobot"
+  function = "inspirobot"
+
+[[edge_functions]]
+  path = "/kaamelott"
+  function = "kaamelott"

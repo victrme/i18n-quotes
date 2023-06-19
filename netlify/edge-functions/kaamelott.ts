@@ -1,14 +1,16 @@
+import list from '../../quotes/kaamelott-small.ts'
+
 type Quote = {
 	author: string
 	content: string
 }
 
-export default async (): Promise<Response> => {
+export default (): Response => {
 	const array: Quote[] = []
 	let full: Quote[] = []
 
 	try {
-		full = (await import('../../quotes/kaamelott-small.ts')).default as unknown as Quote[]
+		full = list as unknown as Quote[]
 	} catch (_) {
 		console.warn('Cannot get kaamelott list')
 	}

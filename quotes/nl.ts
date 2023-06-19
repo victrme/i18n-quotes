@@ -554,7 +554,8 @@ export default [
 	},
 	{
 		content:
-			"Als je een blijvende verandering wilt doorvoeren, stop dan met focussen op de omvang van je problemen en ga je focussen op de grootte van jezelf!' T. Harv Eker",
+			'Als je een blijvende verandering wilt doorvoeren, stop dan met focussen op de omvang van je problemen en ga je focussen op de grootte van jezelf.',
+		author: 'T. Harv Eker',
 	},
 	{
 		content:
@@ -627,7 +628,8 @@ export default [
 		author: 'Robert Hughes',
 	},
 	{
-		content: "Wat zou je proberen te doen als je wist dat je niet zou falen?' Robert Schuller",
+		content: 'Wat zou je proberen te doen als je wist dat je niet zou falen?',
+		author: 'Robert Schuller',
 	},
 	{
 		content: 'Houd er altijd rekening mee dat je eigen resolutie naar succes belangrijker is dan wat dan ook',

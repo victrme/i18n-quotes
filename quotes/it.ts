@@ -83,7 +83,8 @@ export default [
 		author: ' William Faulkner',
 	},
 	{
-		content: "Ogni persona deve vivere la propria vita come un modello per gli altri'. Rosa Parks",
+		content: 'Ogni persona deve vivere la propria vita come un modello per gli altri.',
+		author: 'Rosa Parks',
 	},
 	{
 		content: 'Hai il cervello in testa. Hai i piedi nelle scarpe. Puoi orientarti in qualsiasi direzione tu scelga',
@@ -161,7 +162,8 @@ export default [
 	},
 	{
 		content:
-			"La più grande eredità che si può trasmettere ai propri figli e nipoti non è il denaro o altre cose materiali accumulate nella propria vita, ma piuttosto un'eredità di carattere e fede'. Billy Graham",
+			"La più grande eredità che si può trasmettere ai propri figli e nipoti non è il denaro o altre cose materiali accumulate nella propria vita, ma piuttosto un'eredità di carattere e fede.",
+		author: 'Billy Graham',
 	},
 	{
 		content:

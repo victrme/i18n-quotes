@@ -2,8 +2,36 @@
   autoLaunch = false
 
 [[edge_functions]]
-  path = "/classic/*"
-  function = "classic"
+  path = "/classic/en"
+  function = "classic_en"
+
+[[edge_functions]]
+  path = "/classic/de"
+  function = "classic_de"
+  
+[[edge_functions]]
+  path = "/classic/fr"
+  function = "classic_fr"
+
+[[edge_functions]]
+  path = "/classic/it"
+  function = "classic_it"
+
+[[edge_functions]]
+  path = "/classic/nl"
+  function = "classic_nl"
+
+[[edge_functions]]
+  path = "/classic/ru"
+  function = "classic_ru"
+
+[[edge_functions]]
+  path = "/classic/pl"
+  function = "classic_pl"
+
+[[edge_functions]]
+  path = "/classic/sv"
+  function = "classic_sv"
 
 [[edge_functions]]
   path = "/inspirobot"

@@ -15,9 +15,7 @@ export default async (request: Request): Promise<Response> => {
 	}
 
 	try {
-		const path = `../../quotes/${lang}.json`
-		const { default: data } = await import(path, { assert: { type: 'json' } })
-		full = data as unknown as Quote[]
+		full = (await import(`../../quotes/${lang}.ts`)).default as unknown as Quote[]
 	} catch (error) {
 		console.warn("Can't get quote list: ", error)
 	}

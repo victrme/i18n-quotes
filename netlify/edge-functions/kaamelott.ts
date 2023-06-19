@@ -8,9 +8,7 @@ export default async (): Promise<Response> => {
 	let full: Quote[] = []
 
 	try {
-		const path = '../../quotes/kaamelott-small.json'
-		const { default: data } = await import(path, { assert: { type: 'json' } })
-		full = data as unknown as Quote[]
+		full = (await import('../../quotes/kaamelott-small.ts')).default as unknown as Quote[]
 	} catch (_) {
 		console.warn('Cannot get kaamelott list')
 	}

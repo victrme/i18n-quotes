@@ -2,6 +2,10 @@
   autoLaunch = false
 
 [[edge_functions]]
+  path = "/classic"
+  function = "classic_all"
+
+[[edge_functions]]
   path = "/classic/en"
   function = "classic_en"
 

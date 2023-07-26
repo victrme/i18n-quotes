@@ -5,7 +5,7 @@ type Quote = {
 
 export default async function handler(request: Request): Promise<Response> {
 	const langlist = ['de', 'en', 'fr', 'it', 'nl', 'pl', 'ru', 'sv']
-	const pathname = new URL(request.url).pathname.replace('/classic/', '')
+	const pathname = new URL(request.url).pathname.replace('classic', '').replaceAll('/', '')
 	const lang = langlist.includes(pathname) ? pathname : 'en'
 
 	const full = await (await fetch(`https://raw.githubusercontent.com/victrme/i18n-quotes/main/quotes/${lang}.json`)).json()

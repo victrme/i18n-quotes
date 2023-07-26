@@ -1,16 +1,15 @@
-import list from '../../quotes/kaamelott-small.ts'
-
 type Quote = {
 	author: string
 	content: string
 }
 
-export default (): Response => {
+export default async (): Promise<Response> => {
 	const array: Quote[] = []
 	let full: Quote[] = []
 
 	try {
-		full = list as unknown as Quote[]
+		const url = 'https://raw.githubusercontent.com/victrme/i18n-quotes/edge-function/quotes/kaamelott.json'
+		full = await (await fetch(url)).json()
 	} catch (_) {
 		console.warn('Cannot get kaamelott list')
 	}

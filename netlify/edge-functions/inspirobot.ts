@@ -20,8 +20,6 @@ export default async (): Promise<Response> => {
 		const resp = await fetch('https://inspirobot.me/api?generateFlow=1')
 		const json = (await resp.json()) as Inspirobot
 		inspi = json.data
-
-		console.log(json)
 	} catch (error) {
 		console.warn("Can't get to inspirobot: ", error)
 	}

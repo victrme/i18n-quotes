@@ -1,6 +1,10 @@
 [dev]
   autoLaunch = false
 
+  [[edge_functions]]
+  path = "/classic"
+  function = "classic"
+
 [[edge_functions]]
   path = "/classic/*"
   function = "classic"

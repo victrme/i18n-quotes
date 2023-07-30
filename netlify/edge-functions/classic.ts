@@ -15,8 +15,6 @@ export default async function handler(request: Request): Promise<Response> {
 		result.push(full[Math.floor(Math.random() * full.length)])
 	}
 
-	console.log(request.headers.get('referer'))
-
 	return Response.json(result, {
 		status: 200,
 		headers: {

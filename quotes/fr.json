@@ -16,7 +16,7 @@
 		"author": "Isabel Allende"
 	},
 	{
-		"content": "Celui qui se perd dans sa passion a moins perdu que celui qui perd sa passion.",
+		"content": "Celui qui se perd dans sa passion a moins perdu que celui qui perd sa passion.",
 		"author": "Alexandre Jardin"
 	},
 	{
@@ -53,19 +53,19 @@
 	},
 	{
 		"content": "Éliminez les distractions sans relâche. N’attendez pas pour faire les choses qui importent, et savourez le temps que vous avez. C’est ce qu’il faut faire quand la vie est courte.",
-		"author": " Paul Graham"
+		"author": "Paul Graham"
 	},
 	{
 		"content": "L’indécision fait perdre plus de temps qu’une mauvaise décision.",
-		"author": " Une citation de sagesse de Marcus Tullius Cicero"
+		"author": "Marcus Tullius Cicero"
 	},
 	{
 		"content": "Si l’objectif prioritaire d’un capitaine était de préserver son navire, il ne le ferait jamais sortir du port.",
-		"author": " Une citation de courage de Thomas Aquinas"
+		"author": "Thomas Aquinas"
 	},
 	{
 		"content": "Même si vous êtes la pêche la plus mure et la plus juteuse au monde, il y aura toujours quelqu’un qui détestera les pêches.",
-		"author": " Une citation de Dita Von Teese pour surmonter le rejet"
+		"author": "Dita Von Teese"
 	},
 	{
 		"content": "Gardez toujours un petit feu allumé, aussi petit ou caché soit-il.",
@@ -77,7 +77,7 @@
 	},
 	{
 		"content": "Le souci est une mauvaise utilisation de l’imagination.",
-		"author": ""
+		"author": "Dan Zadra"
 	},
 	{
 		"content": "Le courage est la plus importante de toutes les vertus, car sans courage, on ne peut pratiquer aucune autre vertu de façon cohérente.",
@@ -89,7 +89,7 @@
 	},
 	{
 		"content": "Dans un an, vous allez vous reprocher de ne pas avoir commencé aujourd'hui",
-		"author": ""
+		"author": "Karen Lamb"
 	},
 	{
 		"content": "Si nous ressentons de l’insécurité, c’est parce que nous comparons les derrières des coulisses de notre vie avec les meilleures séquences de la vie des autres.",
@@ -157,7 +157,7 @@
 	},
 	{
 		"content": "Pour être irremplaçable, il faut toujours être différent. ",
-		"author": " Une citation de Coco Chanel"
+		"author": "Coco Chanel"
 	},
 	{
 		"content": "Tout dans la vie peut me pousser à m’arrêter pendant un moment et à réfléchir, et parfois à apprendre. ",
@@ -197,7 +197,7 @@
 	},
 	{
 		"content": "Quand je crois en quelque chose, je suis comme un chien avec un os à la bouche.",
-		"author": "Une citation de Melissa McCarthy sur l’envie de réussir"
+		"author": "Melissa McCarthy sur l’envie de réussir"
 	},
 	{
 		"content": "Et vint le jour où le risque de rester serré dans un bourgeon devint plus douloureux que le risque de choisir de fleurir. ",
@@ -220,15 +220,15 @@
 		"author": "Theodore Roosevelt"
 	},
 	{
-		"content": "La perfection n'est pas atteignable. Mais en recherchant la perfection, il est possible d’atteindre l'excellence.",
+		"content": "La perfection n'est pas atteignable. Mais en recherchant la perfection, il est possible d’atteindre l'excellence.",
 		"author": "Vince Lombardi"
 	},
 	{
-		"content": "Trouvez une bonne idée et ne la lâchez plus. Poursuivez-là et mettez-la en œuvre jusqu’à réussir.",
+		"content": "Trouvez une bonne idée et ne la lâchez plus. Poursuivez-là et mettez-la en œuvre jusqu’à réussir.",
 		"author": " Walt Disney"
 	},
 	{
-		"content": "L'optimisme est la foi qui mène à la réussite. On ne peut rien faire sans espoir et confiance.",
+		"content": "L'optimisme est la foi qui mène à la réussite. On ne peut rien faire sans espoir et confiance.",
 		"author": "Helen Keller"
 	},
 	{
@@ -244,7 +244,7 @@
 		"author": "Mark Twain"
 	},
 	{
-		"content": "Si vous souhaitez vraiment faire quelque chose, vous trouverez un moyen. Si vous ne le faites pas, vous trouverez une excuse.",
+		"content": "Si vous souhaitez vraiment faire quelque chose, vous trouverez un moyen. Si vous ne le faites pas, vous trouverez une excuse.",
 		"author": "Ro Jim Rohn"
 	},
 	{
@@ -261,14 +261,14 @@
 	},
 	{
 		"content": "N'attendez pas de trouver le moment et l'endroit parfaits pour faire votre entrée, vous êtes déjà sur scène.",
-		"author": ""
+		"author": "John Mason"
 	},
 	{
 		"content": "Plus la difficulté est grande, plus l’on ressent de gloire en la surmontant.",
 		"author": "Épicure"
 	},
 	{
-		"content": "Le courage ne rugit pas toujours. Parfois, le courage se démontre en disant avec une voix calme à la fin de la journée : \"Je vais essayer encore demain.\"",
+		"content": "Le courage ne rugit pas toujours. Parfois, le courage se démontre en disant avec une voix calme à la fin de la journée : \"Je vais essayer encore demain.\"",
 		"author": "Mary Anne Radmacher"
 	},
 	{
@@ -288,19 +288,15 @@
 		"author": "Marie Edgeworth"
 	},
 	{
-		"content": "La résilience consiste à aborder l'incertitude avec flexibilité.",
-		"author": ""
-	},
-	{
 		"content": "Parfois, la magie se produit quand quelqu'un décide de se focaliser sur quelque chose que personne d’autre n’aurait considéré sérieusement. ",
 		"author": "Raymond Joseph Teller"
 	},
 	{
-		"content": "Ce n'est pas la volonté de réussir qui compte, tout le monde a ça. C'est la volonté de se préparer à réussir qui compte.",
+		"content": "Ce n'est pas la volonté de réussir qui compte, tout le monde a ça. C'est la volonté de se préparer à réussir qui compte.",
 		"author": "Paul Bryant"
 	},
 	{
-		"content": "N'abandonnez jamais un rêve sur la base du temps qu'il faudra pour le réaliser. Le temps passera de toute façon. ",
+		"content": "N'abandonnez jamais un rêve sur la base du temps qu'il faudra pour le réaliser. Le temps passera de toute façon. ",
 		"author": "Earl Nightingale"
 	},
 	{
@@ -312,7 +308,7 @@
 		"author": "Vernon Sanders Law"
 	},
 	{
-		"content": "Je n'ai jamais rêvé de succès. J'ai travaillé pour réussir. ",
+		"content": "Je n'ai jamais rêvé de succès. J'ai travaillé pour réussir. ",
 		"author": "Estée Lauder"
 	},
 	{
@@ -320,11 +316,11 @@
 		"author": "Dorothy West"
 	},
 	{
-		"content": "Ne regardez pas vos pieds pour vous assurer que vous effectuez les bons pas. Dansez tout simplement.",
+		"content": "Ne regardez pas vos pieds pour vous assurer que vous effectuez les bons pas. Dansez tout simplement.",
 		"author": "Anne Lamott"
 	},
 	{
-		"content": "Si quelqu'un est assis à l'ombre aujourd'hui, c’est parce que quelqu'un a planté un arbre il y a longtemps. ",
+		"content": "Si quelqu'un est assis à l'ombre aujourd'hui, c’est parce que quelqu'un a planté un arbre il y a longtemps.",
 		"author": "Warren Buffet"
 	},
 	{
@@ -332,7 +328,7 @@
 		"author": "Mortimer J. Adler"
 	},
 	{
-		"content": "Les rivières le savent : rien ne presse. Nous y arriverons tous un jour.",
+		"content": "Les rivières le savent : rien ne presse. Nous y arriverons tous un jour.",
 		"author": "A.A. Milne"
 	},
 	{
@@ -340,7 +336,7 @@
 		"author": "WP Kinsella"
 	},
 	{
-		"content": "Petit n'est pas nécessairement synonyme de tremplin. C’est une grande étape en soi.",
+		"content": "Petit n'est pas nécessairement synonyme de tremplin. C’est une grande étape en soi.",
 		"author": "Jason Fried"
 	},
 	{
@@ -348,7 +344,7 @@
 		"author": "Benjamin Franklin"
 	},
 	{
-		"content": "La seule personne qui puisse vous dire \"vous ne pouvez pas réussir\" est vous-même ; et vous n'avez pas à écouter.",
+		"content": "La seule personne qui puisse vous dire \"vous ne pouvez pas réussir\" est vous-même ; et vous n'avez pas à écouter.",
 		"author": "Jessica Ennis"
 	},
 	{
@@ -516,7 +512,7 @@
 		"author": "Henri Matisse"
 	},
 	{
-		"content": "Ce n’est pas ce que nous sommes qui nous empêche de réaliser nos rêves ; c’est ce que nous croyons que nous ne sommes pas.",
+		"content": "Ce n’est pas ce que nous sommes qui nous empêche de réaliser nos rêves ; c’est ce que nous croyons que nous ne sommes pas.",
 		"author": "Paul Emile Victor"
 	},
 	{
@@ -556,7 +552,7 @@
 		"author": "Baruch Spinoza"
 	},
 	{
-		"content": "Il y a des jours avec et des jours sans…et les jours sans, il faut faire avec !",
+		"content": "Il y a des jours avec et des jours sans…et les jours sans, il faut faire avec !",
 		"author": "Sagesse universelle"
 	},
 	{
@@ -568,7 +564,7 @@
 		"author": "Robert Louis Stevenson"
 	},
 	{
-		"content": "Mieux vaut qu’il pleuve un jour comme aujourd’hui qu’un jour  où il fait beau. ",
+		"content": "Mieux vaut qu’il pleuve un jour comme aujourd’hui qu’un jour  où il fait beau. ",
 		"author": "Pierre Dac"
 	},
 	{
@@ -628,7 +624,7 @@
 		"author": "Albert Einstein"
 	},
 	{
-		"content": "Les optimistes proclament que nous vivons dans un monde rempli de possibilités… Les pessimistes ont peur que ce soit vrai !",
+		"content": "Les optimistes proclament que nous vivons dans un monde rempli de possibilités… Les pessimistes ont peur que ce soit vrai !",
 		"author": "James Branch Cabell"
 	},
 	{
@@ -648,7 +644,7 @@
 		"author": "Edward L. Kramer"
 	},
 	{
-		"content": "La croyance que rien ne change provient soit d’une mauvaise vue, soit d’une mauvaise foi. La première se corrige, la seconde se combat. ",
+		"content": "La croyance que rien ne change provient soit d’une mauvaise vue, soit d’une mauvaise foi. La première se corrige, la seconde se combat. ",
 		"author": "F. Nietzsche"
 	},
 	{
@@ -685,7 +681,7 @@
 	},
 	{
 		"content": "Il n’est jamais trop tard pour devenir ce que nous aurions pu être.",
-		"author": "George Eliot (femme de lettres anglaise) "
+		"author": "George Eliot"
 	},
 	{
 		"content": "Qui veut faire quelque chose trouve un moyen, qui ne veut rien faire trouve une excuse. ",
@@ -704,8 +700,8 @@
 		"author": "Alexandre Lockhart"
 	},
 	{
-		"content": "Riez tant que vous pouvez : c’est un médicament économique.",
-		"author": "Lord Byron."
+		"content": "Riez tant que vous pouvez: c’est un médicament économique.",
+		"author": "Lord Byron"
 	},
 	{
 		"content": "Tout le monde est un génie. Mais si on juge un poisson sur sa capacité à grimper à un arbre, il passera sa vie à croire qu’il est stupide.",
@@ -725,7 +721,7 @@
 	},
 	{
 		"content": "Ne prenez pas la vie trop au sérieux, de toute façon vous n’en sortirez pas vivant.",
-		"author": ""
+		"author": "Elbert Hubbard"
 	},
 	{
 		"content": "Je suis pour l’augmentation du goût de la vie.",
@@ -756,7 +752,7 @@
 		"author": "Peter Drucker"
 	},
 	{
-		"content": "Nul ne peut atteindre l’aube sans passer par le chemin de la nuit. ",
+		"content": "Nul ne peut atteindre l’aube sans passer par le chemin de la nuit. ",
 		"author": "Khalil Gibran"
 	},
 	{
@@ -788,12 +784,8 @@
 		"author": "Tom Wilson"
 	},
 	{
-		"content": "En randonnée, si tu trébuches sur le chemin, n’emporte pas le caillou avec toi !",
-		"author": ""
-	},
-	{
 		"content": "Quand la chance frappe à leur porte, la plupart des gens ne font que de se plaindre du bruit.",
-		"author": ""
+		"author": "Arnold H. Glasow"
 	},
 	{
 		"content": "Ne perds pas ton temps à répéter que le monde te doit quelque chose. Le monde ne te doit rien. Il était là avant toi.",
@@ -805,15 +797,15 @@
 	},
 	{
 		"content": "Le meilleur moment pour planter un arbre, c’était il y a 40 ans. Le deuxième meilleur moment, c’est aujourd’hui.",
-		"author": ""
+		"author": "Proverbe chinois"
 	},
 	{
-		"content": "Il y a deux façons de faire face aux difficultés : soit on les transforme, soit on se transforme en les affrontant.",
+		"content": "Il y a deux façons de faire face aux difficultés : soit on les transforme, soit on se transforme en les affrontant.",
 		"author": "P. Boltome"
 	},
 	{
 		"content": "N’accuse pas le puits d’être trop profond, c’est ta corde qui est trop courte.",
-		"author": "proverbe africain"
+		"author": "Proverbe africain"
 	},
 	{
 		"content": "Ce qui compte, ce n’est pas le nombre d’heures que vous consacrez à vos activités, c’est l’énergie que vous y mettez.",
@@ -828,7 +820,7 @@
 		"author": "Johann Paul Friedrich Richter"
 	},
 	{
-		"content": "À la naissance d’un enfant, si sa mère demandait à sa bonne fée de le doter du cadeau le plus utile pour lui, ce cadeau serait la curiosité.",
+		"content": "À la naissance d’un enfant, si sa mère demandait à sa bonne fée de le doter du cadeau le plus utile pour lui, ce cadeau serait la curiosité.",
 		"author": "Eleanor Roosevelt"
 	},
 	{
@@ -852,7 +844,7 @@
 		"author": "Marcel Pagnol"
 	},
 	{
-		"content": "Si tu ne sais pas aimer, à quoi te sert-il que le soleil se lève et se couche ?",
+		"content": "Si tu ne sais pas aimer, à quoi te sert-il que le soleil se lève et se couche ?",
 		"author": "Omar Kayyam"
 	},
 	{
@@ -900,7 +892,7 @@
 		"author": "Pablo Neruda"
 	},
 	{
-		"content": "Dans la vie, il y a deux catégories d’individus : ceux qui regardent le monde tel qu’il est et se demandent pourquoi. Ceux qui imaginent le monde tel qu’il devrait être et qui se disent : pourquoi pas ?",
+		"content": "Dans la vie, il y a deux catégories d’individus: ceux qui regardent le monde tel qu’il est et se demandent pourquoi. Ceux qui imaginent le monde tel qu’il devrait être et qui se disent: pourquoi pas ?",
 		"author": "Georges-Bernard Shaw"
 	},
 	{
@@ -1113,7 +1105,7 @@
 	},
 	{
 		"content": "La grandeur d’un métier est peut-être, avant tout, d’unir les hommes : il n’est qu’un luxe véritable, et c’est celui des relations humaines.",
-		"author": "Saint-Exupéry, Terres des hommes"
+		"author": "Saint-Exupéry"
 	},
 	{
 		"content": "Si tu ne peux voir que les obstacles, c’est que tu as quitté le but des yeux.",

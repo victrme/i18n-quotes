@@ -9,7 +9,7 @@ export type Quote = {
 
 export default {
 	async fetch(request: Request): Promise<Response> {
-		const pathname = new URL(request.url).pathname?.replace('/', '').split('/') ?? []
+		const pathname = new URL(request.url).pathname?.replace('/', '').replace('quotes/', '').split('/') ?? []
 		const lang = pathname[1] ?? 'en'
 		const type = pathname[0]
 		let result: Quote[]

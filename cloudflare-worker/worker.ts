@@ -55,7 +55,7 @@ async function classic(lang: string): Promise<Quote[]> {
 		sv: async (): Promise<Quote[]> => import('../quotes/sv.json'),
 	}
 
-	const list: Quote[] = (await quotes[lang]()).default
+	const list: Quote[] = (await quotes[lang in quotes ? lang : 'en']()).default
 	const result: Quote[] = []
 
 	for (let i = 0; i < 20; i++) {

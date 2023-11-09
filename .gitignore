@@ -104,8 +104,6 @@ dist
 .tern-port
 .DS_Store
 
-# Local Netlify folder
+.vscode
 .netlify
-
-# Local Cloudflare folder
 .wrangler

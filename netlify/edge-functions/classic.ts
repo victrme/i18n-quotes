@@ -1,25 +1,22 @@
-type Quote = {
-	author: string
-	content: string
+import { getQuoteTypeFromURL, getRandomSample } from '../../src/funcs.ts'
+
+const init: ResponseInit = {
+	headers: {
+		'Content-Type': 'application/json',
+		'Access-Control-Allow-Origin': '*',
+	},
 }
 
 export default async function handler(request: Request): Promise<Response> {
-	const langlist = ['de', 'en', 'fr', 'it', 'nl', 'pl', 'ru', 'sv']
-	const pathname = new URL(request.url).pathname.replace('classic', '').replaceAll('/', '')
-	const lang = langlist.includes(pathname) ? pathname : 'en'
+	const which = getQuoteTypeFromURL(request.url)
 
-	const full = await (await fetch(`https://raw.githubusercontent.com/victrme/i18n-quotes/main/quotes/${lang}.json`)).json()
-	const result: Quote[] = []
+	if (which.type === 'classic') {
+		const base = 'https://raw.githubusercontent.com/victrme/i18n-quotes/main/quotes/'
+		const resp = await fetch(base + which.lang + '.json?v=0.0.0')
+		const full = await resp.json()
 
-	for (let i = 0; i < 20; i++) {
-		result.push(full[Math.floor(Math.random() * full.length)])
+		return new Response(JSON.stringify(getRandomSample(full)), init)
 	}
 
-	return Response.json(result, {
-		status: 200,
-		headers: {
-			'content-type': 'application/json',
-			'access-control-allow-origin': '*',
-		},
-	})
+	return new Response('Not found', { ...init, status: 404 })
 }

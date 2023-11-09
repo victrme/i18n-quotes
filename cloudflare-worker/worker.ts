@@ -1,101 +1,38 @@
-type Quote = {
-	author: string
-	content: string
-}
+import { getQuoteTypeFromURL, getRandomSample } from '../src/funcs'
+import inspirobot from '../src/inspirobot'
 
-type Inspirobot = {
-	data: {
-		text?: string
-		type?: string
-	}[]
+const init: ResponseInit = {
+	headers: {
+		'Content-Type': 'application/json',
+		'Access-Control-Allow-Origin': '*',
+	},
 }
 
 export default {
 	async fetch(request: Request): Promise<Response> {
-		const pathname = new URL(request.url).pathname?.replace('/', '').replace('quotes/', '').split('/') ?? []
-		const lang = pathname[1] ?? 'en'
-		const type = pathname[0]
-		let result: Quote[]
+		const which = getQuoteTypeFromURL(request.url)
 
-		switch (type) {
-			case 'kaamelott':
-				result = await kaamelott()
-				break
+		if (which.type === 'classic') {
+			const base = 'https://raw.githubusercontent.com/victrme/i18n-quotes/main/quotes/'
+			const resp = await fetch(base + which.lang + '.json?v=0.0.0')
+			const full = await resp.json()
 
-			case 'inspirobot':
-				result = await inspirobot()
-				break
-
-			case 'classic':
-				result = await classic(lang)
-				break
-
-			default:
-				result = await classic('en')
+			return new Response(JSON.stringify(getRandomSample(full)), init)
 		}
 
-		return new Response(JSON.stringify(result), {
-			headers: {
-				'Content-Type': 'application/json',
-				'Access-Control-Allow-Origin': '*',
-			},
-		})
+		if (which.type === 'kaamelott') {
+			const base = 'https://raw.githubusercontent.com/victrme/i18n-quotes/main/quotes/'
+			const resp = await fetch(base + 'kaamelott.json?v=0.0.0')
+			const full = await resp.json()
+
+			return new Response(JSON.stringify(getRandomSample(full)), init)
+		}
+
+		if (which.type === 'inspirobot') {
+			const resp = await inspirobot()
+			return new Response(JSON.stringify(resp), init)
+		}
+
+		return new Response('Not found', { ...init, status: 404 })
 	},
-}
-
-async function classic(lang: string): Promise<Quote[]> {
-	const quotes = {
-		en: async (): Promise<Quote[]> => import('../quotes/en.json'),
-		fr: async (): Promise<Quote[]> => import('../quotes/fr.json'),
-		de: async (): Promise<Quote[]> => import('../quotes/de.json'),
-		it: async (): Promise<Quote[]> => import('../quotes/it.json'),
-		nl: async (): Promise<Quote[]> => import('../quotes/nl.json'),
-		pl: async (): Promise<Quote[]> => import('../quotes/pl.json'),
-		ru: async (): Promise<Quote[]> => import('../quotes/ru.json'),
-		sv: async (): Promise<Quote[]> => import('../quotes/sv.json'),
-	}
-
-	const list: Quote[] = (await quotes[lang in quotes ? lang : 'en']()).default
-	const result: Quote[] = []
-
-	for (let i = 0; i < 20; i++) {
-		result.push(list[Math.floor(Math.random() * list.length)])
-	}
-
-	return result
-}
-
-async function inspirobot(): Promise<Quote[]> {
-	let inspi: Inspirobot['data'] = []
-	let result: Quote[] = []
-
-	const filtering = (quote: string) => !quote.includes('[pause') || quote.length < 200
-
-	try {
-		const resp = await fetch('https://inspirobot.me/api?generateFlow=1')
-		const json = (await resp.json()) as Inspirobot
-		inspi = json.data
-	} catch (error) {
-		console.warn("Can't get to inspirobot: ", error)
-	}
-
-	try {
-		inspi = inspi.filter((d) => d.type === 'quote' && filtering(d.text ?? ''))
-		result = inspi.map((d) => ({ author: 'Inspirobot', content: d.text ?? '' }))
-	} catch (error) {
-		console.log(error)
-	}
-
-	return result
-}
-
-async function kaamelott(): Promise<Quote[]> {
-	let list = (await import('../quotes/kaamelott.json')).default
-	let result: Quote[] = []
-
-	for (let i = 0; i < 20; i++) {
-		result.push(list[Math.floor(Math.random() * list.length)])
-	}
-
-	return result
 }

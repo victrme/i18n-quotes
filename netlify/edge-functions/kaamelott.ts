@@ -1,31 +1,22 @@
-type Quote = {
-	author: string
-	content: string
+import { getQuoteTypeFromURL, getRandomSample } from '../../src/funcs.ts'
+
+const init: ResponseInit = {
+	headers: {
+		'Content-Type': 'application/json',
+		'Access-Control-Allow-Origin': '*',
+	},
 }
 
-export default async (): Promise<Response> => {
-	const array: Quote[] = []
-	let full: Quote[] = []
+export default async function handler(request: Request): Promise<Response> {
+	const which = getQuoteTypeFromURL(request.url)
 
-	try {
-		const url = 'https://raw.githubusercontent.com/victrme/i18n-quotes/edge-function/quotes/kaamelott.json'
-		full = await (await fetch(url)).json()
-	} catch (_) {
-		console.warn('Cannot get kaamelott list')
+	if (which.type === 'kaamelott') {
+		const base = 'https://raw.githubusercontent.com/victrme/i18n-quotes/main/quotes/'
+		const resp = await fetch(base + 'kaamelott.json?v=0.0.0')
+		const full = await resp.json()
+
+		return new Response(JSON.stringify(getRandomSample(full)), init)
 	}
 
-	for (let i = 0; i < 20; i++) {
-		const random_quote = full[Math.floor(Math.random() * full.length)]
-		if (random_quote) {
-			array.push(random_quote)
-		}
-	}
-
-	return new Response(JSON.stringify(array), {
-		status: 200,
-		headers: {
-			'content-type': 'application/json',
-			'access-control-allow-origin': '*',
-		},
-	})
+	return new Response('Not found', { ...init, status: 404 })
 }

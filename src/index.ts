@@ -1,5 +1,5 @@
-import { getQuoteTypeFromURL, getRandomSample } from '../src/funcs'
-import inspirobot from '../src/inspirobot'
+import { getQuoteTypeFromURL, getRandomSample } from './funcs'
+import inspirobot from './inspirobot'
 
 const init: ResponseInit = {
 	headers: {

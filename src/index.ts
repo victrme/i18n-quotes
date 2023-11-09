@@ -1,38 +1,27 @@
-import { getQuoteTypeFromURL, getRandomSample } from './funcs'
+import { getRandomSample, Quote, QuoteType } from './funcs'
 import inspirobot from './inspirobot'
 
-const init: ResponseInit = {
-	headers: {
-		'Content-Type': 'application/json',
-		'Access-Control-Allow-Origin': '*',
-	},
+import kaamelott from '../quotes/kaamelott.json'
+
+const classic = {
+	en: (await import('../quotes/en.json')).default,
+	fr: (await import('../quotes/fr.json')).default,
+	de: (await import('../quotes/de.json')).default,
+	it: (await import('../quotes/it.json')).default,
+	nl: (await import('../quotes/nl.json')).default,
+	pl: (await import('../quotes/pl.json')).default,
+	ru: (await import('../quotes/ru.json')).default,
+	sv: (await import('../quotes/sv.json')).default,
 }
 
-export default {
-	async fetch(request: Request): Promise<Response> {
-		const which = getQuoteTypeFromURL(request.url)
+export default async function handler(which: QuoteType): Promise<Quote[]> {
+	if (which.type === 'kaamelott') {
+		return getRandomSample(kaamelott)
+	}
 
-		if (which.type === 'classic') {
-			const base = 'https://raw.githubusercontent.com/victrme/i18n-quotes/main/quotes/'
-			const resp = await fetch(base + which.lang + '.json?v=0.0.0')
-			const full = await resp.json()
+	if (which.type === 'inspirobot') {
+		return await inspirobot()
+	}
 
-			return new Response(JSON.stringify(getRandomSample(full)), init)
-		}
-
-		if (which.type === 'kaamelott') {
-			const base = 'https://raw.githubusercontent.com/victrme/i18n-quotes/main/quotes/'
-			const resp = await fetch(base + 'kaamelott.json?v=0.0.0')
-			const full = await resp.json()
-
-			return new Response(JSON.stringify(getRandomSample(full)), init)
-		}
-
-		if (which.type === 'inspirobot') {
-			const resp = await inspirobot()
-			return new Response(JSON.stringify(resp), init)
-		}
-
-		return new Response('Not found', { ...init, status: 404 })
-	},
+	return getRandomSample(classic[which.lang])
 }

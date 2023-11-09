@@ -1,7 +1,8 @@
 type Classic = { type: 'classic'; lang: string }
 type Kaamelott = { type: 'kaamelott' }
 type Inspirobot = { type: 'inspirobot' }
-type QuoteType = Classic | Kaamelott | Inspirobot
+
+export type QuoteType = Classic | Kaamelott | Inspirobot
 
 export type Quote = {
 	author: string

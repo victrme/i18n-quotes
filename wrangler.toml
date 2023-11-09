@@ -1,4 +1,0 @@
-# Top-level configuration
-name = "i18n-quotes"
-main = "src/index.ts"
-compatibility_date = "2022-07-12"

@@ -1,5 +1,5 @@
 {
-	"name": "i18n-quotes",
+	"name": "@victr/i18n-quotes",
 	"version": "3.0.1",
 	"description": "Retrieves random quotes with different languages",
 	"repository": {

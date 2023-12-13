@@ -1,0 +1,5 @@
+{
+	"name": "netlify",
+	"private": true,
+	"description": "Retrieves random quotes with different languages"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "cloudflare",
+	"description": "Retrieves random quotes with different languages",
+	"scripts": {
+		"dev": "wrangler dev",
+		"deploy": "wrangler deploy"
+	},
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20231025.0"
+	}
+}

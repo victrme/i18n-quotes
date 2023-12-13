@@ -2,15 +2,12 @@
 	"name": "@victr/i18n-quotes",
 	"version": "3.0.1",
 	"description": "Retrieves random quotes with different languages",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/victrme/i18n-quotes.git"
-	},
-	"homepage": "https://github.com/victrme/i18n-quotes#readme",
-	"bugs": {
-		"url": "https://github.com/victrme/i18n-quotes/issues"
-	},
 	"keywords": [],
 	"author": "Victor Azevedo",
-	"license": "ISC"
+	"license": "ISC",
+	"scripts": {
+		"cloudflare:dev": "pnpm --filter cloudflare dev",
+		"cloudflare:deploy": "pnpm --filter cloudflare deploy",
+		"netlify:dev": "netlify dev --filter netlify"
+	}
 }

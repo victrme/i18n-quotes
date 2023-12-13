@@ -1,0 +1,18 @@
+[dev]
+  autoLaunch = false
+
+  [[edge_functions]]
+  path = "/classic"
+  function = "classic"
+
+[[edge_functions]]
+  path = "/classic/*"
+  function = "classic"
+
+[[edge_functions]]
+  path = "/inspirobot"
+  function = "inspirobot"
+
+[[edge_functions]]
+  path = "/kaamelott"
+  function = "kaamelott"

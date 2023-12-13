@@ -23,53 +23,35 @@ interface Inspirobot {
 }
 
 const QUOTES_VERSION: string = '13122023'
-const CDN_BASE_URL: string = 'https://cdn.jsdelivr.net/gh/victrme/i18n-quotes@main/'
+const CDN_BASE_URL: string = 'https://cdn.jsdelivr.net/gh/victrme/i18n-quotes@main/quotes/'
 
 //
 //
 //
 
-export async function classic(lang: string, amount = 20): Promise<Quotes.List> {
-	let result: Quotes.List = []
-
-	try {
-		console.log(lang)
-		lang = isValidLang(lang) ? lang : 'en'
-
-		const url = `${CDN_BASE_URL}/quotes/${lang}.json?v=${QUOTES_VERSION}`
-		const resp = await fetch(url)
-		const json = await resp.json()
-
-		result = getRandomSample(json, amount)
-	} catch (error) {
-		console.log(error)
-	}
-
-	return result
+export async function classic(lang: string, amount?: number): Promise<Quotes.List> {
+	return await jsonFileQuotes(validLang(lang), amount)
 }
 
-export async function kaamelott(amount = 20): Promise<Quotes.List> {
-	let result: Quotes.List = []
-
-	try {
-		const url = `${CDN_BASE_URL}/quotes/kaamelott.json?v=${QUOTES_VERSION}`
-		const resp = await fetch(url)
-		const json = await resp.json()
-
-		result = getRandomSample(json, amount)
-	} catch (error) {
-		console.log(error)
-	}
-
-	return result
+export async function kaamelott(amount?: number): Promise<Quotes.List> {
+	return await jsonFileQuotes('kaamelott', amount)
 }
 
 export async function inspirobot(): Promise<Quotes.List> {
 	const promises: Promise<Response>[] = []
 	let result: Quotes.List = []
+	let sessionID = ''
 
-	for (let i = 0; i < 10; i++) {
-		promises.push(fetch('https://inspirobot.me/api?generateFlow=1'))
+	try {
+		const resp = await fetch('https://inspirobot.me/api?getSessionID=1')
+		const text = await resp.text()
+		sessionID += `&sessionID=${text}`
+	} catch (err) {
+		console.warn(err)
+	}
+
+	for (let i = 0; i < 8; i++) {
+		promises.push(fetch(`https://inspirobot.me/api?generateFlow=1${sessionID}`))
 	}
 
 	const responses = await Promise.all(promises)
@@ -91,7 +73,15 @@ export async function inspirobot(): Promise<Quotes.List> {
 //	Helpers
 //
 
-function getRandomSample(list: [], amount = 20): Quotes.List {
+async function jsonFileQuotes(filename: Quotes.Langs | 'kaamelott', amount?: number): Promise<Quotes.List> {
+	const path = `${CDN_BASE_URL}${filename}.json?v=${QUOTES_VERSION}`
+	const resp = await fetch(path)
+	const json = await resp.json()
+
+	return amount === undefined ? json : getRandomSample(json, amount)
+}
+
+function getRandomSample(list: Quotes.List, amount: number): Quotes.List {
 	let result: typeof list = []
 
 	for (let i = 0; i < amount; i++) {
@@ -101,9 +91,10 @@ function getRandomSample(list: [], amount = 20): Quotes.List {
 	return result
 }
 
-function isValidLang(lang: string): lang is Quotes.Langs {
+function validLang(lang: string): Quotes.Langs {
 	const langs: Quotes.Langs[] = ['en', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'sv']
-	return langs.includes(lang as any)
+	const isLang = (l: string): l is Quotes.Langs => langs.includes(l as any)
+	return isLang(lang) ? lang : 'en'
 }
 
 function quotefilter(quote: string): boolean {

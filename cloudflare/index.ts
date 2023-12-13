@@ -15,11 +15,11 @@ export default {
 
 		switch (type) {
 			case 'classic': {
-				return new Response(JSON.stringify(await classic(lang)), { headers })
+				return new Response(JSON.stringify(await classic(lang, 20)), { headers })
 			}
 
 			case 'kaamelott': {
-				return new Response(JSON.stringify(await kaamelott()), { headers })
+				return new Response(JSON.stringify(await kaamelott(20)), { headers })
 			}
 
 			case 'inspirobot': {

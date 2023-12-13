@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist",
+		"target": "ESNext",
+		"module": "ESNext",
+		"moduleResolution": "Bundler",
+		"lib": ["ESNext", "DOM"],
+		"strict": true,
+		"declaration": true,
+		"resolveJsonModule": true
+	},
+	"include": ["src"],
+	"exclude": ["src/tests"]
+}

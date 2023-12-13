@@ -1,14 +1,29 @@
 {
 	"name": "@victr/i18n-quotes",
-	"version": "3.0.1",
+	"version": "4.0.0",
 	"description": "Retrieves random quotes with different languages",
-	"keywords": [],
+	"keywords": [
+		"quotes",
+		"i18n"
+	],
 	"author": "Victor Azevedo",
 	"license": "ISC",
+	"type": "module",
 	"scripts": {
 		"cloudflare:dev": "pnpm --filter cloudflare dev",
 		"cloudflare:deploy": "pnpm --filter cloudflare deploy",
-		"netlify:dev": "netlify dev"
+		"netlify:dev": "netlify dev",
+		"build": "tsc"
+	},
+	"devDependencies": {
+		"vite": "^5.0.8",
+		"vitest": "^1.0.4"
+	},
+	"exports": {
+		".": {
+			"default": "./dist/index.js",
+			"types": "./dist/index.d.ts"
+		}
 	},
 	"prettier": {
 		"tabWidth": 4,

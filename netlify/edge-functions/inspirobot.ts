@@ -1,5 +1,4 @@
-import { getQuoteTypeFromURL } from '../../src/funcs.ts'
-import inspirobot from '../../src/inspirobot.ts'
+import inspirobot from '../../src/funcs/inspirobot.ts'
 
 const init: ResponseInit = {
 	headers: {
@@ -9,9 +8,10 @@ const init: ResponseInit = {
 }
 
 export default async function handler(request: Request): Promise<Response> {
-	const which = getQuoteTypeFromURL(request.url)
+	const pathname = new URL(request.url).pathname?.replace('/', '').replace('quotes/', '').split('/') ?? []
+	const type = pathname[0]
 
-	if (which.type === 'inspirobot') {
+	if (type === 'inspirobot') {
 		const resp = await inspirobot()
 		return new Response(JSON.stringify(resp), init)
 	}

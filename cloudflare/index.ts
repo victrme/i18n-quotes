@@ -1,5 +1,8 @@
-import { Quote, getQuoteTypeFromURL, getRandomSample } from '../src/funcs'
-import inspirobot from '../src/inspirobot'
+import getRandomSample from '../src/funcs/getsample'
+import isValidLang from '../src/funcs/validlang'
+import inspirobot from '../src/funcs/inspirobot'
+
+import type Quotes from '../src/types/quotes'
 
 const headers: HeadersInit = {
 	'Content-Type': 'application/json',
@@ -8,11 +11,13 @@ const headers: HeadersInit = {
 
 export default {
 	async fetch(req: Request, _: any, ctx: ExecutionContext): Promise<Response> {
-		const which = getQuoteTypeFromURL(req.url)
+		const pathname = new URL(req.url).pathname?.replace('/', '').replace('quotes/', '').split('/') ?? []
+		const lang = pathname ? pathname[1] ?? 'en' : 'en'
+		const type = pathname[0]
 
-		switch (which.type) {
+		switch (type) {
 			case 'classic': {
-				const full = await cacheControl(ctx, which.lang)
+				const full = await cacheControl(ctx, isValidLang(lang) ? lang : 'en')
 				return new Response(JSON.stringify(getRandomSample(full)), { headers })
 			}
 
@@ -35,7 +40,7 @@ export default {
 	},
 }
 
-async function cacheControl(ctx: ExecutionContext, query: string): Promise<Quote[]> {
+async function cacheControl(ctx: ExecutionContext, query: string): Promise<Quotes.List> {
 	const url = 'https://raw.githubusercontent.com/victrme/i18n-quotes/main/quotes/' + query + '.json?v=0.0.0'
 	const cacheKey = new Request(url)
 	const cache = caches.default
@@ -49,5 +54,5 @@ async function cacheControl(ctx: ExecutionContext, query: string): Promise<Quote
 		ctx.waitUntil(cache.put(cacheKey, response.clone()))
 	}
 
-	return response.json<Quote[]>()
+	return response.json<Quotes.List>()
 }

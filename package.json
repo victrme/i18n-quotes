@@ -8,6 +8,13 @@
 	"scripts": {
 		"cloudflare:dev": "pnpm --filter cloudflare dev",
 		"cloudflare:deploy": "pnpm --filter cloudflare deploy",
-		"netlify:dev": "netlify dev --filter netlify"
+		"netlify:dev": "netlify dev"
+	},
+	"prettier": {
+		"tabWidth": 4,
+		"semi": false,
+		"useTabs": true,
+		"printWidth": 120,
+		"singleQuote": true
 	}
 }

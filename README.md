@@ -1,8 +1,6 @@
 # Quotes API used by Bonjourr Startpage
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fd641d8d-e6a3-40cb-9f42-47ca4cdef95b/deploy-status)](https://app.netlify.com/sites/incandescent-pavlova-36bd49/deploys)
-
-[![Tests](https://github.com/victrme/i18n-quotes/actions/workflows/test.yaml/badge.svg?event=push)](https://github.com/victrme/i18n-quotes/actions/workflows/test.yaml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fd641d8d-e6a3-40cb-9f42-47ca4cdef95b/deploy-status)](https://app.netlify.com/sites/incandescent-pavlova-36bd49/deploys)  [![Tests](https://github.com/victrme/i18n-quotes/actions/workflows/test.yaml/badge.svg?event=push)](https://github.com/victrme/i18n-quotes/actions/workflows/test.yaml)
 
 ### `/classic`
 

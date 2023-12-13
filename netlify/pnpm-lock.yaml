@@ -3,3 +3,14 @@ lockfileVersion: '6.0'
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
+
+devDependencies:
+  '@netlify/edge-functions':
+    specifier: ^2.2.0
+    version: 2.2.0
+
+packages:
+
+  /@netlify/edge-functions@2.2.0:
+    resolution: {integrity: sha512-8UeKA2nUDB0oWE+Z0gLpA7wpLq8nM+NrZEQMfSdzfMJNvmYVabil/mS07rb0EBrUxM9PCKidKenaiCRnPTBSKw==}
+    dev: true

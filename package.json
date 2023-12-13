@@ -12,18 +12,11 @@
 	"scripts": {
 		"cloudflare:dev": "pnpm --filter cloudflare dev",
 		"cloudflare:deploy": "pnpm --filter cloudflare deploy",
-		"netlify:dev": "netlify dev",
-		"build": "tsc"
+		"netlify:dev": "netlify dev --filter netlify --framework #static"
 	},
 	"devDependencies": {
 		"vite": "^5.0.8",
 		"vitest": "^1.0.4"
-	},
-	"exports": {
-		".": {
-			"default": "./dist/index.js",
-			"types": "./dist/index.d.ts"
-		}
 	},
 	"prettier": {
 		"tabWidth": 4,

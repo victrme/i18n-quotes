@@ -1,7 +1,0 @@
-{
-	"compilerOptions": {
-		"lib": ["ESNext"],
-		"types": ["@cloudflare/workers-types"]
-	},
-	"include": ["index.ts"]
-}

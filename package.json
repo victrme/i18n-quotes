@@ -12,7 +12,8 @@
 	"scripts": {
 		"cloudflare:dev": "pnpm --filter cloudflare dev",
 		"cloudflare:deploy": "pnpm --filter cloudflare deploy",
-		"netlify:dev": "netlify dev --filter netlify --framework #static"
+		"netlify:dev": "netlify dev --filter netlify --framework #static",
+		"test": "vitest --run"
 	},
 	"devDependencies": {
 		"vite": "^5.0.8",

@@ -1,113 +1,146 @@
-# Quotes API used by Bonjourr Startpage
+# A Quotes API used by Bonjourr
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fd641d8d-e6a3-40cb-9f42-47ca4cdef95b/deploy-status)](https://app.netlify.com/sites/incandescent-pavlova-36bd49/deploys)  [![Tests](https://github.com/victrme/i18n-quotes/actions/workflows/test.yaml/badge.svg?event=push)](https://github.com/victrme/i18n-quotes/actions/workflows/test.yaml)
 
-### `/classic`
+This API returns quotes using 3 different providers: 
+- Random quotes found on the internet
+- Inspirational quotes by inspirobot
+- Famous quotes from the tv show kaamelott
 
-A single random english quote
+⚠️ For performance reasons when used in [Bonjourr API](https://github.com/victrme/bonjourr-apis), classic and kaamelott quotes are fetched from this repo using [jsDelivr CDN](https://www.jsdelivr.com/github). This may cause problem when forking this repo. 
+
+## Run and deploy
+
+This API can easily be deployed as a Cloudflare Worker or a Netlify Edge Function. Other integrations might be added in the future.
+
+```bash
+# pnpm is needed in package scripts
+npm install --global pnpm
+```
+
+### Cloudflare Worker
+
+```bash
+npm install --global wrangler
+
+# dev
+pnpm cloudflare:dev
+
+# ⎔ Starting local server...
+# Ready on http://127.0.0.1:8787  
+
+# deploy
+pnpm cloudflare:deploy
+```
+
+
+### Netlify Edge Function
+
+```bash
+npm install --global netlify
+
+# dev
+pnpm netlify:dev
+
+# ◈ Server now ready on http://localhost:8888 
+# ◈ Loaded edge function index
+
+# deploy using dashboard
+```
+
+## API Endpoints
+
+All endpoints return a list of quotes with the same type
+
+```typescript
+type Quotes = {
+  author: string
+  content: string
+}[]
+```
+
+### Classic
+
+Returns 20 random english quotes
 
 ```HTTP
 GET /classic
 ```
+```jsonc
+[
+  {
+    "author": "Joseph Campbell",
+    "content": "Find a place inside where there's joy, and the joy will burn out the pain."
+  },
+  {
+    "author": "Theodore Roosevelt",
+    "content": "With self-discipline most anything is possible."
+  },
+  // ...
+]
+```  
 
-```json
-{
-  "author": "Joseph Campbell",
-  "content": "Find a place inside where there's joy, and the joy will burn out the pain."
-}
-```
-
-### `/classic/:lang`
-
-A single random quote from a specified language
+Returns 20 random quotes from a specified language
 
 ```HTTP
-GET /classic/fr
+GET /classic/:lang
 ```
 
-```json
-{
-  "author": "Socrate",
-  "content": "Tout ce que je sais, c'est que je ne sais rien."
-}
+```jsonc
+[
+  {
+    "author": "Socrate",
+    "content": "Tout ce que je sais, c'est que je ne sais rien."
+  },
+  {
+    "content": "L’enthousiasme a toujours engendré la certitude.",
+    "author": "Alfred Espinas"
+  },
+  // ...
+]
+
 ```
 
-### `/inspirobot`
+### Inspirobot
 
-A CORS enabled proxy for Inspirobot API 
+Returns at least 10 quotes from [Inspirobot](https://inspirobot.me/) 
 
 ```HTTP
 GET /inspirobot
 ```
 
-```json
-{
-  "data": [
-    {
-      "duration": 2,
-      "image": "q3rUTmpZB-Q",
-      "type": "transition",
-      "time": 0
-    },
-    {
-      "duration": 1.7,
-      "text": "Sheep are hurting society.",
-      "type": "quote",
-      "time": 4
-    },
-    {
-      "duration": 2,
-      "image": "aOuy0kyXszo",
-      "type": "transition",
-      "time": 10
-    },
-    {
-      "duration": 3.2,
-      "text": "Don't forget that past lives make people look awful.",
-      "type": "quote",
-      "time": 15
-    },
-    {
-      "duration": 2,
-      "image": "ilfsT5p_qvA",
-      "type": "transition",
-      "time": 22
-    },
-    {
-      "duration": 1.2,
-      "text": "Pigs are stressed.",
-      "type": "quote",
-      "time": 27
-    },
-    {
-      "type": "stop",
-      "time": 32
-    }
-  ],
-  "mp3": "https://generated.inspirobot.me/flow012/b9b1a2cf.mp3"
-}
+```jsonc
+[
+  {
+    "author": "Inspirobot",
+    "content": "Depressions can become memorable."
+  },
+  {
+    "author": "Inspirobot",
+    "content": "Notice how your left nostril is connecting to your heart."
+  },
+  // ...
+]
 ```
 
-### `/kaamelott`
+### Kaamelott
 
-A CORS enabled proxy for Kaamelott quotes API
+Returns 20 quotes from a list of kaamelott quotes shamelessly stolen from another repo i'll credit when found
 
 ```HTTP
 GET /kaamelott
 ```
 
-```json
-{
-  "status": 1,
-  "citation": {
-    "citation": "Faut arrêter ces conneries de nord et de sud ! Une fois pour toutes, le nord, suivant comment on est tourné, ça change tout !",
-    "infos": {
-      "auteur": "Alexandre Astier",
-      "acteur": "Franck Pitiot",
-      "personnage": "Perceval",
-      "saison": "Livre I ",
-      "episode": "Ambidextrie "
-    }
-  }
-}
+```jsonc
+[
+  {
+    "author": "Le Roi Burgonde",
+    "content": "Arthour !… Pas changer assiette pour fromage !"
+  },
+  {
+    "author": "Perceval",
+    "content": "Là, vous faites sirop de vingt-et-un et vous dites: beau sirop, mi-sirop, siroté, gagne-sirop, sirop-grelot, passe-montagne, sirop au bon goût."
+  },
+  // ...
+]
 ```

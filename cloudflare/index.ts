@@ -9,11 +9,12 @@ const headers: HeadersInit = {
 
 export default {
 	async fetch(req: Request): Promise<Response> {
-		const pathname = new URL(req.url).pathname?.replace('/', '').replace('quotes/', '').split('/') ?? []
+		const pathname = new URL(req.url).pathname?.replace('/', '').replace('quotes/', '').split('/')
 		const lang = pathname ? pathname[1] ?? 'en' : 'en'
 		const type = pathname[0]
 
 		switch (type) {
+			case '':
 			case 'classic': {
 				return new Response(JSON.stringify(await classic(lang, 20)), { headers })
 			}

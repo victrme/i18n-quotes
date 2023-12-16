@@ -9,9 +9,10 @@ const headers: HeadersInit = {
 
 export default {
 	async fetch(req: Request): Promise<Response> {
-		const pathname = new URL(req.url).pathname?.replace('/', '').replace('quotes/', '').split('/')
-		const lang = pathname ? pathname[1] ?? 'en' : 'en'
-		const type = pathname[0]
+		const url = new URL(req.url)
+		const pathname = url.pathname.replace('/quotes', '').split('/')
+		const lang = pathname[2] ? pathname[2] : 'en'
+		const type = pathname[1] ?? ''
 
 		switch (type) {
 			case '':
@@ -28,7 +29,7 @@ export default {
 			}
 
 			default:
-				return new Response('Not found', {
+				return new Response(JSON.stringify({ error: 'Not found' }), {
 					status: 404,
 					headers,
 				})

@@ -38,14 +38,14 @@ export async function kaamelott(amount?: number): Promise<Quotes.List> {
 }
 
 export async function inspirobot(): Promise<Quotes.List> {
-	const promises: Promise<Response>[] = []
+	const responses: Response[] = []
 	let result: Quotes.List = []
 
-	for (let i = 0; i < 8; i++) {
-		promises.push(fetch(`https://inspirobot.me/api?generateFlow=1`))
-	}
+	// Split the requests at max 5 to avoid reaching simultaneous open connections limit
+	// https://developers.cloudflare.com/workers/platform/limits/#simultaneous-open-connections
 
-	const responses = await Promise.all(promises)
+	responses.push(...(await fetchInspirobotResponses(5)))
+	responses.push(...(await fetchInspirobotResponses(5)))
 
 	if (responses.every((r) => r.status === 200)) {
 		for (const resp of responses) {
@@ -70,6 +70,16 @@ async function jsonFileQuotes(filename: Quotes.Langs | 'kaamelott', amount?: num
 	const json = await resp.json()
 
 	return amount === undefined ? json : getRandomSample(json, amount)
+}
+
+function fetchInspirobotResponses(amount: number): Promise<Response[]> {
+	const url = 'https://inspirobot.me/api?generateFlow=1'
+	const promises: Promise<Response>[] = []
+
+	return new Promise<Response[]>((resolve) => {
+		for (let i = 0; i <= amount; i++) promises.push(fetch(url))
+		Promise.all(promises).then((r) => resolve(r))
+	})
 }
 
 function getRandomSample(list: Quotes.List, amount: number): Quotes.List {

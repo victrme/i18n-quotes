@@ -44,8 +44,8 @@ export async function inspirobot(): Promise<Quotes.List> {
 	// Split the requests at max 5 to avoid reaching simultaneous open connections limit
 	// https://developers.cloudflare.com/workers/platform/limits/#simultaneous-open-connections
 
-	responses.push(...(await fetchInspirobotResponses(5)))
-	responses.push(...(await fetchInspirobotResponses(5)))
+	responses.push(...(await fetchInspirobotResponses(4)))
+	responses.push(...(await fetchInspirobotResponses(4)))
 
 	if (responses.every((r) => r.status === 200)) {
 		for (const resp of responses) {

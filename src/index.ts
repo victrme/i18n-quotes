@@ -40,18 +40,9 @@ export async function kaamelott(amount?: number): Promise<Quotes.List> {
 export async function inspirobot(): Promise<Quotes.List> {
 	const promises: Promise<Response>[] = []
 	let result: Quotes.List = []
-	let sessionID = ''
-
-	try {
-		const resp = await fetch('https://inspirobot.me/api?getSessionID=1')
-		const text = await resp.text()
-		sessionID += `&sessionID=${text}`
-	} catch (err) {
-		console.warn(err)
-	}
 
 	for (let i = 0; i < 8; i++) {
-		promises.push(fetch(`https://inspirobot.me/api?generateFlow=1${sessionID}`))
+		promises.push(fetch(`https://inspirobot.me/api?generateFlow=1`))
 	}
 
 	const responses = await Promise.all(promises)

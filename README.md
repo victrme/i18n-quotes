@@ -1,6 +1,6 @@
 # A Quotes API used by Bonjourr
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fd641d8d-e6a3-40cb-9f42-47ca4cdef95b/deploy-status)](https://app.netlify.com/sites/incandescent-pavlova-36bd49/deploys)  [![Tests](https://github.com/victrme/i18n-quotes/actions/workflows/test.yaml/badge.svg?event=push)](https://github.com/victrme/i18n-quotes/actions/workflows/test.yaml)
+[![Tests](https://github.com/victrme/i18n-quotes/actions/workflows/test.yaml/badge.svg?event=push)](https://github.com/victrme/i18n-quotes/actions/workflows/test.yaml)
 
 This API returns quotes using 3 different providers: 
 - Random quotes found on the internet
@@ -125,7 +125,7 @@ GET /inspirobot
 
 ### Kaamelott
 
-Returns 20 quotes from a list of kaamelott quotes shamelessly stolen from another repo i'll credit when found
+Returns 20 quotes from a list of kaamelott quotes shamelessly stolen from [sin0light/api-kaamelott](https://github.com/sin0light/api-kaamelott).
 
 ```HTTP
 GET /kaamelott

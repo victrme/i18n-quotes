@@ -1,8 +1,0 @@
-{
-	"name": "netlify",
-	"private": true,
-	"description": "Retrieves random quotes with different languages",
-	"devDependencies": {
-		"@netlify/edge-functions": "^2.2.0"
-	}
-}

@@ -1,8 +1,11 @@
 {
 	"name": "cloudflare",
-	"description": "Retrieves random quotes with different languages",
+	"private": true,
 	"scripts": {
 		"dev": "wrangler dev",
 		"deploy": "wrangler deploy"
+	},
+	"dependencies": {
+		"wrangler": "^3.80.4"
 	}
 }

@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { Quotes, classic, kaamelott, inspirobot } from '.'
+import { Langs, Quote, classic, kaamelott, inspirobot } from '.'
 
 describe('Classic', () => {
 	it('has valid type', async () => {
@@ -25,7 +25,7 @@ describe('Classic', () => {
 	})
 
 	it('all langs are working', async () => {
-		const langs: Quotes.Langs[] = ['en', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'sv']
+		const langs: Langs[] = ['en', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'sv']
 		let strings: string[] = []
 		let string = ''
 
@@ -62,12 +62,7 @@ describe('Kaamelott', function () {
 })
 
 describe('Inspirobot', function () {
-	let list: Quotes.List = []
-
-	it('connects to inspirobot servers', async function () {
-		const response = await fetch('https://inspirobot.me/api?getSessionID=1')
-		expect(response.status).toBe(200)
-	})
+	let list: Quote[] = []
 
 	it('has valid type', async function () {
 		list = await inspirobot()
@@ -92,7 +87,7 @@ function isOfTypeQuotesList(list: any): boolean {
 	)
 }
 
-function quotesToString(list: Quotes.List) {
+function quotesToString(list: Quote[]) {
 	return list
 		.map((a) => a.content + a.author)
 		.flat()

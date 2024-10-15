@@ -25,7 +25,7 @@ export default {
 			}
 
 			case 'inspirobot': {
-				return new Response(JSON.stringify(await inspirobot()), { headers })
+				return new Response(JSON.stringify(await inspirobot(20)), { headers })
 			}
 
 			default:

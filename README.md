@@ -7,7 +7,7 @@ This API returns quotes using 3 different providers:
 - Inspirational quotes by inspirobot
 - Famous quotes from the tv show kaamelott
 
-⚠️ For performance reasons when used in [Bonjourr API](https://github.com/victrme/bonjourr-apis), classic and kaamelott quotes are fetched from this repo using [jsDelivr CDN](https://www.jsdelivr.com/github). This may cause problem when forking this repo. 
+⚠️ For performance reasons when used in [Bonjourr API](https://github.com/victrme/bonjourr-apis), quotes are fetched from this repo using [jsDelivr CDN](https://www.jsdelivr.com/github). This may cause problem when forking this repo. 
 
 ## Run and deploy
 
@@ -103,7 +103,7 @@ GET /classic/:lang
 
 ### Inspirobot
 
-Returns at least 10 quotes from [Inspirobot](https://inspirobot.me/) 
+Returns 20 quotes from [Inspirobot](https://inspirobot.me/) 
 
 ```HTTP
 GET /inspirobot

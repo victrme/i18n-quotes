@@ -1,4 +1,4 @@
-import { classic, kaamelott, inspirobot, stoic } from '../src/'
+import { classic, kaamelott, inspirobot, stoic, hitokoto } from '../src/'
 
 const headers: HeadersInit = {
 	'Content-Type': 'application/json',
@@ -30,6 +30,10 @@ export default {
 
 			case 'stoic': {
 				return new Response(JSON.stringify(await stoic(20)), { headers })
+			}
+
+			case 'hitokoto': {
+				return new Response(JSON.stringify(await hitokoto(20)), { headers })
 			}
 
 			default:

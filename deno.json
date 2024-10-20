@@ -1,11 +1,8 @@
 {
-	"nodeModulesDir": "auto",
 	"tasks": {
 		"dev": "wrangler dev",
-		"deploy": "wrangler deploy"
-	},
-	"imports": {
-		"wrangler": "npm:wrangler@^3.81.0"
+		"deploy": "wrangler deploy",
+		"test": "deno test --allow-net"
 	},
 	"prettier": {
 		"tabWidth": 4,

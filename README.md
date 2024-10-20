@@ -13,19 +13,26 @@ This API returns quotes using 3 different providers:
 This API can easily be deployed as a Cloudflare Worker.
 
 ```bash
-deno install -allow-scripts
+deno install --global npm:wrangler
 
-# dev
-deno run dev --allow-net
-
-# ⎔ Starting local server...
-# Ready on http://127.0.0.1:8787
+# ✅ Successfully installed wrangler
 
 # test
 deno test --allow-net
 
+# ok | 3 passed (9 steps) | 0 failed (1s)
+
+# dev
+wrangler dev
+
+# ⎔ Starting local server...
+# Ready on http://127.0.0.1:8787
+
 # deploy
 deno run deploy --allow-net
+
+# Total Upload: 1.96 KiB / gzip: 0.89 KiB
+# Uploaded i18n-quotes (8.39 sec)
 ```
 
 ## API Endpoints
@@ -49,15 +56,15 @@ GET /classic
 
 ```jsonc
 [
-	{
-		"author": "Joseph Campbell",
-		"content": "Find a place inside where there's joy, and the joy will burn out the pain."
-	},
-	{
-		"author": "Theodore Roosevelt",
-		"content": "With self-discipline most anything is possible."
-	}
-	// ...
+  {
+    "author": "Joseph Campbell",
+    "content": "Find a place inside where there's joy, and the joy will burn out the pain."
+  },
+  {
+    "author": "Theodore Roosevelt",
+    "content": "With self-discipline most anything is possible."
+  }
+  // ...
 ]
 ```
 
@@ -69,15 +76,15 @@ GET /classic/:lang
 
 ```jsonc
 [
-	{
-		"author": "Socrate",
-		"content": "Tout ce que je sais, c'est que je ne sais rien."
-	},
-	{
-		"content": "L’enthousiasme a toujours engendré la certitude.",
-		"author": "Alfred Espinas"
-	}
-	// ...
+  {
+    "author": "Socrate",
+    "content": "Tout ce que je sais, c'est que je ne sais rien."
+  },
+  {
+    "content": "L’enthousiasme a toujours engendré la certitude.",
+    "author": "Alfred Espinas"
+  }
+  // ...
 ]
 ```
 
@@ -91,15 +98,15 @@ GET /inspirobot
 
 ```jsonc
 [
-	{
-		"author": "Inspirobot",
-		"content": "Depressions can become memorable."
-	},
-	{
-		"author": "Inspirobot",
-		"content": "Notice how your left nostril is connecting to your heart."
-	}
-	// ...
+  {
+    "author": "Inspirobot",
+    "content": "Depressions can become memorable."
+  },
+  {
+    "author": "Inspirobot",
+    "content": "Notice how your left nostril is connecting to your heart."
+  }
+  // ...
 ]
 ```
 
@@ -113,14 +120,14 @@ GET /kaamelott
 
 ```jsonc
 [
-	{
-		"author": "Le Roi Burgonde",
-		"content": "Arthour !… Pas changer assiette pour fromage !"
-	},
-	{
-		"author": "Perceval",
-		"content": "Là, vous faites sirop de vingt-et-un et vous dites: beau sirop, mi-sirop, siroté, gagne-sirop, sirop-grelot, passe-montagne, sirop au bon goût."
-	}
-	// ...
+  {
+    "author": "Le Roi Burgonde",
+    "content": "Arthour !… Pas changer assiette pour fromage !"
+  },
+  {
+    "author": "Perceval",
+    "content": "Là, vous faites sirop de vingt-et-un et vous dites: beau sirop, mi-sirop, siroté, gagne-sirop, sirop-grelot, passe-montagne, sirop au bon goût."
+  }
+  // ...
 ]
 ```

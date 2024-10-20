@@ -1,0 +1,17 @@
+{
+	"nodeModulesDir": "auto",
+	"tasks": {
+		"dev": "wrangler dev",
+		"deploy": "wrangler deploy"
+	},
+	"imports": {
+		"wrangler": "npm:wrangler@^3.81.0"
+	},
+	"prettier": {
+		"tabWidth": 4,
+		"semi": false,
+		"useTabs": true,
+		"printWidth": 120,
+		"singleQuote": true
+	}
+}

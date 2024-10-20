@@ -1,36 +1,30 @@
-import { describe, it, expect } from 'vitest'
-import { Langs, Quote, classic, kaamelott, inspirobot } from '.'
+import { Langs, Quote, getQuotes } from './index.ts'
+import { expect } from 'jsr:@std/expect'
 
-describe('Classic', () => {
-	it('has valid type', async () => {
-		const list = await classic('en', 1)
+Deno.test('Classic', async (test) => {
+	await test.step('has valid type', async () => {
+		const list = await getQuotes('en')
 		expect(isOfTypeQuotesList(list)).toBe(true)
 	})
 
-	it('returns english quotes with unknown lang', async () => {
-		const unknown = quotesToString(await classic('gljikngiuosphg'))
-		const english = quotesToString(await classic('en'))
-		expect(unknown).toEqual(english)
-	})
-
-	it('returns empty array when amount is zero', async () => {
-		const list = await classic('en', 0)
+	await test.step('returns empty array when amount is zero', async () => {
+		const list = await getQuotes('en', 0)
 		expect(list.length).toBe(0)
 	})
 
-	it('returns randomly when specifying quotes amount', async () => {
-		const first = quotesToString(await classic('', 10))
-		const second = quotesToString(await classic('', 10))
+	await test.step('returns randomly when specifying quotes amount', async () => {
+		const first = quotesToString(await getQuotes('en', 10))
+		const second = quotesToString(await getQuotes('en', 10))
 		expect(first).not.toEqual(second)
 	})
 
-	it('all langs are working', async () => {
+	await test.step('all langs are working', async () => {
 		const langs: Langs[] = ['en', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'sv']
 		let strings: string[] = []
 		let string = ''
 
 		for (const lang of langs) {
-			string = quotesToString(await classic(lang))
+			string = quotesToString(await getQuotes(lang))
 
 			if (strings.includes(string)) {
 				continue
@@ -43,33 +37,33 @@ describe('Classic', () => {
 	})
 })
 
-describe('Kaamelott', function () {
-	it('has valid type', async function () {
-		const list = await kaamelott(1)
+Deno.test('Kaamelott', async (test) => {
+	await test.step('has valid type', async function () {
+		const list = await getQuotes('kaamelott', 1)
 		expect(isOfTypeQuotesList(list)).toBe(true)
 	})
 
-	it('returns empty array when amount is zero', async () => {
-		const list = await kaamelott(0)
+	await test.step('returns empty array when amount is zero', async () => {
+		const list = await getQuotes('kaamelott', 0)
 		expect(list.length).toBe(0)
 	})
 
-	it('returns randomly when specifying quotes amount', async () => {
-		const first = quotesToString(await kaamelott(10))
-		const second = quotesToString(await kaamelott(10))
+	await test.step('returns randomly when specifying quotes amount', async () => {
+		const first = quotesToString(await getQuotes('kaamelott', 10))
+		const second = quotesToString(await getQuotes('kaamelott', 10))
 		expect(first).not.toEqual(second)
 	})
 })
 
-describe('Inspirobot', function () {
+Deno.test('Inspirobot', async (test) => {
 	let list: Quote[] = []
 
-	it('has valid type', async function () {
-		list = await inspirobot()
+	await test.step('has valid type', async function () {
+		list = await getQuotes('inspirobot')
 		expect(isOfTypeQuotesList(list)).toBe(true)
 	})
 
-	it('gets at least 10 quotes', async function () {
+	await test.step('gets at least 10 quotes', function () {
 		expect(list.length).toBeGreaterThanOrEqual(10)
 	})
 })
@@ -78,7 +72,7 @@ describe('Inspirobot', function () {
 //
 //
 
-function isOfTypeQuotesList(list: any): boolean {
+function isOfTypeQuotesList(list: unknown): boolean {
 	return (
 		Array.isArray(list) &&
 		typeof list[0] === 'object' &&

@@ -15,9 +15,8 @@ jobs:
               with:
                   node-version: 20
 
-            - uses: pnpm/action-setup@v2
+            - uses: denoland/setup-deno@v2
               with:
-                  version: latest
-                  run_install: true
+                  deno-version: v2.x
 
-            - run: pnpm test
+            - run: deno test --allow-net

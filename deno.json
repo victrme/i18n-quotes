@@ -4,11 +4,13 @@
 		"deploy": "wrangler deploy",
 		"test": "deno test --allow-net"
 	},
-	"prettier": {
-		"tabWidth": 4,
-		"semi": false,
+	"fmt": {
 		"useTabs": true,
-		"printWidth": 120,
-		"singleQuote": true
+		"lineWidth": 120,
+		"indentWidth": 4,
+		"semiColons": false,
+		"singleQuote": true,
+		"proseWrap": "preserve",
+		"include": ["src/"]
 	}
 }

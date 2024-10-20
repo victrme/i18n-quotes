@@ -1,4 +1,4 @@
-import { Langs, Quote, getQuotes } from './index.ts'
+import { getQuotes, Langs, Quote } from './index.ts'
 import { expect } from 'jsr:@std/expect'
 
 Deno.test('Classic', async (test) => {

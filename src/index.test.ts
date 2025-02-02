@@ -84,7 +84,7 @@ Deno.test('Wrong filenames', async (test) => {
 	})
 
 	await test.step('filename does not exist', async function () {
-		await getQuotes('thisFileDidNotExist', 1).catch(err => {
+		await getQuotes('thisFileDoesNotExist', 1).catch(err => {
 			expect(err.statusText).toBe("Not Found")
 			expect(err.status).toBe(404)
 		})

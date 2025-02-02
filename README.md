@@ -137,7 +137,7 @@ GET /kaamelott
 Returns 20 quotes from a list of The Office quotes shamelessly stolen from [AkashRajpurohit/the-office-api](https://github.com/AkashRajpurohit/the-office-api).
 
 ```HTTP
-GET /the-office
+GET /office
 ```
 
 ```jsonc

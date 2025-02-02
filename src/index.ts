@@ -42,7 +42,7 @@ async function worker(req: Request): Promise<Response> {
 }
 
 export async function getQuotes(filename: string, amount = 20): Promise<Quote[]> {
-	const base = 'https://cdn.jsdelivr.net/gh/Stelage/i18n-quotes@tree/main/quotes'
+	const base = 'https://cdn.jsdelivr.net/gh/victrme/i18n-quotes@refs/heads/main/quotes/'
 	const filepath = `${base}${filename}.json?v=${QUOTES_VERSION}`
 	const resp = await fetch(filepath)
 

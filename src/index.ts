@@ -1,8 +1,8 @@
 export type Quote = { author: string; content: string }
-export type QuoteType = 'classic' | 'kaamelott' | 'inspirobot' | 'stoic' | 'hitokoto'
+export type QuoteType = 'classic' | 'kaamelott' | 'inspirobot' | 'stoic' | 'hitokoto' | 'the-office'
 export type Langs = 'en' | 'fr' | 'de' | 'it' | 'nl' | 'pl' | 'ru' | 'sv'
 
-const QUOTES_VERSION = '15102024'
+const QUOTES_VERSION = '02022025'
 
 const RESPONSE_HEADERS: HeadersInit = {
 	'Content-Type': 'application/json',
@@ -27,6 +27,7 @@ async function worker(req: Request): Promise<Response> {
 	if (type === 'inspirobot') filename = 'inspirobot'
 	if (type === 'hitokoto') filename = 'hitokoto'
 	if (type === 'stoic') filename = 'stoic'
+	if (type === 'the-office') filename = 'the-office'
 
 	if (filename === '') {
 		return new Response(JSON.stringify({ error: 'Not found' }), {
@@ -41,16 +42,17 @@ async function worker(req: Request): Promise<Response> {
 }
 
 export async function getQuotes(filename: string, amount = 20): Promise<Quote[]> {
-	const base = 'https://cdn.jsdelivr.net/gh/victrme/i18n-quotes@refs/heads/main/quotes/'
+	const base = 'https://cdn.jsdelivr.net/gh/Stelage/i18n-quotes@tree/main/quotes'
 	const filepath = `${base}${filename}.json?v=${QUOTES_VERSION}`
 	const resp = await fetch(filepath)
-	const json = await resp.json()
 
-	return amount && amount > 0 ? getRandomSample(json, amount) : []
+	const json: Quote[] = resp.status === 200 ? await resp.json() : [] 
+
+	return amount && amount > 0 && json.length > 0 ? getRandomSample(json, amount) : []
 }
 
 function getRandomSample(list: Quote[], amount: number): Quote[] {
-	let result: Quote[] = []
+	const result: Quote[] = []
 	let random = 0
 
 	for (let i = 0; i < amount; i++) {

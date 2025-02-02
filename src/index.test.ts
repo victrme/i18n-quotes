@@ -68,6 +68,13 @@ Deno.test('Inspirobot', async (test) => {
 	})
 })
 
+Deno.test('The Office', async (test) => {
+	await test.step('has valid type', async function () {
+		const list = await getQuotes('the-office', 1)
+		expect(isOfTypeQuotesList(list)).toBe(true)
+	})
+})
+
 //
 //
 //

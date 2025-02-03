@@ -68,6 +68,29 @@ Deno.test('Inspirobot', async (test) => {
 	})
 })
 
+Deno.test('The Office', async (test) => {
+	await test.step('has valid type', async function () {
+		const list = await getQuotes('office', 1)
+		expect(isOfTypeQuotesList(list)).toBe(true)
+	})
+})
+
+Deno.test('Wrong filenames', async (test) => {
+	await test.step('filename is empty', async function () {
+		await getQuotes('', 1).catch(err => {
+			expect(err.statusText).toBe("Not Found")
+			expect(err.status).toBe(404)
+		})
+	})
+
+	await test.step('filename does not exist', async function () {
+		await getQuotes('thisFileDoesNotExist', 1).catch(err => {
+			expect(err.statusText).toBe("Not Found")
+			expect(err.status).toBe(404)
+		})
+	})
+})
+
 //
 //
 //

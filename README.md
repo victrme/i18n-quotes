@@ -11,45 +11,47 @@ This API returns quotes in multiple languages, and other type of quotes:
 
 ## API
 
+```plaintext
 └── quotes
-├── classic
-│ ├── en
-│ ├── fr
-│ ├── de
-│ ├── nl
-│ ├── it
-│ ├── es
-│ ├── pt-PT
-│ ├── pt-BR
-│ ├── sv
-│ ├── fi
-│ ├── pl
-│ ├── uk
-│ ├── ru
-│ ├── tr
-│ ├── ar
-│ ├── fa
-│ ├── id
-│ ├── zh-CN
-│ ├── zh-HK
-│ └── zh-TW
-├── stoic
-├── hitokoto
-├── kaamelott
-└── inspirobot
+  ├── classic
+  │ ├── en
+  │ ├── fr
+  │ ├── de
+  │ ├── nl
+  │ ├── it
+  │ ├── es
+  │ ├── pt-PT
+  │ ├── pt-BR
+  │ ├── sv
+  │ ├── fi
+  │ ├── pl
+  │ ├── uk
+  │ ├── ru
+  │ ├── tr
+  │ ├── ar
+  │ ├── fa
+  │ ├── id
+  │ ├── zh-CN
+  │ ├── zh-HK
+  │ └── zh-TW
+  ├── stoic
+  ├── hitokoto
+  ├── kaamelott
+  └── inspirobot
+```
 
 ### JSON
 
 ```json
 [
-	{
-		"author": "Author",
-		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-	},
-	{
-		"author": "Author",
-		"content": "Nam ut accumsan leo. Maecenas lobortis nunc ac vulputate efficitur."
-	}
+  {
+    "author": "Author",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "author": "Author",
+    "content": "Nam ut accumsan leo. Maecenas lobortis nunc ac vulputate efficitur."
+  }
 ]
 ```
 

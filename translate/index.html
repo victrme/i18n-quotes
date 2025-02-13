@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="shortcut icon" href="https://victr.me/apple-touch-icon.png" type="image/png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Translate Quotes</title>
+	</head>
+	<body>
+		<p>Input</p>
+		<textarea name="input" id="input">
+John Wooden
+en - All of life is peaks and valleys. Don't let the peaks get too high and the valleys too low.</textarea
+		>
+		<div><button id="submit">Generate</button></div>
+
+		<p>Output</p>
+		<textarea name="output" id="output"></textarea>
+	</body>
+</html>
+
+<script defer>
+	window.onload = function () {
+		const input = document.getElementById("input")
+		const submit = document.getElementById("submit")
+		const output = document.getElementById("output")
+
+		submit.addEventListener("click", async function () {
+			const quotes = input.value.split("\n\n")
+
+			for (const quote of quotes) {
+				await generateResponse(quote)
+			}
+		})
+	}
+
+	async function generateResponse(quote) {
+		const prompt = `"""\n${quote}\n"""`
+		const response = await fetch("http://127.0.0.1:11434/api/generate", {
+			body: JSON.stringify({ model: "translator-model", prompt, keep_alive: 600 }),
+			method: "POST",
+		})
+
+		const decoder = new TextDecoder()
+
+		for await (const chunk of response.body) {
+			let text = ""
+			const str = decoder.decode(chunk)
+
+			try {
+				const json = JSON.parse(str)
+				text = json.response
+			} catch (error) {
+				console.log(str)
+				text = "????"
+			}
+
+			output.textContent = output.textContent + text
+			output.scrollTop = output.scrollHeight
+		}
+
+		output.textContent = output.textContent + "\n\n"
+
+		return true
+	}
+
+	function quotesToString(quotes) {
+		const result = {}
+
+		for (const quote of quotes) {
+			const author = quote[0]
+
+			for (let i = 1; i < quote.length; i++) {
+				const [lang, content] = quote[i].split(" - ")
+				result[lang] += `${author}\n${content}\n\n`
+			}
+		}
+
+		console.log(result)
+	}
+</script>
+
+<style>
+	html {
+		background-color: #f4f4f4;
+	}
+
+	body {
+		margin: auto;
+		padding: 0 3em;
+	}
+
+	textarea {
+		width: 100%;
+		height: 30vh;
+		padding: 1em;
+		border: none;
+		resize: none;
+		font-size: smaller;
+	}
+
+	div {
+		text-align: center;
+		width: 100%;
+		padding: 1em;
+	}
+
+	button {
+		width: 200px;
+	}
+</style>

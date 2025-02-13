@@ -1,4 +1,4 @@
-import { getQuotes, Langs, Quote } from './index.ts'
+import { getQuotes, Langs, Quote } from '../src/index.ts'
 import { expect } from 'jsr:@std/expect'
 
 Deno.test('Classic', async (test) => {
@@ -77,15 +77,15 @@ Deno.test('The Office', async (test) => {
 
 Deno.test('Wrong filenames', async (test) => {
 	await test.step('filename is empty', async function () {
-		await getQuotes('', 1).catch(err => {
-			expect(err.statusText).toBe("Not Found")
+		await getQuotes('', 1).catch((err) => {
+			expect(err.statusText).toBe('Not Found')
 			expect(err.status).toBe(404)
 		})
 	})
 
 	await test.step('filename does not exist', async function () {
-		await getQuotes('thisFileDoesNotExist', 1).catch(err => {
-			expect(err.statusText).toBe("Not Found")
+		await getQuotes('thisFileDoesNotExist', 1).catch((err) => {
+			expect(err.statusText).toBe('Not Found')
 			expect(err.status).toBe(404)
 		})
 	})

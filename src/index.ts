@@ -11,9 +11,11 @@ const RESPONSE_HEADERS: HeadersInit = {
 	'Access-Control-Allow-Origin': '*',
 }
 
-export default { fetch: worker }
+export default {
+	fetch: worker,
+}
 
-function worker(req: Request): Promise<Response> {
+async function worker(req: Request): Promise<Response> {
 	const url = new URL(req.url)
 	const amount = parseInt(url.searchParams.get('amount') ?? '20')
 	const pathname = url.pathname.replace('/quotes', '').split('/')
@@ -29,32 +31,32 @@ function worker(req: Request): Promise<Response> {
 	if (type === 'stoic') filename = 'stoic'
 	if (type === 'office') filename = 'office'
 
-	return getQuotes(filename, amount).then(content => {
-		return new Response(JSON.stringify(content), {
+	try {
+		return new Response(JSON.stringify(await getQuotes(filename, amount)), {
 			headers: RESPONSE_HEADERS,
 		})
-	}).catch(error => {
-		return new Response(JSON.stringify({ error: error.statusText }), {
-			status: error.status,
-			headers: RESPONSE_HEADERS
-		})
-	})
+	} catch (err) {
+		return new Response(err as string, { status: 500 })
+	}
 }
 
 export async function getQuotes(filename: string, amount = 20): Promise<Quote[]> {
-	if (filename === '') return await Promise.reject({statusText: 'Not Found', status: 404})
+	if (filename === '') return await Promise.reject({ statusText: 'Not Found', status: 404 })
 	const base = 'https://cdn.jsdelivr.net/gh/victrme/i18n-quotes@refs/heads/main/quotes/'
 	const filepath = `${base}${filename}.json?v=${QUOTES_VERSION}`
-	
+
 	const controller = new AbortController()
-	return fetch(filepath, { signal: controller.signal }).then(async resp => {
-		if (resp.ok) return resp.json()
-		else return await Promise.reject(resp)
-	}).then(content => {
-		return getRandomSample(content, amount)
-	}).finally(() => {
-		controller.abort()
-	})
+	return fetch(filepath, { signal: controller.signal })
+		.then(async (resp) => {
+			if (resp.ok) return resp.json()
+			else return await Promise.reject(resp)
+		})
+		.then((content) => {
+			return getRandomSample(content, amount)
+		})
+		.finally(() => {
+			controller.abort()
+		})
 }
 
 function getRandomSample(list: Quote[], amount: number): Quote[] {

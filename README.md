@@ -1,4 +1,4 @@
-# A Quotes API used by Bonjourr
+# Quotes used by Bonjourr
 
 This API returns quotes in multiple languages, and other type of quotes:
 
@@ -8,6 +8,8 @@ This API returns quotes in multiple languages, and other type of quotes:
 -   Chinese quotes from Hikotoko
 -   Quotes from the office US
 -   Stoic quotes
+
+_Random quotes are machine translated using the [Aya Expanse 8B](https://cohere.com/research/aya) model. French translations have been used to verify their quality._
 
 ## API
 

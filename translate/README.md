@@ -55,7 +55,3 @@ fr - quote
 de - quote
 id - quote
 ```
-
-```
-
-```

@@ -1,1073 +1,4361 @@
-Thomas Sowell
-en - The most basic question is not what is best, but who shall decide what is best.
-
-Wallace Stevens
-en - The most beautiful thing in the world is, of course, the world itself.
-
-Amelia Earhart
-en - The most effective way to do it, is to do it.
-
-Anne Morrow Lindbergh
-en - The most exhausting thing in life is being insincere.
-
-Audrey Hepburn
-en - The most important thing is to enjoy your life - to be happy - it's all that matters.
-
-Kobe Bryant
-en - The most important thing is to try and inspire people so that they can be great in whatever they want to do.
-
-Alexander Pope
-en - The most positive men are the most credulous.
-
-Pierre Teilhard de Chardin
-en - The most satisfying thing in life is to have been able to give a large part of one's self to others.
-
-Bettany Hughes
-en - The occasional motivational speech gig tends to pay better than the books and television.
-
-Scott Hamilton
-en - The only disability in life is a bad attitude.
-
-Rainer Maria Rilke
-en - The only journey is the one within.
-
-Buddha
-en - The only real failure in life is not to be true to the best one knows.
-
-Lee Iacocca
-en - The only rock I know that stays steady, the only institution I know that works, is the family.
-
-Albert Einstein
-en - The only sure way to avoid making mistakes is to have no new ideas.
-
-Helen Gurley Brown
-en - The only thing that separates successful people from the ones who aren't is the willingness to work very, very hard.
-
-Ray Manzarek
-en - The only thing that ultimately matters is to eat an ice-cream cone, play a slide trombone, plant a small tree, good God, now you're free.
-
-Arthur C. Clarke
-en - The only way to discover the limits of the possible is to go beyond them into the impossible.
-
-George Carlin
-en - The other night I ate at a real nice family restaurant. Every table had an argument going.
-
-Unknown
-en - The past cannot be changed. The future is yet in your power.
-
-Henry Drummond
-en - The people who influence you are the people who believe in you.
-
-Robert Herrick
-en - The person lives twice who lives the first life well.
-
-Bennett Cerf
-en - The person who can bring the spirit of laughter into a room is indeed blessed.
-
-Norman Vincent Peale
-en - The person who sends out positive thoughts activates the world around him positively and draws back to himself positive results.
-
-Anais Nin
-en - The personal life deeply lived always expands into truths beyond itself.
-
-John Muir
-en - The power of imagination makes us infinite.
-
-Henry David Thoreau
-en - The price of anything is the amount of life you exchange for it.
-
-Winston Churchill
-en - The price of greatness is responsibility.
-
-Joseph Campbell
-en - The privilege of a lifetime is being who you are.
-
-Robert Byrne
-en - The purpose of life is a life of purpose.
-
-Dalai Lama
-en - The purpose of our lives is to be happy.
-
-Martin Luther King, Jr.
-en - The quality, not the longevity, of one's life is what is important.
-
-Theodore Roosevelt
-en - The reactionary is always willing to take a progressive attitude on any issue that is dead.
-
-Gilbert Parker
-en - The real business of life is trying to understand each other.
-
-Thomas Paine
-en - The real man smiles in trouble, gathers strength from distress, and grows brave by reflection.
-
-Zig Ziglar
-en - The real opportunity for success lies within the person and not in the job.
-
-Walter Chrysler
-en - The real secret of success is enthusiasm.
-
-Charles R. Swindoll
-en - The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.
-
-Lily Tomlin
-en - The road to success is always under construction.
-
-Saadi
-en - The rose and the thorn, and sorrow and gladness are linked together.
-
-Hannah Arendt
-en - The sad truth is that most evil is done by people who never make up their minds to be good or evil.
-
-Gloria Estefan
-en - The sad truth is that opportunity doesn't knock twice.
-
-Henry David Thoreau
-en - The secret of achievement is to hold a picture of a successful outcome in mind.
-
-Aldous Huxley
-en - The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm.
-
-Mark Twain
-en - The secret of getting ahead is getting started.
-
-Benjamin Disraeli
-en - The secret of success is constancy to purpose.
-
-Mark Twain
-en - The secret of success is making your vocation your vacation.
-
-Carl Jung
-en - The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
-
-Tom Peters
-en - The simple act of paying positive attention to people has a great deal to do with productivity.
-
-Johann Wolfgang von Goethe
-en - The soul that sees beauty may sometimes walk alone.
-
-Jimi Hendrix
-en - The story of life is quicker than the blink of an eye, the story of love is hello, goodbye.
-
-Dale Carnegie
-en - The successful man will profit from his mistakes and try again in a different way.
-
-Thomas Aquinas
-en - The things that we love tell us what we are.
-
-Luc de Clapiers
-en - The things we know best are the things we haven't been taught.
-
-Moliere
-en - The trees that are slow to grow bear the best fruit.
-
-Gilbert K. Chesterton
-en - The true object of all human life is play. Earth is a task garden; heaven is a playground.
-
-William Morris
-en - The true secret of happiness lies in taking a genuine interest in all the details of daily life.
-
-Emile Zola
-en - The truth is on the march and nothing will stop it.
-
-Eminem
-en - The truth is you don't know what is going to happen tomorrow. Life is a crazy ride, and nothing is guaranteed.
-
-Ray Kroc
-en - The two most important requirements for major success are: first, being in the right place at the right time, and second, doing something about it.
-
-Muhammad Iqbal
-en - The ultimate aim of the ego is not to see something, but to be something.
-
-Richard L. Evans
-en - The undertaking of a new action brings new strength.
-
-Jim Rohn
-en - The walls we build around us to keep sadness out also keeps out the joy.
-
-B. F. Skinner
-en - The way positive reinforcement is carried out is more important than the amount.
-
-Walt Disney
-en - The way to get started is to quit talking and begin doing.
-
-Sylvia Browne
-en - The weeds keep multiplying in our garden, which is our mind ruled by fear. Rip them out and call them by name.
-
-Horace Walpole
-en - The whole secret of life is to be interested in one thing profoundly and in a thousand things well.
-
-Bobby Knight
-en - The will to succeed is important, but what's more important is the will to prepare.
-
-Confucius
-en - The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
-
-Edward Fitzgerald
-en - The Wine of Life keeps oozing drop by drop, The Leaves of Life keep falling one by one.
-
-Baltasar Gracian
-en - The wise does at once what the fool does at last.
-
-Carl Jung
-en - The word 'happy' would lose its meaning if it were not balanced by sadness.
-
-Irena Sendler
-en - The world can be better if there's love, tolerance and humility.
-
-Armistead Maupin
-en - The world changes in direct proportion to the number of people willing to be honest about their lives.
-
-Bertrand Russell
-en - The world is full of magical things patiently waiting for our wits to grow sharper.
-
-Francis Bacon
-en - The worst men often give the best advice.
-
-Will Rogers
-en - The worst thing that happens to you may be the best thing for you if you don't let it get the best of you.
-
-Domenico Dolce
-en - The worst times can be the best if you think with positive energy.
-
-Charles Kettering
-en - The Wright brothers flew right through the smoke screen of impossibility.
-
-Robert Quillen
-en - There are glimpses of heaven to us in every act, or thought, or word, that raises us above ourselves.
-
-William J. Brennan, Jr.
-en - There are no menial jobs, only menial attitudes.
-
-William Butler Yeats
-en - There are no strangers here; Only friends you haven't yet met.
-
-Millie Bobby Brown
-en - There are positive things that come of social media as well as negative.
-
-Orison Swett Marden
-en - There are powers inside of you which, if you could discover and use, would make of you everything you ever dreamed or imagined you could become.
-
-Willa Cather
-en - There are some things you learn best in calm, and some in storm.
-
-Robert Kennedy
-en - There are those who look at things the way they are, and ask why... I dream of things that never were, and ask why not?
-
-Stephen Covey
-en - There are three constants in life... change, choice and principles.
-
-Edith Wharton
-en - There are two ways of spreading light: to be the candle or the mirror that reflects it.
-
-Conrad Hall
-en - There is a kind of beauty in imperfection.
-
-Henry Van Dyke
-en - There is a loftier ambition than merely to stand high in the world. It is to stoop down and lift mankind a little higher.
-
-Tadao Ando
-en - There is a role and function for beauty in our time.
-
-Hillary Clinton
-en - There is a sense that things, if you keep positive and optimistic about what can be done, do work out.
-
-Daniel Webster
-en - There is always room at the top.
-
-Euripides
-en - There is just one life for each of us: our own.
-
-Mahatma Gandhi
-en - There is more to life than increasing its speed.
-
-Brian Koslow
-en - There is no advertisement as powerful as a positive reputation traveling fast.
-
-Maria Mitchell
-en - There is no cosmetic for beauty like happiness.
-
-Liv Tyler
-en - There is no definition of beauty, but when you can see someone's spirit coming through, something unexplainable, that's beautiful to me.
-
-Oliver Wendell Holmes, Sr.
-en - There is no friend like an old friend who has shared our morning days, no greeting like his welcome, no homage like his praise.
-
-Nelson Mandela
-en - There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
-
-Mark Twain
-en - There is no sadder sight than a young pessimist.
-
-Jerry Seinfeld
-en - There is no such thing as fun for the whole family.
-
-John Ruskin
-en - There is no wealth but life.
-
-Richard Rorty
-en - There is nothing deep down inside us except what we have put there ourselves.
-
-Alexander the Great
-en - There is nothing impossible to him who will try.
-
-Thomas Aquinas
-en - There is nothing on this earth more to be prized than true friendship.
-
-Han Suyin
-en - There is nothing stronger in the world than gentleness.
-
-Aldous Huxley
-en - There is only one corner of the universe you can be certain of improving, and that's your own self.
-
-Robert Louis Stevenson
-en - There is only one difference between a long life and a good dinner: that, in the dinner, the sweets come last.
-
-Doris Lessing
-en - There is only one real sin and that is to persuade oneself that the second best is anything but second best.
-
-Christopher Morley
-en - There is only one success - to be able to spend your life in your own way.
-
-Edgar Cayce
-en - There is progress whether ye are going forward or backward! The thing is to move!
-
-Chanakya
-en - There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
-
-Buzz Aldrin
-en - There may be aliens in our Milky Way galaxy, and there are billions of other galaxies. The probability is almost certain that there is life somewhere in space.
-
-Brit Hume
-en - There's a certain elitism that has crept into the attitudes of some in journalism, and it played out perfectly over the issue of these little American flag lapel pins.
-
-Thomas A. Edison
-en - There's a way to do it better - find it.
-
-Willie Stargell
-en - There's nothing I value more than the closeness of friends and family, a smile as I pass someone on the street.
-
-Virgil
-en - They can conquer who believe they can.
-
-Emily Dickinson
-en - They might not need me; but they might. I'll let my head be just in sight; a smile as small as mine might be precisely their necessity.
-
-Jean Anouilh
-en - Things are beautiful if you love them.
-
-Bill Watterson
-en - Things are never quite as scary when you've got a best friend.
-
-John F. Kennedy
-en - Things do not happen. Things are made to happen.
-
-Cain Velasquez
-en - Things happen for some reason. I don't know what, but I just think about the positives, focus on getting better, and that's it.
-
-John Wooden
-en - Things turn out best for the people who make the best of the way things turn out.
-
-Anne Frank
-en - Think of all the beauty still left around you and be happy.
-
-Taisen Deshimaru
-en - Think with your whole body.
-
-Plato
-en - Thinking: the talking of the soul with itself.
-
-Hannah Arendt
-en - This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.
-
-Golda Meir
-en - Those who don't know how to weep with their whole heart, don't know how to laugh either.
-
-Tariq Ali
-en - Those who really value Ukrainian sovereignty should opt for real independence and a positive neutrality: neither a plaything of the West nor Moscow.
-
-Augustus Hare
-en - Thought is the wind, knowledge the sail, and mankind the vessel.
-
-Buddha
-en - Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.
-
-Anais Nin
-en - Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country.
-
-John Cale
-en - Time plays a role in almost every decision. And some decisions define your attitude about time.
-
 Carl Sandburg
-en - To be a good loser is to learn how to win.
+A baby is God's opinion that life should go on.
 
-John Dalberg-Acton
-en - To be able to look back upon one's past life with satisfaction is to live twice.
+William James
+A chain is no stronger than its weakest link, and life is after all a chain.
 
-Robert Louis Stevenson
-en - To be wholly devoted to some intellectual exercise is to have succeeded in life.
+Jack Dempsey
+A champion is someone who gets up when he can't.
 
-William Wordsworth
-en - To begin, begin.
-
-Max Beerbohm
-en - To give and then not feel that one has given is the very best of all ways of giving.
-
-Steve Prefontaine
-en - To give anything less than your best, is to sacrifice the gift.
-
-Dorothy Thompson
-en - To have felt too much is to end in feeling nothing.
-
-Desiderius Erasmus
-en - To know nothing is the happiest life.
-
-Albert Camus
-en - To know oneself, one should assert oneself.
-
-Buddha
-en - To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.
-
-Samuel Butler
-en - To live is like to love - all reason is against it, and all healthy instinct for it.
-
-Emily Dickinson
-en - To live is so startling it leaves little time for anything else.
-
-John Henry Newman
-en - To live is to change, and to be perfect is to have changed often.
-
-Marcus Tullius Cicero
-en - To live is to think.
-
-William Makepeace Thackeray
-en - To love and win is the best thing. To love and lose, the next best.
+Barbara Corcoran
+A complainer is like a Death Eater because there's a suction of negative energy. You can catch a great attitude from great people.
 
 Victor Hugo
-en - To love beauty is to see light.
+A compliment is something like a kiss through a veil.
 
-Jerry Seinfeld
-en - To me, if life boils down to one thing, it's movement. To live is to keep moving.
+Ayn Rand
+A creative man is motivated by the desire to achieve, not by the desire to beat others.
 
-Richard Brinsley Sheridan
-en - To smile at the jest which plants a thorn in another's breast is to become a principal in the mischief.
+Denis Waitley
+A failure is like fertilizer; it stinks to be sure, but it makes things grow faster in the future.
 
-Tony Dorsett
-en - To succeed, you need to find something to hold on to, something to motivate you, something to inspire you.
+Karl Wilhelm Friedrich Schlegel
+A family can develop only with a loving woman as its center.
 
-Lao Tzu
-en - To the mind that is still, the whole universe surrenders.
+Charles R. Swindoll
+A family is a place where principles are hammered and honed on the anvil of everyday living.
 
-Steve Jobs
-en - To turn really interesting ideas and fledgling technologies into a company that can continue to innovate for years, it requires a lot of disciplines.
+Jim Morrison
+A friend is someone who gives you total freedom to be yourself.
 
-John Wooden
-en - Today is the only day. Yesterday is gone.
+Henry Van Dyke
+A friend is what the heart needs all the time.
 
-Swami Sivananda
-en - Today is your own. Tomorrow perchance may never come.
+Aristotle
+A friend to all is a friend to none.
 
-Ethel Waters
-en - Today or any day that phone may ring and bring good news.
+John D. Rockefeller
+A friendship founded on business is better than a business founded on friendship.
 
-Edward Young
-en - Too low they build, who build beneath the stars.
-
-Oscar Wilde
-en - True friends stab you in the front.
-
-John W. Gardner
-en - True happiness involves the full use of one's power and talents.
-
-Leo Tolstoy
-en - True life is lived when tiny changes occur.
-
-Hrithik Roshan
-en - True power and true happiness are when you use your success to make others around you feel even more significant.
-
-Khalil Gibran
-en - Trust in dreams, for in them is hidden the gate to eternity.
-
-Gordon B. Hinckley
-en - Try a little harder to be a little better.
-
-Maya Angelou
-en - Try to be a rainbow in someone's cloud.
-
-Bill Copeland
-en - Try to be like the turtle - at ease in your own shell.
-
-Zig Ziglar
-en - Try to look at your weakness and convert it into your strength. That's success.
-
-Unknown
-en - Turn your face to the sun and the shadows fall behind you.
-
-Robert Frost
-en - Two roads diverged in a wood and I - I took the one less traveled by, and that has made all the difference.
-
-e. e. cummings
-en - Unbeing dead isn't being alive.
-
-Karl A. Menninger
-en - Unrest of spirit is a mark of life.
-
-Byron Katie
-en - Until we question our stressful thoughts, we remain victims of the images in our head.
-
-Francis Ford Coppola
-en - Usually, the stuff that's your best idea or work is going to be attacked the most.
-
-Lady Gaga
-en - Vanity can create a very cruel space for you if you don't know how to manage it.
-
-William Cowper
-en - Variety's the very spice of life, That gives it all its flavor.
-
-Marcus Aurelius
-en - Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
-
-Napoleon Bonaparte
-en - Victory belongs to the most persevering.
-
-Lou Holtz
-en - Virtually nothing is impossible in this world if you just put your mind to it and maintain a positive attitude.
-
-F. Scott Fitzgerald
-en - Vitality shows in not only the ability to persist but the ability to start over.
-
-Helen Keller
-en - Walking with a friend in the dark is better than walking alone in the light.
-
-Barbara Kingsolver
-en - Wars and elections are both too big and too small to matter in the long run. The daily work - that goes on, it adds up.
-
-Ralph Waldo Emerson
-en - We aim above the mark to hit the mark.
-
-Will Rogers
-en - We are all here for a spell, get all the good laughs you can.
-
-Brad Garlinghouse
-en - We are all products of our experiences, good and bad. Sometimes you learn as much from the negative experiences as you do from the positive.
-
-William Osler
-en - We are here to add what we can to life, not to get what we can from life.
-
-W. Edwards Deming
-en - We are here to make another world.
-
-Mooji
-en - We are identifying with what is passing so fear comes. We are trying to make steady and permanent what is by nature impermanent.
-
-Ellsworth Huntington
-en - We are learning, too, that the love of beauty is one of Nature's greatest healers.
-
-Paulo Coelho
-en - We are not the person other people wish we were. We are who we decide to be.
-
-Martin Luther King, Jr.
-en - We are prone to judge success by the index of our salaries or the size of our automobiles rather than by the quality of our service and relationship to mankind.
-
-Robert Hall
-en - We are to seek wisdom and understanding only in the length of days.
-
-Ronald Reagan
-en - We can't help everyone, but everyone can help someone.
-
-Lauryn Hill
-en - We can't plan life. All we can do is be available for it.
-
-Jose Ortega y Gasset
-en - We cannot put off living until we are ready.
-
-Walt Whitman
-en - We convince by our presence.
-
-Cesare Pavese
-en - We do not remember days, we remember moments.
-
-Momo Hirai
-en - We feel pressure from every angle to meet expectations, but the pressure also pushes us in a positive was as well.
-
-Michael Hudson
-en - We go forward with our heads held high, but look back and remember where we come from.
-
-Thomas Paine
-en - We have it in our power to begin the world over again.
-
-William Shakespeare
-en - We know what we are, but know not what we may be.
-
-Paul Cezanne
-en - We live in a rainbow of chaos.
-
-Rabindranath Tagore
-en - We live in the world when we love it.
-
-Orison Swett Marden
-en - We make the world we live in and shape our own environment.
-
-Maya Angelou
-en - We may encounter many defeats but we must not be defeated.
-
-E. M. Forster
-en - We must be willing to let go of the life we have planned, so as to have the life that is waiting for us.
-
-Joseph Campbell
-en - We must let go of the life we have planned, so as to accept the one that is waiting for us.
-
-Pierre Corneille
-en - We never taste happiness in perfection, our most fortunate successes are mixed with sadness.
-
-Stephen Jay Gould
-en - We pass through this world but once.
-
-Helen Hayes
-en - We relish news of our heroes, forgetting that we are extraordinary to somebody too.
-
-Winston Churchill
-en - We shall draw from the heart of suffering itself the means of inspiration and survival.
-
-Mother Teresa
-en - We shall never know all the good that a simple smile can do.
-
-T. S. Eliot
-en - We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.
-
-Saba Qamar
-en - We should learn not to hold grudges and be positive all the time because life is too short and unpredictable.
-
-A. P. J. Abdul Kalam
-en - We should not give up and we should not allow the problem to defeat us.
-
-Albert Einstein
-en - Weakness of attitude becomes weakness of character.
-
-George Eliot
-en - Wear a smile and have friends; wear a scowl and have wrinkles.
-
-Loretta Young
-en - Wearing the correct dress for any occasion is a matter of good manners.
-
-Benjamin Franklin
-en - Well done is better than well said.
-
-Sidonie Gabrielle Colette
-en - What a wonderful life I've had! I only wish I'd realized it sooner.
-
-Albrecht Durer
-en - What beauty is, I know not, though it adheres to many things.
-
-George Eliot
-en - What do we live for, if not to make life less difficult for each other?
-
-Robert H. Schuller
-en - What great thing would you attempt if you knew you could not fail?
-
-Henry David Thoreau
-en - What is called genius is the abundance of life and health.
-
-Johann Wolfgang von Goethe
-en - What is important in life is life, and not the result of life.
-
-William Wordsworth
-en - What is pride? A rocket that emulates the stars.
-
-Ralph Waldo Emerson
-en - What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.
-
-Antoine de Saint-Exupery
-en - What makes the desert beautiful is that somewhere it hides a well.
-
-Plutarch
-en - What we achieve inwardly will change outer reality.
-
-Theodore Roethke
-en - What we need is more people who specialize in the impossible.
-
-Louis Armstrong
-en - What we play is life.
-
-Wayne Dyer
-en - What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
-
-Ralph Marston
-en - What you do today can improve all your tomorrows.
-
-Sridevi
-en - What you feel inside reflects on your face. So be happy and positive all the time.
-
-Zig Ziglar
-en - What you get by achieving your goals is not as important as what you become by achieving your goals.
-
-James Joyce
-en - Whatever else is unsure in this stinking dunghill of a world a mother's love is not.
-
-James Rouse
-en - Whatever ought to be, can be.
-
-Paul J. Meyer
-en - Whatever you vividly imagine, ardently desire, sincerely believe, and enthusiastically act upon... must inevitably come to pass!
-
-Diane Sawyer
-en - Whatever you want in life, other people are going to want it too. Believe in yourself enough to accept the idea that you have an equal right to it.
-
-Christian Louboutin
-en - When a woman puts on a heel, she has a different posture, a different attitude. She really stands up and has a consciousness of her body.
-
-Pierre-Joseph Proudhon
-en - When deeds speak, words are nothing.
-
-Sydney J. Harris
-en - When I hear somebody sigh, 'Life is hard,' I am always tempted to ask, 'Compared to what?'
-
-Bill Moyers
-en - When I learn something new - and it happens every day - I feel a little more at home in this universe, a little more comfortable in the nest.
-
-Etta James
-en - When I look out at the people and they look at me and they're smiling, then I know that I'm loved. That is the time when I have no worries, no problems.
-
-Eleanor Roosevelt
-en - When life is too easy for us, we must beware or we may not be ready to meet the blows which sooner or later come to everyone, rich or poor.
-
-Robert Breault
-en - When life takes the wind out of your sails, it is to test you at the oars.
-
-Zig Ziglar
-en - When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
-
-Charlotte Whitton
-en - When one must, one can.
-
-Samuel Goldwyn
-en - When someone does something good, applaud! You will make two people happy.
-
-Maya Angelou
-en - When someone shows you who they are, believe them the first time.
-
-Wilma Rudolph
-en - When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.
-
-George Lopez
-en - When things are bad, it's the best time to reinvent yourself.
-
-Guy Lafleur
-en - When trouble comes, it's your family that supports you.
-
-Viktor E. Frankl
-en - When we are no longer able to change a situation - we are challenged to change ourselves.
-
-Helen Keller
-en - When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another.
-
-Bob Hope
-en - When we recall the past, we usually find that it is the simplest things - not the great occasions - that in retrospect give off the greatest glow of happiness.
-
-Mark Twain
-en - When we remember we are all mad, the mysteries disappear and life stands explained.
-
-William Arthur Ward
-en - When we seek to discover the best in others, we somehow bring out the best in ourselves.
-
-Richard Pryor
-en - When you ain't got no money, you gotta get an attitude.
-
-Paulo Coelho
-en - When you are enthusiastic about what you do, you feel this positive energy. It's very simple.
-
-Meister Eckhart
-en - When you are thwarted, it is your own attitude that is out of order.
-
-Robert Bresson
-en - When you do not know what you are doing and what you are doing is the best - that is inspiration.
-
-Natalie Gulbis
-en - When you fail you learn from the mistakes you made and it motivates you to work even harder.
-
-Carol Burnett
-en - When you have a dream, you've got to grab it and never let go.
-
-Norman Vincent Peale
-en - When you pray for anyone you tend to modify your personal attitude toward him.
-
-Franklin D. Roosevelt
-en - When you reach the end of your rope, tie a knot in it and hang on.
-
-Dian Fossey
-en - When you realize the value of all life, you dwell less on what is past and concentrate more on the preservation of the future.
-
-Matt Kemp
-en - When you think positive, good things happen.
-
-William Cowper
-en - Where men of judgment creep and feel their way, The positive pronounce without dismay.
-
-Jim Elliot
-en - Wherever you are - be all there.
-
-Art Buchwald
-en - Whether it's the best of times or the worst of times, it's the only time we've got.
-
-Marcus Tullius Cicero
-en - While there's life, there's hope.
-
-Lucius Annaeus Seneca
-en - While we are postponing, life speeds by.
-
-Ugo Betti
-en - Who cares about great marks left behind? We have one life... just one. Our life. We have nothing else.
-
-Sophocles
-en - Who seeks shall find.
-
-Anne Frank
-en - Whoever is happy will make others happy too.
-
-Virgil van Dijk
-en - Why be negative when you can enjoy life and be positive? That's something I learned over the years.
-
-Joel Osteen
-en - Why don't you start believing that no matter what you have or haven't done, that your best days are still out in front of you.
-
-Dr. Seuss
-en - Why fit in when you were born to stand out?
-
-Clara Schumann
-en - Why hurry over beautiful things? Why not linger and enjoy them?
-
-Robert Kiyosaki
-en - Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.
-
-Brian Tracy
-en - Winners make a habit of manufacturing their own positive expectations in advance of the event.
-
-Confucius
-en - Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
-
-Doris Roberts
-en - With my talent, I can make people laugh and give them another attitude about life. What a blessing that is for me.
-
-Amelia Barr
-en - With renunciation life begins.
-
-Theodore Roosevelt
-en - With self-discipline most anything is possible.
-
-Eleanor Roosevelt
-en - With the new day comes new strength and new thoughts.
-
-Ralph Waldo Emerson
-en - With the past, I have nothing to do; nor with the future. I live now.
-
-Andre Maurois
-en - Without a family, man, alone in the world, trembles with the cold.
-
-Johannes Brahms
-en - Without craftsmanship, inspiration is a mere reed shaken in the wind.
-
-Gordon B. Hinckley
-en - Without hard work, nothing grows but weeds.
-
-Lou Holtz
-en - Without self-discipline, success is impossible, period.
-
-Grace Kelly
-en - Women's natural role is to be a pillar of the family.
-
-Abraham Joshua Heschel
-en - Wonder rather than doubt is the root of all knowledge.
-
-Jim Rohn
-en - Work hard at your job and you can make a living. Work hard on yourself and you can make a fortune.
-
-George Allen, Sr.
-en - Work hard, stay positive, and get up early. It's the best part of the day.
-
-Leo Buscaglia
-en - Worry never robs tomorrow of its sorrow, it only saps today of its joy.
-
-Jimmy Buffett
-en - Wrinkles will only go where the smiles have been.
-
-Theodor W. Adorno
-en - Wrong life cannot be lived rightly.
-
-Lyndon B. Johnson
-en - Yesterday is not ours to recover, but tomorrow is ours to win or lose.
-
-Khalil Gibran
-en - Yesterday we obeyed kings and bent our necks before emperors. But today we kneel only to truth, follow only beauty, and obey only love.
-
-Richard Bach
-en - You are always free to change your mind and choose a different future, or a different past.
-
-Les Brown
-en - You are never too old to set another goal or to dream a new dream.
-
-Ted Turner
-en - You can never quit. Winners never quit, and quitters never win.
-
-Oliver Goldsmith
-en - You can preach a better sermon with your life than with your lips.
-
-Henry Ford
-en - You can't build a reputation on what you are going to do.
-
-Rabindranath Tagore
-en - You can't cross the sea merely by standing and staring at the water.
-
-Flip Wilson
-en - You can't expect to hit the jackpot if you don't put a few nickels in the machine.
-
-Deepak Chopra
-en - You can't make positive choices for the rest of your life without an environment that makes those choices easy, natural, and enjoyable.
-
-Jack London
-en - You can't wait for inspiration. You have to go after it with a club.
-
-Russell Simmons
-en - You cannot find it anywhere, because it is located inside you... happiness is your natural state.
-
-Joyce Meyer
-en - You cannot have a positive life and a negative mind.
-
-Zig Ziglar
-en - You cannot tailor-make the situations in life but you can tailor-make the attitudes to fit those situations.
-
-Max Lucado
-en - You change your life by changing your heart.
-
-Shakti Gawain
-en - You create your opportunities by asking for them.
-
-John Cleese
-en - You don't have to be the Dalai Lama to tell people that life's about change.
-
-Sandra Bullock
-en - You don't have to give birth to someone to have a family.
-
-Harvey S. Firestone
-en - You get the best out of others when you get the best out of yourself.
-
-Winston Churchill
-en - You have enemies? Good. That means you've stood up for something, sometime in your life.
-
-Vernon Howard
-en - You have succeeded in life when all you really want is only what you really need.
-
-Eleanor Roosevelt
-en - You have to accept whatever comes and the only important thing is that you meet it with courage and with the best that you have to give.
-
-Suzanne Vega
-en - You have to defend your honor. And your family.
-
-Unknown
-en - You have to learn the rules of the game. And then you have to play better than anyone else.
-
-Denis Diderot
-en - You have to make it happen.
-
-Edwin van der Sar
-en - You hope to bring your 'A Game' to any game, and of course you do in a final. You hope to bring experience, fitness, communication skills, motivational skills.
-
-Babe Ruth
-en - You just can't beat the person who never gives up.
-
-Richard Bandler
-en - You know what ? Certain people think they will feel good if certain things happen The trick is : you have to feel good for no reason
-
-Don Rickles
-en - You know what's funny to me? Attitude.
-
-Norman Schwarzkopf
-en - You learn far more from negative leadership than from positive leadership. Because you learn how not to do it. And, therefore, you learn how to do it.
-
-Anita Baker
-en - You leave home to seek your fortune and, when you get it, you go home and share it with your family.
-
-Alejandro Jodorowsky
-en - You live in the image you have of the world. Every one of us lives in a different world, with different space and different time.
-
-Maxwell Maltz
-en - You make mistakes. Mistakes don't make you.
-
-Eleanor Roosevelt
-en - You must do the things you think you cannot do.
-
-Emmet Fox
-en - You must not under any pretense allow your mind to dwell on any thought that is not positive, constructive, optimistic, kind.
-
-H. Jackson Brown, Jr.
-en - You must take action now that will move you towards your goals. Develop a sense of urgency in your life.
-
-George S. Patton
-en - You need to overcome the tug of people against you as you reach for high goals.
-
-R. Buckminster Fuller
-en - You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
-
-Cicely Tyson
-en - You never know what motivates you.
-
-George Lucas
-en - You simply have to put one foot in front of the other and keep going. Put blinders on and plow right ahead.
-
-Angelique Kerber
-en - You will always have ups and downs in your life and your career, but just stay positive and go for it.
-
-Albert Camus
-en - You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
-
-Joel Osteen
-en - You will never change what you tolerate.
-
-Helen Rowland
-en - You will never win if you never begin.
-
-Charles de Gaulle
-en - You'll live. Only the best get killed.
-
-Joel Osteen
-en - You're going to go through tough times - that's life. But I say, 'Nothing happens to you, it happens for you.' See the positive in negative events.
-
-Walter Hagen
-en - You're only here for a short visit. Don't hurry, don't worry. And be sure to smell the flowers along the way.
-
-Brian Tracy
-en - Your ability to discipline yourself to set clear goals, and then to work toward them every day, will do more to guarantee your success than any other single factor.
-
-Zig Ziglar
-en - Your attitude, not your aptitude, will determine your altitude.
+William Hazlitt
+A gentle word, a kind look, a good-natured smile can work wonders and accomplish miracles.
 
 Napoleon Hill
-en - Your big opportunity may be right where you are now.
+A goal is a dream with a deadline.
 
-Anita DeFrantz
-en - Your goal should be out of reach but not out of sight.
+William Makepeace Thackeray
+A good laugh is sunshine in the house.
 
-Morihei Ueshiba
-en - Your heart is full of fertile seeds, waiting to sprout.
+George S. Patton
+A good plan violently executed now is better than a perfect plan executed next week.
 
-Norman Cousins
-en - Your heaviest artillery will be your will to live. Keep that big gun going.
+George Bernard Shaw
+A happy family is but an earlier heaven.
 
-Jim Rohn
-en - Your life does not get better by chance, it gets better by change.
+Jean Ingelow
+A healthful hunger for a great idea is the beauty and blessedness of life.
 
-Desmond Tutu
-en - Your ordinary acts of love and hope point to the extraordinary promise that every human life is of inestimable value.
+Tom Stoppard
+A healthy attitude is contagious but don't wait to catch it from others. Be a carrier.
+
+Ralph Waldo Emerson
+A hero is no braver than an ordinary man, but he is brave five minutes longer.
+
+John F. Kennedy
+A journey to Thousand miles begins with one step
+
+Washington Irving
+A kind heart is a fountain of gladness, making everything in its vicinity freshen into smiles.
+
+Jackie Robinson
+A life is not important except in the impact it has on other lives.
+
+George Bernard Shaw
+A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+
+Elizabeth Gaskell
+A little credulity helps one on through life very smoothly.
 
 Khalil Gibran
-en - Your pain is the breaking of the shell that encloses your understanding.
+A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 
-Shiv Khera
-en - Your positive action combined with positive thinking results in success.
+Madonna Ciccone
+A lot of people are afraid to say what they want. That's why they don't get what they want.
 
-Nido Qubein
-en - Your present circumstances don't determine where you can go; they merely determine where you start.
+Dawn Staley
+A lot of people notice when you succeed, but they don't see what it takes to get there.
+
+Chuck Norris
+A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
+
+Walt Disney
+A man should never neglect his family for business.
+
+James Allen
+A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.
+
+Charles Darwin
+A man who dares to waste one hour of time has not discovered the value of life.
+
+Robert Murray M'Cheyne
+A man who loves you the most is the man who tells you the most truth about yourself.
+
+John Henry Newman
+A man would do nothing if he waited until he could do it so well that no one could find fault.
+
+Charles Darwin
+A man's friendships are one of the best measures of his worth.
+
+Mary Kay Ash
+A mediocre idea that generates enthusiasm will go further than a great idea that inspires no one.
+
+Steven Biko
+A people without a positive history is like a vehicle without an engine.
+
+Joe DiMaggio
+A person always doing his or her best becomes a natural leader, just by example.
+
+Robert Frost
+A person will sometimes devote all his life to the development of one part of his body - the wishbone.
+
+Benjamin Franklin
+A place for everything, everything in its place.
+
+David Bailey
+A positive attitude can really make dreams come true - it did for me.
+
+Wade Boggs
+A positive attitude causes a chain reaction of positive thoughts, events and outcomes. It is a catalyst and it sparks extraordinary results.
+
+Joan Lunden
+A positive attitude is something everyone can work on, and everyone can learn how to employ it.
+
+Harry S Truman
+A President cannot always be popular.
+
+Duke Ellington
+A problem is a chance for you to do your best.
+
+Walter Winchell
+A real friend is one who walks in when the rest of the world walks out.
+
+John Steinbeck
+A sad soul can kill quicker than a germ.
+
+Leo Buscaglia
+A single rose can be my garden... a single friend, my world.
+
+Francis of Assisi
+A single sunbeam is enough to drive away many shadows.
+
+Alfred Lord Tennyson
+A smile abroad is often a scowl at home.
+
+Phyllis Diller
+A smile is a curve that sets everything straight.
+
+Tom Wilson
+A smile is happiness you'll find right under your nose.
+
+Herman Melville
+A smile is the chosen vehicle of all ambiguities.
+
+Denis Waitley
+A smile is the light in your window that tells others that there is a caring, sharing person inside.
+
+Max Eastman
+A smile is the universal welcome.
+
+John Burroughs
+A somebody was once a nobody who wanted to and did.
+
+Patricia Neal
+A strong positive mental attitude will create more miracles than any wonder drug.
+
+Joyce Brothers
+A strong, positive self-image is the best possible preparation for success.
+
+Charles R. Swindoll
+A teardrop on earth summons the King of heaven.
+
+John Keats
+A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness.
+
+Jean Racine
+A tragedy need not have blood and death; it's enough that it all be filled with that majestic sadness that is the pleasure of tragedy.
+
+Doug Larson
+A true friend is one who overlooks your failures and tolerates your success!
+
+Len Wein
+A true friend is someone who is there for you when he'd rather be anywhere else.
+
+Francois de La Rochefoucauld
+A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
+
+William Arthur Ward
+A warm smile is the universal language of kindness.
+
+Orison Swett Marden
+A will finds a way.
+
+George Meredith
+A witty woman is a treasure; a witty beauty is a power.
+
+Marilyn Monroe
+A woman knows by intuition, or instinct, what is best for herself.
+
+Anne Roiphe
+A woman whose smile is open and whose expression is glad has a kind of beauty no matter what she wears.
+
+Alex Comfort
+A women's greatest asset is her beauty.
+
+Edward Heath
+Abhorrence of apartheid is a moral attitude, not a policy.
+
+Lou Holtz
+Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+
+Stevie Wonder
+Ability may get you to the top, but it takes character to keep you there.
+
+William Cowper
+Absence from whom we love is worse than death, and frustrates hope severer than despair.
+
+George S. Patton
+Accept the challenges so that you can feel the exhilaration of victory.
+
+Marcus Aurelius
+Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.
+
+William James
+Act as if what you do makes a difference. It does.
+
+Christopher Morley
+Act like you expect to get into the end zone.
+
+Alicia Witt
+Acting is magical. Change your look and your attitude, and you can be anyone.
+
+Hans Selye
+Adopting the right attitude can convert a negative stress into a positive one.
+
+H. G. Wells
+Affliction comes to us, not to make us sad but sober; not to make us sorry but wise.
+
+Matthew Henry
+After a storm comes a calm.
+
+William R. Alger
+After every storm the sun will smile; for every problem there is a solution, and the soul's indefeasible duty is to be of good cheer.
+
+Robert Browning
+Ah, but a man's reach should exceed his grasp, Or what's a heaven for?
+
+W. Clement Stone
+Aim for the moon. If you miss, you may hit a star.
+
+Rose Namajunas
+All I can control is myself and just keep having a positive attitude.
+
+Robert Fulghum
+All I really need to know... I learned in kindergarten.
+
+Ralph Waldo Emerson
+All life is an experiment. The more experiments you make the better.
+
+John Wooden
+All of life is peaks and valleys. Don't let the peaks get too high and the valleys too low.
+
+William Halsey
+All problems become smaller if you don't dodge them but confront them.
+
+Havelock Ellis
+All the art of living lies in a fine mingling of letting go and holding on.
+
+Johann Wolfgang von Goethe
+All theory, dear friend, is gray, but the golden tree of life springs ever green.
+
+Earl Nightingale
+All you need is the plan, the road map, and the courage to press on to your destination.
+
+Sophocles
+Always desire to learn something useful.
+
+Og Mandino
+Always do your best. What you plant now, you will harvest later.
+
+Jeanne Calment
+Always keep your smile. That's how I explain my long life.
+
+Michael Jordan
+Always turn a negative situation into a positive situation.
+
+Robert Louis Stevenson
+An aim in life is the only fortune worth finding.
+
+Benjamin Franklin
+An investment in knowledge pays the best interest.
+
+Donald Cargill
+And now, this is the sweetest and most glorious day that ever my eyes did see.
+
+Ella Wheeler Wilcox
+And the smile that is worth the praises of earth is the smile that shines through tears.
+
+Black Elk
+And when I breathed, my breath was lightning.
+
+Joyce Meyer
+Any day that we don't give up puts us one day closer to success!
+
+Anton Chekhov
+Any idiot can face a crisis - it's day to day living that wears you out.
+
+Jorge Luis Borges
+Any life is made up of a single moment, the moment in which a man finds out, once and for all, who he is.
+
+Joyce Meyer
+Anytime we step out boldly to make changes, we take a chance that we might fail. But the only way to get better is to try.
+
+John Dewey
+Arriving at one goal is the starting point to another.
+
+Friedrich Nietzsche
+Art is the proper task of life.
+
+Leonardo da Vinci
+As a well-spent day brings happy sleep, so a life well spent brings happy death.
+
+Samuel Pepys
+As happy a man as any in the world, for the whole world seems to smile upon me!
+
+Charles Morgan
+As knowledge increases, wonder deepens.
+
+John Locke
+As people are walking all the time, in the same spot, a path appears.
+
+Johann Wolfgang von Goethe
+As soon as you trust yourself, you will know how to live.
+
+John F. Kennedy
+As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+
+Aristotle
+At his best, man is the noblest of all animals; separated from law and justice he is the worst.
+
+Christopher Walken
+At its best, life is completely unpredictable.
+
+Jane D. Hull
+At the end of the day, the most overwhelming key to a child's success is the positive involvement of parents.
+
+Edwin Louis Cole
+Attitude determines the altitude of life.
+
+Winston Churchill
+Attitude is a little thing that makes a big difference.
+
+Diane von Furstenberg
+Attitude is everything.
+
+George MacDonald
+Attitudes are more important than facts.
+
+Terry Bradshaw
+Bad attitudes will ruin your team.
+
+Alan Alda
+Be brave enough to live life creatively. The creative place where no one else has ever been.
+
+George Washington
+Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
+
+Andre Gide
+Be faithful to that which exists within yourself.
+
+Saint Teresa of Avila
+Be gentle to all and stern with yourself.
+
+Dalai Lama
+Be kind whenever possible. It is always possible.
+
+Wayne Dyer
+Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+
+Muhammad Iqbal
+Be not entangled in this world of days and nights; Thou hast another time and space as well.
+
+Socrates
+Be slow to fall into friendship; but when thou art in, continue firm and constant.
+
+John Donne
+Be thine own palace, or the world's thy jail.
+
+Lord Byron
+Be thou the rainbow in the storms of life. The evening beam that smiles the clouds away, and tints tomorrow with prophetic ray.
+
+Payal Kadakia
+Be true to yourself and surround yourself with positive, supportive people.
+
+Dante Alighieri
+Beauty awakens the soul to act.
+
+Kevyn Aucoin
+Beauty has a lot to do with character.
+
+David Hume
+Beauty in things exists in the mind which contemplates them.
+
+Ovid
+Beauty is a fragile gift.
+
+Socrates
+Beauty is a short-lived tyranny.
+
+Khalil Gibran
+Beauty is eternity gazing at itself in a mirror.
+
+H. G. Wells
+Beauty is in the heart of the beholder.
+
+Emily Dickinson
+Beauty is not caused. It is.
+
+Alicia Machado
+Beauty is only temporary, but your mind lasts you a lifetime.
+
+John Ray
+Beauty is power; a smile is its sword.
+
+Karl Wilhelm Friedrich Schlegel
+Beauty is that which is simultaneously attractive and sublime.
+
+Edmund Burke
+Beauty is the promise of happiness.
+
+Rabindranath Tagore
+Beauty is truth's smile when she beholds her own face in a perfect mirror.
+
+Edna St. Vincent Millay
+Beauty is whatever gives joy.
+
+Aldous Huxley
+Beauty is worse than wine, it intoxicates both the holder and beholder.
+
+Edgar Allan Poe
+Beauty of whatever kind, in its supreme development, invariably excites the sensitive soul to tears.
+
+Seneca
+Begin at once to live, and count each separate day as a separate life.
+
+William James
+Begin to be now what you will be hereafter.
+
+Stephen Covey
+Beginners are many; finishers are few.
+
+Amisha Patel
+Being sexy is all about attitude, not body type. It's a state of mind.
+
+William James
+Belief creates the actual fact.
+
+Christian D. Larson
+Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.
+
+William James
+Believe that life is worth living and your belief will help create the fact.
+
+Theodore Roosevelt
+Believe you can and you're halfway there.
+
+Sophocles
+Best to live lightly, unthinkingly.
+
+Donnie Yen
+Better to be called something positive and inspirational than something negative.
+
+Stephen Covey
+Between stimulus and response, there is a space where we choose our response.
+
+Socrates
+Beware the barrenness of a busy life.
+
+Christopher Morley
+Big shots are only little shots who keep shooting.
+
+William Shakespeare
+But men are men; the best sometimes forget.
+
+Alan Watts
+But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
+
+Benjamin Franklin
+By failing to prepare, you are preparing to fail.
+
+Bob Proctor
+By thinking about your goals every morning, many times during the day, and every night, you begin moving toward it, and bringing it toward you.
+
+William Blake
+Can I see another's woe, and not be in sorrow too? Can I see another's grief, and not seek for kind relief?
+
+Joel Osteen
+Change the way you speak about yourself and you can change your life.
+
+Simone de Beauvoir
+Change your life today. Don't gamble on the future, act now, without delay.
+
+Norman Vincent Peale
+Change your thoughts and you change your world.
+
+Imelda Staunton
+Chaotic people often have chaotic lives, and I think they create that. But if you try and have an inner peace and a positive attitude, I think you attract that.
+
+Johann Wolfgang von Goethe
+Character develops itself in the stream of life.
+
+Elbert Hubbard
+Character is the result of two things: mental attitude and the way we spend our time.
+
+Napoleon Hill
+Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.
+
+Eric Hoffer
+Children are the keys of paradise.
+
+Shinichi Suzuki
+Children learn to smile from their parents.
+
+Giorgio Chiellini
+Choosing a system is no longer enough, coaches have to be psychologists and motivational leaders too.
+
+Joel Osteen
+Choosing to be positive and having a grateful attitude is going to determine how you're going to live your life.
+
+Robert Covington
+Church is definitely still present in my life. Every Sunday I'm tuned in and then throughout the week I read scriptures, I read motivational messages.
+
+Jane Addams
+Civilization is a method of living, an attitude of equal respect for all men.
+
+Thomas Carlyle
+Clever men are good, but they are not the best.
+
+Rabindranath Tagore
+Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.
+
+Heather O'Reilly
+Coaches will eventually notice a great attitude, and they respect that.
+
+Frank Sinatra
+Cock your hat - angles are attitudes.
+
+Leigh Hunt
+Colors are the smiles of nature.
+
+Donald Johanson
+Commitment, belief and positive attitude are all important if you're going to be a success, whether you're in sports, in business or, as in my case, anthropology.
+
+Matthew Arnold
+Conduct is three-fourths of our life and its largest concern.
+
+Johann Wolfgang von Goethe
+Correction does much, but encouragement does more.
+
+Katherine Mansfield
+Could we change our attitude, we should not only see life differently, but life itself would come to be different.
+
+Nikolai Gogol
+Countless as the sands of the sea are human passions.
+
+Eddie Rickenbacker
+Courage is doing what you are afraid to do. There can be no courage unless you are scared.
+
+Erwin McManus
+Courage is not the absence of fear; it is the absence of self.
+
+Tommy Douglas
+Courage, my friends; 'tis not too late to build a better world.
+
+Thomas S. Monson
+Courage, not compromise, brings the smile of God's approval.
+
+Swami Sivananda
+Crave for a thing, you will get it. Renounce the craving, the object will follow you by itself.
+
+Henry Van Dyke
+Culture is the habit of being pleased with the best and knowing why.
+
+H. L. Hunt
+Decide what you want, decide what you are willing to exchange for it. Establish your priorities and go to work.
+
+Donna Karan
+Delete the negative; accentuate the positive!
+
+Rollo May
+Depression is the inability to construct a future.
+
+Octavio Paz
+Deserve your dream.
+
+Dale Carnegie
+Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.
+
+Abraham Lincoln
+Do I not destroy my enemies when I make them my friends?
+
+Buddha
+Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.
+
+William Butler Yeats
+Do not wait to strike till the iron is hot; but make it hot by striking.
+
+George Herbert
+Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.
+
+Baruch Spinoza
+Do not weep; do not wax indignant. Understand.
+
+Lou Holtz
+Do right. Do your best. Treat others as you want to be treated.
+
+Albert Schweitzer
+Do something wonderful, people may imitate it.
+
+Will Rogers
+Do the best you can, and don't take life too serious.
+
+Denzel Washington
+Do what you have to do, to do what you want to do.
+
+Robert Henri
+Do whatever you do intensely.
+
+Thomas Jefferson
+Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
+
+Desmond Tutu
+Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.
+
+Elbert Hubbard
+Do your work with your whole heart, and you will succeed - there's so little competition.
+
+Wayne Dyer
+Doing what you love is the cornerstone of having abundance in your life.
+
+William Faulkner
+Don't bother just to be better than others. Try to be better than yourself.
+
+Dr. Seuss
+Don't cry because it's over. Smile because it happened.
+
+George C. Marshall
+Don't fight the problem, decide it.
+
+H. Jackson Brown, Jr.
+Don't flaunt your success, but don't apologize for it either.
+
+Alek Wek
+Don't focus on negative things; focus on the positive, and you will flourish.
+
+Hannah Bronfman
+Don't forget to tell yourself positive things daily! You must love yourself internally to glow externally.
+
+Dolly Parton
+Don't get so busy making a living that you forget to make a life.
+
+Christopher Reeve
+Don't give up. Don't lose hope. Don't sell out.
+
+Mark Twain
+Don't go around saying the world owes you a living. The world owes you nothing. It was here first.
+
+Eric Butterworth
+Don't go through life, grow through life.
+
+Rumi
+Don't grieve. Anything you lose comes round in another form.
+
+Robert Louis Stevenson
+Don't judge each day by the harvest you reap but by the seeds that you plant.
+
+Richard L. Evans
+Don't let life discourage you; everyone who got where he is had to begin where he was.
+
+Cuba Gooding, Jr.
+Don't let people disrespect you. My mom says don't open the door to the devil. Surround yourself with positive people.
+
+Marla Runyan
+Don't listen to negative influences. Believe in yourself, and show others what you can do. Only "you" can find your potential.
+
+Marianne Williamson
+Don't think small and expect to have a big life.
+
+Horace
+Don't think, just do.
+
+Sam Levenson
+Don't watch the clock; do what it does. Keep going.
+
+Peter Max
+Don't worry about mistakes. Making things out of mistakes, that's creativity.
+
+Joel Osteen
+Don’t just accept whatever comes your way in life. You were born to win; you were born for greatness; you were created to be a champion in life.
+
+Abdul Kalam
+Don’t read success stories, you will only get a message. Read failure stories, you will get some ideas to get success.
+
+Urijah Faber
+Dream big, stay positive, work hard, and enjoy the journey.
+
+Bill Gates
+Drones overall will be more impactful than I think people recognize, in positive ways to help society.
+
+Publilius Syrus
+Each day is the scholar of yesterday.
+
+Marcus Aurelius
+Each day provides its own gifts.
+
+Stefon Diggs
+Each day, I come in with a positive attitude, trying to get better.
+
+Anais Nin
+Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+
+E. F. Schumacher
+Eagles come in all shapes and sizes, but you will recognize them chiefly by their attitudes.
+
+Zig Ziglar
+Earl Nightingale has inspired more people toward success and fortune than any other motivational speaker on the planet.
+
+Tara Stiles
+Eat like you love yourself. Move like you love yourself. Speak like you love yourself. Act like you love yourself.
+
+Gilbert K. Chesterton
+Education is simply the soul of a society as it passes from one generation to another.
+
+Philip Sidney
+Either I will find a way, or I will make one.
+
+Ezra Pound
+Either move or be moved.
+
+Jim Rohn
+Either you run the day or the day runs you.
+
+Robert Breault
+Enjoy the little things, for one day you may look back and realize they were the big things.
+
+Nolan Ryan
+Enjoying success requires the ability to adapt. Only by being open to change will you have a true opportunity to get the most from your talent.
+
+David Seabury
+Enthusiasm is the best protection in any situation. Wholeheartedness is contagious. Give yourself, if you wish to get others.
+
+Arthur Balfour
+Enthusiasm moves the world.
+
+Henry Ford
+Even a mistake may turn out to be the one thing necessary to a worthwhile achievement.
+
+Martin Luther
+Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.
+
+Victor Kiam
+Even if you fall on your face, you're still moving forward.
+
+Natalie du Toit
+Even when bad things happen you have to try to use those bad things in a positive manner and really just take the positive out of it.
+
+Bill Veeck
+Every baseball crowd, like every theatre audience, has its own distinctive attitude and atmosphere.
+
+Henry Ward Beecher
+Every charitable act is a stepping stone toward heaven.
+
+Martha Beck
+Every day brings new choices.
+
+Johann Wolfgang von Goethe
+Every day we should hear at least one little song, read one good poem, see one exquisite picture, and, if possible, speak a few sensible words.
+
+Tom Stoppard
+Every exit is an entry somewhere else.
+
+Taraji P. Henson
+Every human walks around with a certain kind of sadness. They may not wear it on their sleeves, but it's there if you look deep.
+
+Steven Tyler
+Every life has a measure of sorrow, and sometimes this is what awakens us.
+
+William Wallace
+Every man dies. Not every man really lives.
+
+Henry Wadsworth Longfellow
+Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.
+
+Jean Paul
+Every man regards his own life as the New Year's Eve of time.
+
+Hans Christian Andersen
+Every man's life is a fairy tale written by God's fingers.
+
+Thomas Merton
+Every moment and every event of every man's life on earth plants something in his soul.
+
+Pablo Picasso
+Every positive value has its price in negative terms... the genius of Einstein leads to Hiroshima.
+
+Octavia E. Butler
+Every story I create, creates me. I write to create myself.
+
+Marlee Matlin
+Everybody's got a job to do, and I do mine as best I can.
+
+Steve Jobs
+Everyone here has the sense that right now is one of those moments when we are influencing the future.
+
+Confucius
+Everything has beauty, but not everyone sees it.
+
+Jean-Paul Sartre
+Everything has been figured out, except how to live.
+
+Farrah Fawcett
+Everything has positive and negative consequences.
+
+Jules Renard
+Everything you want is out there waiting for you to ask. Everything you want also wants you. But you have to take action to get it.
+
+George Adair
+Everything you've ever wanted is on the other side of fear.
+
+George Eliot
+Excellence encourages one about life generally; it shows the spiritual wealth of the world.
+
+Ralph Marston
+Excellence is not a skill, it's an attitude.
+
+Alfred A. Montapert
+Expect problems and eat them for breakfast.
+
+Zig Ziglar
+Expect the best. Prepare for the worst. Capitalize on what comes.
+
+Eileen Caddy
+Expect your every need to be met. Expect the answer to every problem, expect abundance on every level.
+
+Yoko Ono
+Experiencing sadness and anger can make you feel more creative, and by being creative, you can get beyond your pain or negativity.
+
+Albert Einstein
+Failure is success in progress
+
+Morihei Ueshiba
+Failure is the key to success; each mistake teaches us something.
+
+Og Mandino
+Failure will never overtake me if my determination to succeed is strong enough.
+
+William Ellery Channing
+Faith is love taking the form of aspiration.
+
+Michael J. Fox
+Family is not an important thing. It's everything.
+
+Princess Diana
+Family is the most important thing in the world.
+
+David Ogden Stiers
+Family means no one gets left behind or forgotten.
+
+Olivia Newton-John
+Family, nature and health all go together.
+
+Jerry West
+Fear of failure, it's the greatest motivational tool. It drives me and drives me and drives me.
+
+Richard M. DeVos
+Few things in the world are more powerful than a positive push. A smile. A world of optimism and hope. A 'you can do it' when things are tough.
+
+Joseph Campbell
+Find a place inside where there's joy, and the joy will burn out the pain.
+
+Emily Dickinson
+Find ecstasy in life; the mere sense of living is joy enough.
+
+Katharine Whitehorn
+Find out what you like doing best and get someone to pay you for it.
+
+Ellen DeGeneres
+Find out who you are and be that person. That's what your soul was put on this Earth to be. Find that truth, live that truth and everything else will come.
+
+Leon Brown
+Find something good within your life and give every ounce of positivity you have towards it, then watch how your life changes.
+
+Dale Carnegie
+First ask yourself: What is the worst that can happen? Then prepare to accept it. Then proceed to improve on the worst.
+
+Horatio Nelson
+First gain the victory and then make the best use of it you can.
+
+Caitlyn Jenner
+First of all, I try to be a positive role model.
+
+Alyssa Milano
+First, accept sadness. Realize that without losing, winning isn't so great.
+
+Joseph Campbell
+Follow your bliss and the universe will open doors where there were only walls.
+
+Sasha Cohen
+Follow your dreams, work hard, practice and persevere. Make sure you eat a variety of foods, get plenty of exercise and maintain a healthy lifestyle.
+
+Allen Ginsberg
+Follow your inner moonlight; don't hide the madness.
+
+Wallis Simpson
+For a gallant spirit there can never be defeat.
+
+John Greenleaf Whittier
+For all sad words of tongue and pen, The saddest are these, 'It might have been'.
+
+William Wordsworth
+For I have learned to look on nature, not as in the hour of thoughtless youth, but hearing oftentimes the still, sad music of humanity.
+
+Billy Porter
+For me, life is about being positive and hopeful, choosing to be joyful, choosing to be encouraging, choosing to be empowering.
+
+Walter Scott
+For success, attitude is equally as important as ability.
+
+Mignon McLaughlin
+For the happiest life, days should be rigorously planned, nights left open to chance.
+
+Chloe Kim
+For whatever reason, I'm pretty good with pressure. I kinda just flip it over and think of it as positive.
+
+Karen Horney
+Fortunately analysis is not the only way to resolve inner conflicts. Life itself still remains a very effective therapist.
+
+Yao Ming
+Fortune cookies are a good idea. If the message is positive, it can make your day a little better.
+
+Norman Vincent Peale
+Four things for success: work and pray, think and believe.
+
+Margaret Walker
+Friends and good manners will carry you where money won't go.
+
+Mencius
+Friends are the siblings God never gave us.
+
+Marcus Tullius Cicero
+Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
+
+C. S. Lewis
+Friendship is unnecessary, like philosophy, like art... It has no survival value; rather it is one of those things that give value to survival.
+
+Elie Wiesel
+Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+
+Muhammad Ali
+Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+
+Aeschylus
+From a small seed a mighty trunk may grow.
+
+Guru Nanak
+From its brilliancy everything is illuminated.
+
+Tecumseh
+From my tribe I take nothing, I am the maker of my own fortune.
+
+Arthur Ashe
+From what we get, we can make a living; what we give, however, makes a life.
+
+Bo Bennett
+Frustration, although quite painful at times, is a very positive and essential part of success.
+
+Flip Wilson
+Funny is an attitude.
+
+Theodore Roosevelt
+Get action. Seize the moment. Man was never intended to become an oyster.
+
+John Ruskin
+Give a little love to a child, and you get a great deal back.
+
+Ella Baker
+Give light and people will find the way.
+
+Desiderius Erasmus
+Give light, and the darkness will disappear of itself.
+
+Frank Lloyd Wright
+Give me the luxuries of life and I will willingly do without the necessities.
+
+Eliza Dushku
+Go big or go home. Because it's true. What do you have to lose?
+
+Wayne Dyer
+Go for it now. The future is promised to no one.
+
+Mark Twain
+Good friends, good books and a sleepy conscience: this is the ideal life.
+
+William Makepeace Thackeray
+Good humor is one of the best articles of dress one can wear in society.
+
+Philip Stanhope, 4th Earl of Chesterfield
+Good humor is the health of the soul, sadness is its poison.
+
+St. Jerome
+Good, better, best. Never let it rest. 'Til your good is better and your better is best.
+
+Unknown
+Good, Better, Best. Never let it rest. Until your Good is Better, and your Better is your Best.
+
+Friedrich Schiller
+Grace is the beauty of form under the influence of freedom.
+
+Pat Riley
+Great effort springs naturally from great attitude.
+
+Thomas Fuller
+Great hopes make great men.
+
+Robert Browning
+Grow old with me! The best is yet to be.
+
+John Henry Newman
+Growth is the only evidence of life.
+
+Nathaniel Hawthorne
+Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which, if you will sit down quietly, may alight upon you.
+
+Jim Rohn
+Happiness is not something you postpone for the future; it is something you design for the present.
+
+Phillips Brooks
+Happiness is the natural flower of duty.
+
+Democritus
+Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
+
+Holland Roden
+Have confidence in who you are and don’t be afraid to go for what you really want in life.
+
+Steve Jobs
+Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
+
+Bo Bennett
+Having a positive mental attitude is asking how something can be done rather than saying it can't be done.
+
+Sandra Day O'Connor
+Having family responsibilities and concerns just has to make you a more understanding person.
+
+Persius
+He conquers who endures.
+
+Tertullian
+He is a man, who is to be a man, the fruit is always present in the seed.
+
+Bob Dylan
+He not busy being born is busy dying.
+
+Friedrich Nietzsche
+He who has a why to live can bear almost any how.
+
+Friedrich Schiller
+He who has done his best for his own time has lived for all times.
+
+Muhammad Ali
+He who is not courageous enough to take risks will accomplish nothing in life.
+
+Voltaire
+He who is not just is severe, he who is not wise is sad.
+
+Thomas Jefferson
+He who knows best knows how little he knows.
+
+Buddha
+Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.
+
+Christopher Morley
+Heavy hearts, like heavy clouds in the sky, are best relieved by the letting of a little water.
+
+Richard Bach
+Here is the test to find whether your mission on Earth is finished: if you're alive, it isn't.
+
+Ralph Waldo Emerson
+Hitch your wagon to a star.
+
+Matthew Prior
+Hope is but the dream of those who wake.
+
+Samuel Smiles
+Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.
+
+Vincent McNabb
+Hope is some extraordinary spiritual grace that God gives us to control our fears, not to oust them.
+
+Hunter S. Thompson
+Hope rises and dreams flicker and die. Love plans for tomorrow and loneliness thinks of yesterday. Life is beautiful and living is pain.
+
+J. D. Salinger
+How do you know you're going to do something, untill you do it?
+
+Patrick Swayze
+How do you nurture a positive attitude when all the statistics say you're a dead man? You go to work.
+
+John Muir
+How glorious a greeting the sun gives the mountains!
+
+Jackie Gleason
+How sweet it is!
+
+Anne Frank
+How wonderful it is that nobody need wait a single moment before starting to improve the world.
+
+Kirstin Maldonado
+I always feel good after I change my hair. You get a haircut and feel positive and ready to take on the day.
+
+Walt Disney
+I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.
+
+Rudyard Kipling
+I always prefer to believe the best of everybody, it saves so much trouble.
+
+Emile Zola
+I am an artist... I am here to live out loud.
+
+Walt Whitman
+I am as bad as the worst, but, thank God, I am as good as the best.
+
+Audre Lorde
+I am deliberate and afraid of nothing.
+
+Winston Churchill
+I am easily satisfied with the very best.
+
+Leni Riefenstahl
+I am fascinated by what is beautiful, strong, healthy, what is living. I seek harmony.
+
+Lil Yachty
+I am happy every day, because life is moving in a very positive way.
+
+Jose Ortega y Gasset
+I am I plus my circumstances.
+
+Lauren Bacall
+I am not a has-been. I am a will be.
+
+William Allen White
+I am not afraid of tomorrow, for I have seen yesterday and I love today!
+
+Joan of Arc
+I am not afraid... I was born to do this.
+
+Corazon Aquino
+I am not embarrassed to tell you that I believe in miracles.
+
+Todd Tiahrt
+I am shocked by the easy attitude of many in the media towards disclosing our Nation's secrets.
+
+George Lucas
+I am simply trying to struggle through life; trying to do God's bidding.
+
+Robert Schumann
+I am so fresh in soul and spirit that life gushes and bubbles around me in a thousand springs.
+
+Reggie Jackson
+I am the best in baseball.
+
+Emily Dickinson
+I argue thee that love is life. And life hath immortality.
+
+Zane Grey
+I arise full of eagerness and energy, knowing well what achievement lies ahead of me.
+
+E. B. White
+I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.
+
+Florence Nightingale
+I attribute my success to this - I never gave or took any excuse.
+
+William Shakespeare
+I bear a charmed life.
+
+Neil Armstrong
+I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
+
+Anthony Fauci
+I believe I have a personal responsibility to make a positive impact on society.
+
+Joel Osteen
+I believe if you keep your faith, you keep your trust, you keep the right attitude, if you're grateful, you'll see God open up new doors.
+
+Kesha
+I believe in karma, and I believe if you put out positive vibes to everybody, that's all you're going to get back.
+
+Yannick Noah
+I believe in Karma. If the good is sown, the good is collected. When positive things are made, that returns well.
+
+Loretta Young
+I believe in living today. Not in yesterday, nor in tomorrow.
+
+Robert Fulghum
+I believe it is in my nature to dance by virtue of the beat of my heart, the pulse of my blood and the music in my mind.
+
+Albert Einstein
+I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+
+Gustave Flaubert
+I believe that if one always looked at the skies, one would end up with wings.
+
+Henry Rollins
+I believe that one defines oneself by reinvention. To not be like your parents. To not be like your friends. To be yourself. To cut yourself out of stone.
+
+Nadia Comaneci
+I believe that you should gravitate to people who are doing productive and positive things with their lives.
+
+Jet Li
+I believe the world is one big family, and we need to help each other.
+
+Sylvester Stallone
+I believe there's an inner power that makes winners or losers. And the winners are the ones who really listen to the truth of their hearts.
+
+Simone Weil
+I can, therefore I am.
+
+Jimmy Dean
+I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+
+Leo Durocher
+I come to win.
+
+Hattie McDaniel
+I did my best, and God did the rest.
+
+B. F. Skinner
+I did not direct my life. I didn't design it. I never made decisions. Things always came up and made them for me. That's what life is.
+
+Lillie Langtry
+I do not regret one moment of my life.
+
+Abraham Lincoln
+I do the very best I know how - the very best I can; and I mean to keep on doing so until the end.
+
+Joseph Campbell
+I don't believe people are looking for the meaning of life as much as they are looking for the experience of being alive.
+
+Ken Venturi
+I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
+
+Isaac Asimov
+I don't expect to live forever, but I do intend to hang on as long as possible.
+
+George S. Patton
+I don't measure a man's success by how high he climbs but how high he bounces when he hits bottom.
+
+Plutarch
+I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
+
+Mos Def
+I don't want to waste anyone's time or money. I want to give people some truth and positive heart lift.
+
+Emily Dickinson
+I dwell in possibility.
+
+Andy Dick
+I had no blood relatives till I made some.
+
+Alonzo Mourning
+I had to develop the mentality and stay positive about making my comeback.
+
+Muhammad Ali
+I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'
+
+John Oates
+I have a great family, I live an amazing life.
+
+Steve Prefontaine
+I have a positive mental attitude, and I think I'm divine, but I also think it takes a heck of a lot of blood, sweat and tears.
+
+Alice Roosevelt Longworth
+I have a simple philosophy: Fill what's empty. Empty what's full. Scratch where it itches.
+
+Seamus Heaney
+I have begun to think of life as a series of ripples widening out from an original center.
+
+Robert Powell
+I have found that a smile and a stick will carry you through all right, and in ninety-nine cases out of a hundred it is the smile that does the trick.
+
+Arthur Rubinstein
+I have found that if you love life, life will love you back.
+
+Harry S Truman
+I have found the best way to give advice to your children is to find out what they want and then advise them to do it.
+
+Marie Curie
+I have frequently been questioned, especially by women, of how I could reconcile family life with a scientific career. Well, it has not been easy.
+
+Sangram Singh
+I have given motivational speeches at IIT and other well-known establishments. I want to appeal to the people, and therefore, I talk from the heart.
+
+Walt Whitman
+I have learned that to be with those I like is enough.
+
+Pope John XXIII
+I have looked into your eyes with my eyes. I have put my heart near your heart.
+
+Marlee Matlin
+I have made the choices that work best for me. I know I cannot please everyone, and that's fine.
+
+Sonia Sotomayor
+I have never, ever focused on the negative of things. I always look at the positive.
+
+Oscar Wilde
+I have the simplest tastes. I am always satisfied with the best.
+
+Goldie Hawn
+I have witnessed the softening of the hardest of hearts by a simple smile.
+
+William Butler Yeats
+I heard the old, old, men say 'all that's beautiful drifts away, like the waters.'
+
+Michael Jordan
+I hope the millions of people I've touched have the optimism and desire to share their goals and hard work and persevere with a positive attitude.
+
+Chelsea Clinton
+I hope to make a positive, productive contribution, as cheesy as that may sound.
+
+Rose Kennedy
+I know not age, nor weariness nor defeat.
+
+Muhammad Ali
+I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+
+Michael J. Fox
+I like to encourage people to realize that any action is a good action if it's proactive and there is positive intent behind it.
+
+Jordan Burroughs
+I listen to a lot of TED talks and motivational speakers.
+
+Grandma Moses
+I look back on my life like a good day's work, it was done and I am satisfied with it.
+
+Anthony Hopkins
+I love life because what more is there?
+
+Sidonie Gabrielle Colette
+I love my past, I love my present. I am not ashamed of what I have had, and I am not sad because I no longer have it.
+
+Abraham Lincoln
+I never had a policy; I have just tried to do my very best each and every day.
+
+Donny Osmond
+I never smile unless I mean it.
+
+Vincent Van Gogh
+I often think that the night is more alive and more richly colored than the day.
+
+Junipero Serra
+I pray God may preserve your health and life many years.
+
+Naomi
+I really believe in the 'Glow' and live my life that way. It's about being positive inside and out and being the best version of yourself possible.
+
+Dean Koontz
+I really believe that everyone has a talent, ability, or skill that he can mine to support himself and to succeed in life.
+
+Nikos Kazantzakis
+I said to the almond tree, 'Friend, speak to me of God,' and the almond tree blossomed.
+
+Rabindranath Tagore
+I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.
+
+Ali Krieger
+I surround myself with good people who make me feel great and give me positive energy.
+
+Ted Nugent
+I surround myself with positive, productive people of good will and decency.
+
+Laurence Sterne
+I take a simple view of life. It is keep your eyes open and get on with it.
+
+Ursula Andress
+I take care of my flowers and my cats. And enjoy food. And that's living.
+
+Lizzie Velasquez
+I taught myself how to be a speaker on Google. I just Googled 'how to be a motivational speaker.'
+
+Amy Adams
+I think a lot of times we don't pay enough attention to people with a positive attitude because we assume they are naive or stupid or unschooled.
+
+Roger Clemens
+I think anything is possible if you have the mindset and the will and desire to do it and put the time in.
+
+Charles M. Schulz
+I think I've discovered the secret of life - you just hang around until you get used to it.
+
+Leonard Nimoy
+I think it's my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.
+
+Diane Lane
+I think that anybody that smiles automatically looks better.
+
+Colin Powell
+I think whether you're having setbacks or not, the role of a leader is to always display a winning attitude.
+
+Lizzie Velasquez
+I told myself that I wanted to be a motivational speaker, I wanted to write a book, graduate college, have my own family, and have my own career.
+
+Charlotte Bronte
+I try to avoid looking forward or backward, and try to keep looking upward.
+
+S. Sreesanth
+I used to watch a lot of motivational films and videos to remain positive.
+
+Marianne Vos
+I want to be motivational and inspirational for everybody: my big aim is more women on bicycles.
+
+Jackie Kennedy
+I want to live my life, not record it.
+
+Charles de Lint
+I want to touch the heart of the world and make it smile.
+
+Chevy Chase
+I was always the guy getting kicked out of my classes at school for having an attitude problem.
+
+Paula Deen
+I was determined to share my positive approach and not let diabetes stand in the way of enjoying my life.
+
+Donna Brazile
+I was motivated to be different in part because I was different.
+
+Ryan Howard
+I was perceived to be a first- to third-rounder. I kind of had a tough junior year and fell to the fifth round. At that time, it was motivational.
+
+Adriana Lima
+I was so embarrassed about mispronouncing words. I just knew how to smile.
+
+Daniel Ricciardo
+I will always find a way to find a positive from things.
+
+Og Mandino
+I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+
+Woodrow Wilson
+I would rather lose in a cause that will some day win, than win in a cause that will some day lose.
+
+Robert H. Schuller
+I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
+
+James Baldwin
+I've always believed that you can think positive just as well as you can think negative.
+
+Jamie Lee Curtis
+I've always put my family first and that's just the way it is.
+
+Robert Smith
+I've always spent more time with a smile on my face than not, but the thing is, I don't write about it.
+
+Beverly Sills
+I've always tried to go a step past wherever people expected me to end up.
+
+Georgia O'Keeffe
+I've been absolutely terrified every moment of my life - and I've never let it keep me from doing a single thing I wanted to do.
+
+Leif Garrett
+I've come to understand that there's always something positive, even in a negative situation.
+
+Brian Tracy
+I've found that luck is quite predictable. If you want more luck, take more chances. Be more active. Show up more often.
+
+Mia Hamm
+I've worked too hard and too long to let anything stand in the way of my goals. I will not let my teammates down and I will not let myself down.
+
+John Maynard Keynes
+Ideas shape the course of history.
+
+George S. Patton
+If a man does his best, what else is there?
+
+Isaac Newton
+If I have seen further than others, it is by standing upon the shoulders of giants.
+
+Manuel Puig
+If it's great stuff, the people who consume it are nourished. It's a positive force.
+
+John Clare
+If life had a second edition, how I would correct the proofs.
+
+Eleanor Roosevelt
+If life were predictable it would cease to be life, and be without flavor.
+
+Milton Berle
+If opportunity doesn't knock, build a door.
+
+William Blake
+If the doors of perception were cleansed everything would appear to man as it is, infinite.
+
+Anatole France
+If the path be beautiful, let us not ask where it leads.
+
+Lucy Larcom
+If the world seems cold to you, kindle fires to warm it.
+
+Lucy Larcom
+If the world's a veil of tears, Smile till rainbows span it.
+
+Thomas A. Edison
+If we did all the things we are capable of, we would literally astound ourselves.
+
+Saint Augustine
+If we live good lives, the times are also good. As we are, such are the times.
+
+Michael Jordan
+If you accept the expectations of others, especially negative ones, then you never will change the outcome.
+
+Emile Zola
+If you ask me what I came into this life to do, I will tell you: I came to live out loud.
+
+Bear Bryant
+If you believe in yourself and have dedication and pride - and never quit, you'll be a winner. The price of victory is high but so are the rewards.
+
+Walt Disney
+If you can dream it, you can do it.
+
+William Arthur Ward
+If you can imagine it, you can achieve it. If you can dream it, you can become it.
+
+Emmet Fox
+If you could only love enough, you could be the most powerful person in the world.
+
+Stevie Wonder
+If you don't ask, you don't get.
+
+Lyoto Machida
+If you don't give up, eventually you will break the cycle and you will overcome any obstacle.
+
+Jim Rohn
+If you don't like how things are, change it! You're not a tree.
+
+Maya Angelou
+If you don't like something, change it. If you can't change it, change your attitude.
+
+H. G. Wells
+If you fell down yesterday, stand up today.
+
+Teri Garr
+If you get a diagnosis, get on a therapy, keep a good attitude and keep your sense of humor.
+
+Alesha Dixon
+If you have a positive frame of mind, you can manifest positive things in your life.
+
+Thomas Fuller
+If you have one true friend you have more than your share.
+
+Kin Hubbard
+If you haven't seen your wife smile at a traffic cop, you haven't seen her smile her prettiest.
+
+Bruce Lee
+If you love life, don't waste time, for time is what life is made up of.
+
+Jim Rohn
+If you really want to do something, you'll find a way. If you don't, you'll find an excuse.
+
+Andy Rooney
+If you smile when no one else is around, you really mean it.
+
+John Burroughs
+If you think you can do it, you can.
+
+Will Rogers
+If you want to be successful, it's just this simple. Know what you are doing. Love what you are doing. And believe in what you are doing.
+
+Dale Carnegie
+If you want to conquer fear, don't sit home and think about it. Go out and get busy.
+
+Robert Kiyosaki
+If you want to go somewhere, it is best to find someone who has already been there.
+
+John D. Rockefeller
+If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.
+
+Winston Churchill
+If you're going through hell, keep going.
+
+Dar Williams
+If you're looking for can-do, earthy-crunchy attitude then you've got to go to Wisconsin.
+
+John Wooden
+If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes.
+
+Jim Carrey
+If you've got a talent, protect it.
+
+Matt Martin
+If your plan isn't working, adjust your plan. Never give up.
+
+Paulo Coelho
+Impossible is just an opinion.
+
+Mahatma Gandhi
+In a gentle way, you can shake the world.
+
+Theodore Roosevelt
+In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.
+
+William S. Burroughs
+In deep sadness there is no place for sentimentality.
+
+Alex Haley
+In every conceivable manner, the family is link to our past, bridge to our future.
 
 Les Brown
-en - Your smile will give you a positive countenance that will make people feel comfortable around you.
+In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a positive impact.
+
+Edward G. Bulwer-Lytton
+In life, as in art, the beautiful moves in curves.
+
+Dalai Lama
+In order to carry a positive action we must develop here a positive vision.
+
+Adora Svitak
+In order to make anything a reality, you have to dream about it first.
+
+Nikos Kazantzakis
+In order to succeed, we must first believe that we can.
+
+Dalai Lama
+In the practice of tolerance, one's enemy is the best teacher.
+
+Henry Ward Beecher
+In this world, full often, our joys are only the tender shadows which our sorrows cast.
+
+Jakob Bohme
+In this world, with thy earthly life, thou art under heaven, stars, and elements, also under hell and devils; all ruleth in thee, and over thee.
+
+Lee Iacocca
+In times of great stress or adversity, it's always best to keep busy, to plow your anger and your energy into something positive.
+
+Joyce Meyer
+Individuals need to be willing to face truth about their attitudes, behaviors, even what we want out of life.
+
+Priscilla Presley
+Inner beauty should be the most important part of improving one's self.
+
+Cary Grant
+Insanity runs in my family. It practically gallops.
+
+Deep Roy
+Inspiration comes from within yourself. One has to be positive. When you're positive, good things happen.
+
+Camryn Manheim
+Instead of hating, I have chosen to forgive and spend all of my positive energy on changing the world.
+
+Thomas Leonard
+Integrity reveals beauty.
+
+Henry Wadsworth Longfellow
+Into each life some rain must fall.
+
+Nelson Mandela
+It always seems impossible until it's done.
+
+Confucius
+It does not matter how slowly you go as long as you do not stop.
+
+Willie Nelson
+It doesn't hurt to feel sad from time to time.
+
+Brian Tracy
+It doesn't matter where you are coming from. All that matters is where you are going.
+
+Amelia Barr
+It is always the simple that produces the marvelous.
+
+Leo Tolstoy
+It is amazing how complete is the delusion that beauty is goodness.
+
+Harry S. Truman
+It is amazing what you can accomplish if you do not care who gets the credit.
+
+Aeschylus
+It is best for the wise man not to seem wise.
+
+Anatole France
+It is by acts and not by ideas that people live.
+
+Aristotle Onassis
+It is during our darkest moments that we must focus to see the light.
+
+Hosea Ballou
+It is easy to be beautiful; it is difficult to appear so.
+
+Muriel Spark
+It is impossible to persuade a man who does not disagree, but smiles.
+
+Aeschylus
+It is in the character of very few men to honor without envy a friend who has prospered.
+
+Napoleon Hill
+It is literally true that you can succeed best and quickest by helping others to succeed.
+
+George Eliot
+It is never too late to be what you might have been.
+
+Joseph Wood Krutch
+It is not ignorance but knowledge which is the mother of wonder.
+
+Ralph Waldo Emerson
+It is not length of life, but depth of life.
+
+Epicurus
+It is not so much our friends' help that helps us, as the confidence of their help.
+
+Voltaire
+It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.
+
+Billy Graham
+It is not the body's posture, but the heart's attitude that counts when we pray.
+
+Terry Pratchett
+It is often said that before you die your life passes before your eyes. It is in fact true. It's called living.
+
+Ralph Waldo Emerson
+It is one of the blessings of old friends that you can afford to be stupid with them.
+
+Amelia Barr
+It is only in sorrow bad weather masters us; in joy we face the storm and defy it.
+
+William James
+It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome.
+
+F. Scott Fitzgerald
+It is sadder to find the past again and find it inadequate to the present than it is to have it elude you and remain forever a harmonious conception of memory.
+
+Maya Angelou
+It is time for parents to teach young people early on that in diversity there is beauty and there is strength.
+
+Malala Yousafzai
+It is very important to know who you are. To make decisions. To show who you are.
+
+John Leonard
+It takes a long time to grow an old friend.
+
+Robert H. Schuller
+It takes but one positive thought when given a chance to survive and thrive to overpower an entire army of negative thoughts.
+
+Napoleon Hill
+It takes half your life before you discover life is a do-it-yourself project.
+
+George Blanda
+It takes hard work, dedication, discipline and a positive attitude to get to the top - in business or in sports.
+
+Charles Dickens
+It was the best of times, it was the worst of times.
+
+W. Somerset Maugham
+It's a funny thing about life; if you refuse to accept anything but the best, you very often get it.
+
+Andrew Wyeth
+It's a moment that I'm after, a fleeting moment, but not a frozen moment.
+
+Daniel Kahneman
+It's a wonderful thing to be optimistic. It keeps you healthy and it keeps you resilient.
+
+Philip Green
+It's all about quality of life and finding a happy balance between work and friends and family.
+
+Norman Vincent Peale
+It's always too early to quit.
+
+Lindsey Vonn
+It's amazing. Life changes very quickly, in a very positive way, if you let it.
+
+Benson Henderson
+It's definitely a motivational factor, becoming a three-organization world champion.
+
+Vince Lombardi
+It's not whether you get knocked down, it's whether you get up.
+
+Marlene Dietrich
+It's the friends you can call up at 4 a.m. that matter.
+
+Victor Hugo
+Jesus wept; Voltaire smiled. From that divine tear and from that human smile is derived the grace of present civilization.
+
+Jean Paul
+Joy descends gently upon us like the evening dew, and does not patter down like a hailstorm.
+
+Leonardo da Vinci
+Just as courage imperils life, fear protects it.
+
+John Wooden
+Just do the best you can. No one can do more than that.
+
+Red Auerbach
+Just do what you do best.
+
+Ella Fitzgerald
+Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong.
+
+Theodore Roosevelt
+Keep your eyes on the stars, and your feet on the ground.
+
+Walt Whitman
+Keep your face always toward the sunshine - and shadows will fall behind you.
+
+Helen Keller
+Keep your face to the sunshine and you cannot see a shadow.
+
+Arthur Helps
+Keep your feet on the ground, but let your heart soar as high as it will. Refuse to be average or to surrender to the chill of your spiritual environment.
+
+Mother Teresa
+Kind words can be short and easy to speak, but their echoes are truly endless.
+
+Isaac Bashevis Singer
+Kindness, I've discovered, is everything in life.
+
+Baltasar Gracian
+Know or listen to those who know.
+
+Harold Klemp
+Know that you are a spark of God and can exist fully only within the realization of that profound truth. As such, you are a light and inspiration to others.
+
+Johann Wolfgang von Goethe
+Knowing is not enough; we must apply. Willing is not enough; we must do.
+
+Carl Jung
+Knowing your own darkness is the best method for dealing with the darknesses of other people.
+
+Giorgio A. Tsoukalos
+Knowledge is the currency of the universe.
+
+Henry Ward Beecher
+Laughter is day, and sobriety is night; a smile is the twilight that hovers gently between both, more bewitching than either.
+
+John Burroughs
+Leap, and the net will appear.
+
+Denis Waitley
+Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now.
+
+John C. Maxwell
+Learn to say 'no' to the good so you can say 'yes' to the best.
+
+Morgan Freeman
+Learning how to be still, to really be still and let life happen - that stillness becomes a radiance.
+
+Aristophanes
+Let each man exercise the art he knows.
+
+John Ruskin
+Let every dawn be to you as the beginning of life, and every setting sun be to you as its close.
+
+Rainer Maria Rilke
+Let life happen to you. Believe me: life is in the right, always.
+
+Paramahansa Yogananda
+Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.
+
+Mother Teresa
+Let us always meet each other with smile, for the smile is the beginning of love.
+
+Marcel Proust
+Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom.
+
+Michael Jackson
+Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation.
+
+Charles Lamb
+Let us live for the beauty of our own reality.
+
+Malala Yousafzai
+Let us make our future now, and let us make our dreams tomorrow's reality.
+
+A. P. J. Abdul Kalam
+Let us sacrifice our today so that our children can have a better tomorrow.
+
+Rabindranath Tagore
+Let your life lightly dance on the edges of Time like dew on the tip of a leaf.
+
+Charlotte Bronte
+Life appears to me too short to be spent in nursing animosity, or registering wrongs.
+
+Albert Schweitzer
+Life becomes harder for us when we live for others, but it also becomes richer and happier.
+
+Pramoedya Ananta Toer
+Life can give everything to whoever tries to understand and is willing to receive new knowledge.
+
+Zhuangzi
+Life comes from the earth and life returns to the earth.
+
+Josh Billings
+Life consists not in holding good cards but in playing those you hold well.
+
+George Bernard Shaw
+Life does not cease to be funny when people die any more than it ceases to be serious when people laugh.
+
+H. Jackson Brown, Jr.
+Life doesn't require that we be the best, only that we try our best.
+
+William Ellery Channing
+Life has a higher end, than to be amused.
+
+Antoine de Saint-Exupery
+Life has meaning only if one barters it day by day for something other than itself.
+
+Oscar Wilde
+Life imitates art far more than art imitates Life.
+
+Irving Berlin
+Life is 10 percent what you make it, and 90 percent how you take it.
+
+John C. Maxwell
+Life is 10% what happens to me and 90% of how I react to it.
+
+Charles R. Swindoll
+Life is 10% what happens to you and 90% how you react to it.
+
+Charles Lindbergh
+Life is a culmination of the past, an awareness of the present, an indication of a future beyond knowledge, the quality that gives a touch of divinity to matter.
+
+Craig Venter
+Life is a DNA software system.
+
+Sholom Aleichem
+Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor.
+
+Anne Morrow Lindbergh
+Life is a gift, given in trust - like a child.
+
+Vladimir Nabokov
+Life is a great sunrise. I do not see why death should not be an even greater one.
+
+Jean Cocteau
+Life is a horizontal fall.
+
+India.Arie
+Life is a journey, not a destination; there are no mistakes, just chances we've taken.
+
+Douglas MacArthur
+Life is a lively process of becoming.
+
+James M. Barrie
+Life is a long lesson in humility.
+
+George Gershwin
+Life is a lot like jazz... it's best when you improvise.
+
+Ernest Holmes
+Life is a mirror and will reflect back to the thinker what he thinks into it.
+
+Truman Capote
+Life is a moderately good play with a badly written third act.
+
+Jose Ortega y Gasset
+Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be.
+
+Sai Baba
+Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.
+
+Ralph Waldo Emerson
+Life is a succession of lessons which must be lived to be understood. All is riddle, and the key to a riddle is another riddle.
+
+Corita Kent
+Life is a succession of moments, to live each one is to succeed.
+
+Prem Rawat
+Life is a tide; float on it. Go down with it and go up with it, but be detached. Then it is not difficult.
+
+Charlie Chaplin
+Life is a tragedy when seen in close-up, but a comedy in long-shot.
+
+Jeff Rich
+Life is a work in progress.
+
+Peter De Vries
+Life is a zoo in a jungle.
+
+Dave Barry
+Life is anything that dies when you stomp on it.
+
+Michael Moriarty
+Life is best when you are in love.
+
+Oscar Wilde
+Life is far too important a thing ever to talk seriously about.
+
+Shilpa Shinde
+Life is full of ups and downs. One needs to stay positive in life, no matter what.
+
+Morihei Ueshiba
+Life is growth. If we stop growing, technically and spiritually, we are as good as dead.
+
+George Herbert
+Life is half spent before we know what it is.
+
+Horace
+Life is largely a matter of expectation.
+
+William Christopher Handy
+Life is like a trumpet - if you don't put anything into it, you don't get anything out of it.
+
+Don Miguel Ruiz
+Life is like dancing. If we have a big floor, many people will dance. Some will get angry when the rhythm changes. But life is changing all the time.
+
+Nathaniel Hawthorne
+Life is made up of marble and mud.
+
+O. Henry
+Life is made up of sobs, sniffles, and smiles, with sniffles predominating.
+
+Carly Fiorina
+Life is measured in love and positive contributions and moments of grace.
+
+Abraham Cahan
+Life is much shorter than I imagined it to be.
+
+Robert James Waller
+Life is never easy for those who dream.
+
+Oscar Wilde
+Life is never fair, and perhaps it is a good thing for most of us that it is not.
+
+Soren Kierkegaard
+Life is not a problem to be solved, but a reality to be experienced.
+
+Samuel Butler
+Life is not an exact science, it is an art.
+
+Oliver Wendell Holmes, Jr.
+Life is painting a picture, not doing a sum.
+
+Isaac Asimov
+Life is pleasant. Death is peaceful. It's the transition that's troublesome.
+
+Confucius
+Life is really simple, but we insist on making it complicated.
+
+Henri Frederic Amiel
+Life is short and we have never too much time for gladdening the hearts of those who are travelling the dark journey with us. Oh be swift to love, make haste to be kind.
+
+Fran Lebowitz
+Life is something to do when you can't get to sleep.
+
+Lou Holtz
+Life is ten percent what happens to you and ninety percent how you respond to it.
+
+Samuel Butler
+Life is the art of drawing sufficient conclusions from insufficient premises.
+
+Vivien Leigh
+Life is too short to work so hard.
+
+Audre Lorde
+Life is very short and what we have to do must be done in the now.
+
+Douglas Adams
+Life is wasted on the living.
+
+John Lennon
+Life is what happens while you are busy making other plans.
+
+Grandma Moses
+Life is what we make it, always has been, always will be.
+
+Rose Kennedy
+Life isn't a matter of milestones, but of moments.
+
+George Bernard Shaw
+Life isn't about finding yourself. Life is about creating yourself.
+
+Hans Christian Andersen
+Life itself is the most wonderful fairy tale.
+
+Julia Child
+Life itself is the proper binge.
+
+Karen Horney
+Life itself still remains a very effective therapist.
+
+Alexis Carrel
+Life leaps like a geyser for those who drill through the rock of inertia.
+
+Maya Angelou
+Life loves the liver of it.
+
+Plato
+Life must be lived as play.
+
+Rebecca West
+Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul.
+
+Leonardo da Vinci
+Life well spent is long.
+
+Samuel Smiles
+Life will always be to a large extent what we ourselves make it.
+
+Stephen Hawking
+Life would be tragic if it weren't funny.
+
+Joel Osteen
+Life's a fight. It's a good fight of faith.
+
+Lucius Annaeus Seneca
+Life's like a play: it's not the length, but the excellence of the acting that matters.
+
+Andrew Lang
+Life's more amusing than we thought.
+
+Martin Luther King, Jr.
+Life's most persistent and urgent question is, 'What are you doing for others?'
+
+Elizabeth Barrett Browning
+Light tomorrow with today!
+
+David Hockney
+Listening is a positive act: you have to put yourself out to do it.
+
+Red Skelton
+Live by this credo: have a little laugh at life and look around you for happiness instead of sadness. Laughter has always brought me out of unhappy situations.
+
+Matt Cameron
+Live life to the fullest, and focus on the positive.
+
+Henry David Thoreau
+Live your beliefs and you can turn the world around.
+
+Elisabeth Kubler-Ross
+Live, so you do not have to look back and say: 'God, how I have wasted my life.'
+
+William James
+Lives based on having are less free than lives based either on doing or being.
+
+George Herbert
+Living well is the best revenge.
+
+Queen Latifah
+Look at people for an example, but then make sure to do things your way. Surround yourself with positive people.
+
+Walter Scott
+Look back, and smile on perils past.
+
+Pat Riley
+Look for your choices, pick the best one, then go with it.
+
+Stephen Hawking
+Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+
+Mae West
+Look your best - who said love is blind?
+
+Michelangelo
+Lord, grant that I may always desire more than I can accomplish.
+
+Johann Wolfgang von Goethe
+Love and desire are the spirit's wings to great deeds.
+
+Mother Teresa
+Love is a fruit in season at all times, and within reach of every hand.
+
+Martin Luther King, Jr.
+Love is the only force capable of transforming an enemy into a friend.
+
+Corita Kent
+Love the moment and the energy of that moment will spread beyond all boundaries.
+
+Jenn Proske
+Love yourself. It is important to stay positive because beauty comes from the inside out.
+
+Ray Kroc
+Luck is a dividend of sweat. The more you sweat, the luckier you get.
+
+Bernard Williams
+Man never made any material as resilient as the human spirit.
+
+Oliver Herford
+Many are called but few get up.
+
+Khalil Gibran
+March on. Do not tarry. To go forward is to move toward perfection. March on, and fear not the thorns, or the sharp stones on life's path.
+
+Arthur Miller
+Maybe all one can do is hope to end up with the right regrets.
+
+Jack Kerouac
+Maybe that's what life is... a wink of the eye and winking stars.
+
+Rosa Parks
+Memories of our lives, of our works and our deeds will continue in others.
+
+Henry David Thoreau
+Men are born to succeed, not to fail.
+
+Tim Allen
+Men are liars. We'll lie about lying if we have to. I'm an algebra liar. I figure two good lies make a positive.
+
+Albert Camus
+Men must live and create. Live to the point of tears.
+
+Lloyd Jones
+Men who try to do something and fail are infinitely better than those who try to do nothing and succeed.
+
+C. S. Lewis
+Miracles are a retelling in small letters of the very same story which is written across the whole world in letters too large for some of us to see.
+
+Marianne Williamson
+Miracles occur naturally as expressions of love. The real miracle is the love that inspires them. In this sense everything that comes from love is a miracle.
+
+Oscar Wilde
+Morality is simply the attitude we adopt towards people whom we personally dislike.
+
+Napoleon Hill
+Most great people have attained their greatest success just one step beyond their greatest failure.
+
+Henry David Thoreau
+Most of the luxuries and many of the so-called comforts of life are not only not indispensable, but positive hindrances to the elevation of mankind.
+
+Bernard Baruch
+Most of the successful people I've known are the ones who do more listening than talking.
+
+Frank Crane
+Most of the things we decide are not what we know to be the best. We say yes, merely because we are driven into a corner and must say something.
+
+Dale Carnegie
+Most of us have far more courage than we ever dreamed we possessed.
+
+Marilu Henner
+Most of us start out with a positive attitude and a plan to do our best.
+
+Samuel Butler
+Most people have never learned that one of the main aims in life is to enjoy it.
+
+Robert H. Schuller
+Most people who succeed in the face of seemingly impossible conditions are people who simply don't know how to quit.
+
+Dwight D. Eisenhower
+Motivation is the art of getting people to do what you want them to do because they want to do it.
+
+Norman Ralph Augustine
+Motivation will almost always beat mere talent.
+
+Rudy Ruettiger
+Motivational speaking became my career. Who would ever have thought it?
+
+George Groves
+Motivational talks are something I have been asked to do and i fancy taking a crack at it.
+
+Taika Waititi
+Music - it's motivational and just makes you relax.
+
+Michael Jordan
+My attitude is that if you push me towards something that you think is a weakness, then I will turn that perceived weakness into a strength.
+
+Simon Cowell
+My attitude is, if someone's going to criticize me, tell me to my face.
+
+Irwin Shaw
+My attitudes have changed, but somebody would have to read all my books to find out how they have.
+
+Henry Ford
+My best friend is the one who brings out the best in me.
+
+Alia Bhatt
+My dad is too cute. Every morning, he sends me one motivational quote. I have a folder full of all his quotes.
+
+Samuel Johnson
+My dear friend, clear your mind of cant.
+
+Bobby Darin
+My family comes first. Maybe that's what makes me different from other guys.
+
+Aishwarya Rai Bachchan
+My family is my strength and my weakness.
+
+Haywood Nelson
+My family was my guide to my reality.
+
+Tridha Choudhury
+My father is my true inspiration. He's a motivational speaker, so he does a fine job of guiding me.
+
+Cary Grant
+My formula for living is quite simple. I get up in the morning and I go to bed at night. In between, I occupy myself as best I can.
+
+Emily Dickinson
+My friends are my estate.
+
+Richard Branson
+My general attitude to life is to enjoy every minute of every day. I never do anything with a feeling of, 'Oh God, I've got to do this today.'
+
+Abraham Lincoln
+My great concern is not whether you have failed, but whether you are content with your failure.
+
+Chris de Burgh
+My house is a very calm and beautiful place and is full of positive energy.
+
+Hugh Leonard
+My life is every moment of my life. It is not a culmination of the past.
+
+Mahatma Gandhi
+My life is my message.
+
+Francis Quarles
+My mind's my kingdom.
+
+Maya Angelou
+My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.
+
+Scott Eastwood
+My mother taught me to be honest, to be selfless, and to touch people in a positive way.
+
+Fran Kirby
+My mum was massively important to everything I've done, and now her memory is a motivational tool for me.
+
+Henry Rollins
+My optimism wears heavy boots and is loud.
+
+Mavis Staples
+My purpose: to lift your spirit and to motivate you.
+
+Michel de Montaigne
+My trade and art is to live.
+
+Carl Sandburg
+Nearly all the best things that came to me in life have been unexpected, unplanned by me.
+
+Bret Harte
+Never a lip is curved with pain that can't be kissed into smiles again.
+
+Harvey Fierstein
+Never be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life; define yourself.
+
+Benjamin Disraeli
+Never complain and never explain.
+
+Elbert Hubbard
+Never explain - your friends do not need it and your enemies will not believe you anyway.
+
+Hubert H. Humphrey
+Never give in and never give up.
+
+Winston Churchill
+Never give up on something that you can't go a day without thinking about.
+
+Harriet Beecher Stowe
+Never give up, for that is just the place and time that the tide will turn.
+
+Ralph Waldo Emerson
+Never lose an opportunity of seeing anything beautiful, for beauty is God's handwriting.
+
+Benjamin Jowett
+Never retreat. Never explain. Get it done and let them howl.
+
+Niccolo Machiavelli
+Never was anything great achieved without danger.
+
+Winston Churchill
+Never, never, never give up.
+
+Charles Caleb Colton
+Next to acquiring good friends, the best acquisition is that of good books.
+
+Aesop
+No act of kindness, no matter how small, is ever wasted.
+
+William Blake
+No bird soars too high if he soars with his own wings.
+
+William Feather
+No man is a failure who is enjoying life.
+
+Jessica Savitch
+No matter how many goals you have achieved, you must set your sights on a higher one.
+
+Epictetus
+No matter what happens, it is within my power to turn it to my advantage.
+
+Robin Williams
+No matter what people tell you, words and ideas can change the world.
+
+Alice Walker
+No person is your friend who demands your silence, or denies your right to grow.
+
+Albert Einstein
+No problem can be solved from the same level of consciousness that created it.
+
+Blaise Pascal
+Noble deeds that are concealed are most esteemed.
+
+Tom Wilson
+Nobody got where they are today by living for tomorrow.
+
+Edmund Burke
+Nobody made a greater mistake than he who did nothing because he could do only a little.
+
+Franz Schubert
+Nobody understands another's sorrow, and nobody another's joy.
+
+George Halas
+Nobody who ever gave his best regretted it.
+
+Brendan Gill
+Not a shred of evidence exists in favor of the idea that life is serious.
+
+Socrates
+Not life, but good life, is to be chiefly valued.
+
+William Morris
+Not on one strand are all life's jewels strung.
+
+Thomas Jefferson
+Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.
+
+Marie Curie
+Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+
+John Heywood
+Nothing is impossible to a willing heart.
+
+Audrey Hepburn
+Nothing is impossible, the word itself says 'I'm possible'!
+
+Peter Diamandis
+Nothing is more precious than life... especially the life of your child.
+
+Arthur Koestler
+Nothing is more sad than the death of an illusion.
+
+Johann Wolfgang von Goethe
+Nothing is worth more than this day.
+
+Benjamin Disraeli
+Nurture your minds with great thoughts. To believe in the heroic makes heroes.
+
+Pope Paul VI
+Of all human activities, man's listening to God is the supreme act of his reasoning and will.
+
+Herodotus
+Of all possessions a friend is the most precious.
+
+Nicolaus Copernicus
+Of all things visible, the highest is the heaven of the fixed stars.
+
+Anne Bronte
+Oh, I am very weary, Though tears no longer flow; My eyes are tired of weeping, My heart is sick of woe.
+
+John Selden
+Old friends are best.
+
+e. e. cummings
+Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit.
+
+Elie Wiesel
+Once you bring life into the world, you must protect it. We must protect it by changing the world.
+
+Willie Nelson
+Once you replace negative thoughts with positive ones, you'll start having positive results.
+
+John F. Kennedy
+Once you say you're going to settle for second, that's what happens to you in life.
+
+Nargis Fakhri
+One day, I will tell my story... where I came from and where I am now and how I remained positive.
+
+Herbert A. Simon
+One finds limits by pushing them.
+
+Euripides
+One loyal friend is worth ten thousand relatives.
+
+Thomas Fuller
+One may miss the mark by aiming too high as too low.
+
+Jackie Kennedy
+One must not let oneself be overwhelmed by sadness.
+
+Eric Butterworth
+One of the best things to do sometimes is simply to be.
+
+Lucius Annaeus Seneca
+One of the most beautiful qualities of true friendship is to understand and to be understood.
+
+Napoleon Hill
+One of the most important principles of success is developing the habit of going the extra mile.
+
+Ralph Fiennes
+One of the things that binds us as a family is a shared sense of humor.
+
+Benjamin Disraeli
+One secret of success in life is for a man to be ready for his opportunity when it comes.
+
+Benjamin Franklin
+One today is worth two tomorrows.
+
+William Feather
+One way to get the most out of life is to look upon it as an adventure.
+
+Michael Korda
+One way to keep momentum going is to have constantly greater goals.
+
+Albert Einstein
+Only a life lived for others is a life worthwhile.
+
+Novalis
+Only an artist can interpret the meaning of life.
+
+Carol Burnett
+Only I can change my life. No one can do it for me.
+
+Albert Einstein
+Only one who devotes himself to a cause with his whole strength and soul can be a true master. For this reason mastery demands all of a person.
+
+Epictetus
+Only the educated are free.
+
+Anthony Doerr
+Open your eyes and see what you can with them before they close forever.
+
+Bob Marley
+Open your eyes, look within. Are you satisfied with the life you're living?
+
+Kyle Chandler
+Opportunity does not knock, it presents itself when you beat down the door.
+
+Helen Keller
+Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+
+John N. Mitchell
+Our attitude toward life determines life's attitude towards us.
+
+Earl Nightingale
+Our attitude towards others determines their attitude towards us.
+
+Ralph Waldo Emerson
+Our best thoughts come from others.
+
+Robert Louis Stevenson
+Our business in life is not to succeed, but to continue to fail in good spirits.
+
+Ralph Waldo Emerson
+Our chief want is someone who will inspire us to be what we know we could be.
+
+Jean Anouilh
+Our entire life - consists ultimately in accepting ourselves as we are.
+
+Earl Nightingale
+Our environment, the world in which we live and work, is a mirror of our attitudes and expectations.
+
+Joe Biden
+Our future cannot depend on the government alone. The ultimate solutions lie in the attitudes and the actions of the American people.
+
+Thomas Carlyle
+Our grand business undoubtedly is, not to see what lies dimly at a distance, but to do what lies clearly at hand.
+
+Thomas A. Edison
+Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+
+Amos Bronson Alcott
+Our ideals are our better selves.
+
+Soren Kierkegaard
+Our life always expresses the result of our dominant thoughts.
+
+Marcus Aurelius
+Our life is what our thoughts make it.
+
+Wade Boggs
+Our lives are not determined by what happens to us but how we react to what happens, not by what life brings us but the attitude we bring to life.
+
+Dalai Lama
+Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.
+
+Percy Bysshe Shelley
+Our sweetest songs are those that tell of saddest thought.
+
+Henry David Thoreau
+Our truest life is when we are in dreams awake.
+
+Jean de la Bruyere
+Out of difficulties grow miracles.
+
+Havelock Ellis
+Pain and death are part of life. To reject them is to reject life itself.
+
+Joseph Campbell
+Participate joyfully in the sorrows of the world. We cannot cure the world of sorrows, but we can choose to live in joy.
+
+Rudy Ruettiger
+People always need to hear good motivational speeches.
+
+Douglas Coupland
+People are pretty forgiving when it comes to other people's families. The only family that ever horrifies you is your own.
+
+Harvey Mackay
+People begin to become successful the minute they decide to be.
+
+Thich Nhat Hanh
+People deal too much with the negative, with what is wrong. Why not try and see positive things, to just touch those things and make them bloom?
+
+Stephen Keshi
+People don't have to believe in you for you to succeed. Just work hard, when you succeed, they will believe.
+
+Anais Nin
+People living deeply have no fear of death.
+
+John C. Maxwell
+People may hear your words, but they feel your attitude.
+
+Jim Nantz
+People say 'dream big,' that's kind of one of those motivational sayings, but I would dream hard, meaning I just wanted it so badly, I could feel it.
+
+Stedman Graham
+People who consider themselves victims of their circumstances will always remain victims unless they develop a greater vision for their lives.
+
+Vince Lombardi
+Perfection is not attainable, but if we chase perfection we can catch excellence.
+
+Colin Powell
+Perpetual optimism is a force multiplier.
+
+Julie Andrews
+Perseverance is failing 19 times and succeeding the 20th.
+
+Walter Elliot
+Perseverance is not a long race; it is many short races one after the other.
+
+Aristotle
+Personal beauty is a greater recommendation than any letter of reference.
+
+William James
+Pessimism leads to weakness, optimism to power.
+
+Miley Cyrus
+Pink isn't just a color, it's an attitude!
+
+Joseph Barber Lightfoot
+Plant thy foot firmly in the prints which His foot has made before thee.
+
+Johann Wolfgang von Goethe
+Plunge boldly into the thick of life, and seize it where you will, it is always interesting.
+
+Elbert Hubbard
+Positive anything is better than negative nothing.
+
+Tommy Tuberville
+Positive attitude plus effort equals performance.
+
+Mya
+Positive energy and attitude is sexy to me.
+
+Lu Wei
+Positive energy knows no boundaries. If everyone were to spread positive energy on the Internet, the world would be a much better place.
+
+Zig Ziglar
+Positive thinking will let you do everything better than negative thinking will.
+
+Jimmy Dean
+Poverty was the greatest motivating factor in my life.
+
+W. Clement Stone
+Prayer is man's greatest power!
+
+George Whitefield
+Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.
+
+Robert H. Schuller
+Problems are not stop signs, they are guidelines.
+
+Emily Bronte
+Proud people breed sad sorrows for themselves.
+
+David Byrne
+Punk was defined by an attitude rather than a musical style.
+
+Carl von Clausewitz
+Pursue one great decisive aim with force and determination.
+
+Swami Sivananda
+Put your heart, mind, and soul into even your smallest acts. This is the secret of success.
+
+Aristotle
+Quality is not an act, it is a habit.
+
+Juvenal
+Rare is the union of beauty and purity.
+
+Christa McAuliffe
+Reach for it. Push yourself as far as you can.
+
+Laetitia Casta
+Real beauty is to be true to oneself. That's what makes me feel good.
+
+Theodore Newton Vail
+Real difficulties can be overcome; it is only the imaginary ones that are unconquerable.
+
+Bill Blass
+Red is the ultimate cure for sadness.
+
+Charles Dickens
+Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.
+
+Marcus Aurelius
+Reject your sense of injury and the injury itself disappears.
+
+Anna Lee
+Remember even though the outside world might be raining, if you keep on smiling the sun will soon show its face and smile back at you.
+
+H. Jackson Brown, Jr.
+Remember that the most valuable antiques are dear old friends.
+
+Horace
+Remember when life's path is steep to keep your mind even.
+
+Bruce Lee
+Remember, success is a journey not a destination. Have faith in your ability. You will do just fine.
+
+T. D. Jakes
+Resist your fear; fear will never lead to you a positive end. Go for your faith and what you believe.
+
+Mattie Stepanek
+Sad things happen. They do. But we don't need to live sad forever.
+
+Jean de La Fontaine
+Sadness flies away on the wings of time.
+
+Ivo Andric
+Sadness is also a kind of defence.
+
+Arthur Schopenhauer
+Satisfaction consists in freedom from pain, which is the positive element of life.
+
+Robert A. Cook
+Say and do something positive that will help the situation; it doesn't take any brains to complain.
+
+Virat Kohli
+Self-belief and hard work will always earn you success.
+
+Ralph Waldo Emerson
+Self-trust is the first secret of success.
+
+Bo Jackson
+Set your goals high, and don't stop till you get there.
+
+Phillips Brooks
+Set yourself earnestly to see what you are made to do, and then set yourself earnestly to do it.
+
+Woody Allen
+Seventy percent of success in life is showing up.
+
+Raymond Chandler
+She gave me a smile I could feel in my hip pocket.
+
+Groucho Marx
+She got her looks from her father. He's a plastic surgeon.
+
+Les Brown
+Shoot for the moon and if you miss you will still be among the stars.
+
+Marlee Matlin
+Silence is the last thing the world will ever hear from me.
+
+Saint Augustine
+Since love grows within you, so beauty grows. For love is the beauty of the soul.
+
+Aung San Suu Kyi
+Since we live in this world, we have to do our best for this world.
+
+Margaret Mead
+Sister is probably the most competitive relationship within the family, but once the sisters are grown, it becomes the strongest relationship.
+
+William C. Menninger
+Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+
+Peter Marshall
+Small deeds done are better than great deeds planned.
+
+Yoko Ono
+Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.
+
+Andre Maurois
+Smile, for everyone lacks self-confidence and more than any other one thing a smile reassures them.
+
+Douglas Horton
+Smile, it's free therapy.
+
+Rashida Jones
+Smiling is definitely one of the best beauty remedies. If you have a good sense of humor and a good approach to life, that's beautiful.
+
+Gail Porter
+So long as you've got your friends about you, and a good positive attitude, you don't really have to care what everyone else thinks.
+
+Martha Graham
+Some men have thousands of reasons why they cannot do what they want to, when all they need is one reason why they can.
+
+Bob Ehrlich
+Some of the most important conversations I've ever had occurred at my family's dinner table.
+
+Virginia Woolf
+Some people go to priests; others to poetry; I to my friends.
+
+Warren Buffett
+Someone is sitting in the shade today because someone planted a tree a long time ago.
+
+Randa Abdel-Fattah
+Sometimes it's easy to lose faith in people. And sometimes one act of kindness is all it takes to give you hope again.
+
+Steve Jobs
+Sometimes life hits you in the head with a brick. Don't lose faith.
+
+John Lydon
+Sometimes the most positive thing you can be in a boring society is absolutely negative.
+
+Sharon Begley
+Somewhere, something incredible is waiting to be known.
+
+Bo Bennett
+Spend some time this weekend on home improvement; improve your attitude toward your family.
+
+Francis of Assisi
+Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.
+
+Arthur Ashe
+Start where you are. Use what you have. Do what you can.
+
+Tena Desae
+Stay positive and happy. Work hard and don't give up hope. Be open to criticism and keep learning. Surround yourself with happy, warm and genuine people.
+
+Charles Atlas
+Step by step and the thing is done.
+
+Tyra Banks
+Stop saying these negative things about yourself. Look in the mirror and find something about yourself that's positive and celebrate that!
+
+Dolly Parton
+Stop this attitude that older people ain't any good anymore! We're as good as we ever were - if we ever were any good.
+
+Shawn Ashmore
+Style is a reflection of your attitude and your personality.
+
+Vince Lombardi
+Success demands singleness of purpose.
+
+George Bernard Shaw
+Success does not consist in never making mistakes but in never making the same one a second time.
+
+Malcolm Forbes
+Success follows doing what you want to do. There is no other way to be successful.
+
+Joyce Brothers
+Success is a state of mind. If you want success, start thinking of yourself as a success.
+
+Jon Bon Jovi
+Success is falling nine times and getting up ten.
+
+Walter Cronkite
+Success is more permanent when you achieve it without destroying your principles.
+
+Evan Esar
+Success is the good fortune that comes from aspiration, desperation, perspiration,and inspiration.
+
+Woody Hayes
+Success is the only motivational factor that a boy with character needs.
+
+Earl Nightingale
+Success is the progressive realization of a worthy goal or ideal.
+
+Robert Collier
+Success is the sum of small efforts, repeated day-in and day-out.
+
+George A. Sheehan
+Success means having the courage, the determination, and the will to become the person you believe you were meant to be.
+
+John C. Maxwell
+Successful and unsuccessful people do not vary greatly in their abilities. They vary in their desires to reach their potential.
+
+Brian Tracy
+Successful people are simply those with successful habits.
+
+Shaun White
+Surfers have the most attitude.
+
+Boris Pasternak
+Surprise is the greatest gift which life can grant us.
+
+George Whitefield
+Take care of your life and the Lord will take care of your death.
+
+Og Mandino
+Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.
+
+Rosalind Russell
+Taking joy in living is a woman's best cosmetic.
+
+Jean Beliveau
+Talent is a gift, but you can only succeed with hard work.
+
+Louis C. K.
+Talking is always positive. That's why I talk too much.
+
+Alfred Austin
+Tears are the summer showers to the soul.
+
+Leonardo da Vinci
+Tears come from the heart and not from the brain.
+
+Hosea Ballou
+Tears of joy are like the summer rain drops pierced by sunbeams.
+
+William Wordsworth
+That best portion of a man's life, his little, nameless, unremembered acts of kindness and love.
+
+Emily Dickinson
+That it will never come again is what makes life sweet.
+
+Abraham Lincoln
+That some achieve great success, is proof to all that others can achieve it as well.
+
+George Foreman
+That's my gift. I let that negativity roll off me like water off a duck's back. If it's not positive, I didn't hear it. If you can overcome that, fights are easy.
+
+Fred Durst
+That's your best friend and your worst enemy - your own brain.
+
+Havelock Ellis
+The absence of flaw in beauty is itself a flaw.
+
+Henry Miller
+The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.
+
+William Hazlitt
+The art of life is to know how to enjoy a little and to endure very much.
+
+Marcus Aurelius
+The art of living is more like wrestling than dancing.
+
+Lou Ferrigno
+The attitude is very important. Because, your behavior radiates how you feel.
+
+Sarah Ban Breathnach
+The authentic self is the soul made visible.
+
+H. L. Mencken
+The basic fact about human existence is not that it is a tragedy, but that it is a bore. It is not so much a war as an endless standing in line.
+
+Helen Keller
+The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.
+
+George Orwell
+The best books... are those that tell you what you know already.
+
+Napoleon Bonaparte
+The best cure for the body is a quiet mind.
+
+Jonathan Swift
+The best doctors in the world are Doctor Diet, Doctor Quiet, and Doctor Merryman.
+
+Simon Sinek
+The best ideas are the honest ones. Ones born out of personal experience. Ones that originated to help a few but ended up helping many.
+
+David Ogilvy
+The best ideas come as jokes. Make your thinking as funny as possible.
+
+Laurence J. Peter
+The best intelligence test is what we do with our leisure.
+
+Voltaire
+The best is the enemy of the good.
+
+Douglas MacArthur
+The best luck of all is the luck you make for yourself.
+
+Peter Nivio Zarlenga
+The best mirror is an old friend.
+
+Francis Bacon
+The best part of beauty is that which no picture can express.
+
+Henri Frederic Amiel
+The best path through life is the highway.
+
+Mark Burnett
+The best person to get something done is a busy person.
+
+H. Jackson Brown, Jr.
+The best preparation for tomorrow is doing your best today.
+
+William Osler
+The best preparation for tomorrow is to do today's work superbly well.
+
+Frank Sinatra
+The best revenge is massive success.
+
+Marcus Aurelius
+The best revenge is to be unlike him who performed the injury.
+
+Eddie Vedder
+The best revenge is to live on and prove yourself.
+
+John F. Kennedy
+The best road to progress is freedom's road.
+
+Thornton Wilder
+The best thing about animals is that they don't talk much.
+
+Dean Acheson
+The best thing about the future is that it comes only one day at a time.
+
+Ambrose Bierce
+The best thing to do with the best things in life is to give them up.
+
+Scott Adams
+The best things in life are silly.
+
+Josh Billings
+The best time for you to hold your tongue is the time you feel you must say something or bust.
+
+Ethel Barrymore
+The best time to make friends is before you need them.
+
+Malcolm Forbes
+The best vision is insight.
+
+David Icke
+The best way of removing negativity is to laugh and be joyous.
+
+Robert Frost
+The best way out is always through.
+
+Mark Twain
+The best way to cheer yourself up is to try to cheer somebody else up.
+
+Ernest Hemingway
+The best way to find out if you can trust somebody is to trust them.
+
+Mahatma Gandhi
+The best way to find yourself is to lose yourself in the service of others.
+
+Mae West
+The best way to hold a man is in your arms.
+
+Napoleon Bonaparte
+The best way to keep one's word is not to give it.
+
+Wilson Mizner
+The best way to keep your friends is not to give them away.
+
+Gerald Jampolsky
+The best way to navigate through life is to give up all of our controls.
+
+Peter Drucker
+The best way to predict the future is to create it.
+
+Dalai Lama
+The best way to resolve any problem in the human world is for all sides to sit down and talk.
+
+Jean-Paul Sartre
+The best work is not what is most difficult for you; it is what you do best.
+
+Jim Fowler
+The biggest challenge is how to affect public attitudes and make people care.
+
+William Blake
+The bird a nest, the spider a web, man friendship.
+
+A. P. J. Abdul Kalam
+The bird is powered by its own life and by its motivation.
+
+Richard Bach
+The bond that links your true family is not one of blood, but of respect and joy in each other's life.
+
+Alfred Adler
+The chief danger in life is that you may take too many precautions.
+
+Oliver Goldsmith
+The company of fools may first make us smile, but in the end we always feel melancholy.
+
+Edwin Hubbel Chapin
+The creed of a true saint is to make the best of life, and to make the most of it.
+
+Georgia O'Keeffe
+The days you work are the best days.
+
+Abraham Cahan
+The dearest days in one's life are those that seem very far and very near at once.
+
+George A. Moore
+The difficulty in life is the choice.
+
+Golda Meir
+The dog that trots about finds a bone.
+
+George Santayana
+The family is one of nature's masterpieces.
+
+Pope John XXIII
+The family is the first essential cell of human society.
+
+Will Durant
+The family is the nucleus of civilization.
+
+Gilbert K. Chesterton
+The family is the test of freedom; because the family is the only thing that the free man makes for himself and by himself.
+
+Ring Lardner
+The family you come from isn't as important as the family you're going to have.
+
+Kurt Warner
+The farther we go down a negative path, which we see every day, the more we yearn for the positive.
+
+William Lyon Phelps
+The fear of life is the favorite disease of the 20th century.
+
+Mark Caine
+The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.
+
+Malcolm de Chazal
+The flower in the vase smiles, but no longer laughs.
+
+Ralph Nader
+The function of leadership is to produce more leaders, not more followers.
+
+Albert Einstein
+The gift of fantasy has meant more to me than my talent for absorbing positive knowledge.
+
+Thomas Jefferson
+The glow of one warm thought is to me worth more than money.
+
+Bertrand Russell
+The good life is one inspired by love and guided by knowledge.
+
+John C. Maxwell
+The greatest day in your life and mine is when we take total responsibility for our attitudes. That's the day we truly grow up.
+
+William James
+The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.
+
+James Truslow Adams
+The greatest discovery of my generation is that man can alter his life simply by altering his attitude of mind.
+
+Hubert H. Humphrey
+The greatest gift of life is friendship, and I have received it.
+
+Euripides
+The greatest pleasure of life is love.
+
+Robert Frost
+The greatest thing in family life is to take a hint when a hint is intended-and not to take a hint when a hint isn't intended.
+
+Henri Nouwen
+The greatest trap in our life is not success, popularity or power, but self-rejection.
+
+William James
+The greatest use of a life is to spend it on something that will outlast it.
+
+Gordon Parks
+The guy who takes a chance, who walks the line between the known and unknown, who is unafraid of failure, will succeed.
+
+Marlee Matlin
+The handicap of deafness is not in the ear; it is in the mind.
+
+Samuel Taylor Coleridge
+The happiness of life is made up of minute fractions - the little, soon forgotten charities of a kiss or a smile, a kind look or heartfelt compliment.
+
+Thomas Paine
+The harder the conflict, the more glorious the triumph.
+
+Helen Hayes
+The hardest years in life are those between ten and seventy.
+
+Philip Emeagwali
+The hardships that I encountered in the past will help me succeed in the future.
+
+Arthur Ashe
+The ideal attitude is to be physically loose and mentally tight.
+
+Henry Adams
+The Indian Summer of life should be a little sunny and a little sad, like the season, and infinite in wealth and depth of tone, but never hustled.
+
+Ben Stein
+The indispensable first step to getting the things you want out of life is this: decide what you want.
+
+Noam Chomsky
+The internet could be a very positive step towards education, organisation and participation in a meaningful society.
+
+Sophocles
+The keenest sorrow is to recognize ourselves as the sole cause of all our adversities.
+
+Epictetus
+The key is to keep company only with people who uplift you, whose presence calls forth your best.
+
+Napoleon Hill
+The ladder of success is never crowded at the top.
+
+Henry David Thoreau
+The language of friendship is not words but meanings.
+
+Georg Wilhelm Friedrich Hegel
+The learner always begins by finding fault, but the scholar sees the positive merit in everything.
+
+Amos Bronson Alcott
+The less routine the more life.
+
+Yanni
+The less you want, the richer you are. The more you need in order to be happy, the more miserable you’ll be.
+
+Arthur C. Clarke
+The limits of the possible can only be defined by going beyond them into the impossible.
+
+Charles R. Swindoll
+The longer I live, the more I realize the impact of attitude on life.
+
+Charles Kuralt
+The love of family and the admiration of friends is much more important than wealth and privilege.
+
+E. M. Forster
+The main facts in human life are five: birth, food, sleep, love and death.
+
+Charles M. Schwab
+The man who has done his best has done everything.
+
+Henri Frederic Amiel
+The man who has no inner-life is a slave to his surroundings.
+
+John D. Rockefeller
+The man who starts out simply with the idea of getting rich won't succeed, you must have a larger ambition.
+
+Antoine de Saint-Exupery
+The meaning of things lies not in the things themselves, but in our attitude towards them.
+
+Vince Lombardi
+The measure of who we are is what we do with what we have.
+
+Albert Einstein
+The monotony and solitude of a quiet life stimulates the creative mind.
+
+Confucius
+The more man meditates upon good thoughts, the better will be his world and the world at large.
+
+John C. Maxwell
+The more seriously you take your growth, the more seriously your people will take you.
+
+Lucille Ball
+The more things you do, the more you can do.
+
+William Hazlitt
+The more we do, the more we can do.
+
+Chris Pine
+The more you are positive and say, 'I want to have a good life,' the more you build that reality for yourself by creating the life that you want.
+
+Ben Okri
+The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering.
+
+Thomas Sowell
+The most basic question is not what is best, but who shall decide what is best.
+
+Wallace Stevens
+The most beautiful thing in the world is, of course, the world itself.
+
+Amelia Earhart
+The most effective way to do it, is to do it.
+
+Anne Morrow Lindbergh
+The most exhausting thing in life is being insincere.
+
+Audrey Hepburn
+The most important thing is to enjoy your life - to be happy - it's all that matters.
+
+Kobe Bryant
+The most important thing is to try and inspire people so that they can be great in whatever they want to do.
+
+Alexander Pope
+The most positive men are the most credulous.
+
+Pierre Teilhard de Chardin
+The most satisfying thing in life is to have been able to give a large part of one's self to others.
+
+Bettany Hughes
+The occasional motivational speech gig tends to pay better than the books and television.
+
+Scott Hamilton
+The only disability in life is a bad attitude.
+
+Rainer Maria Rilke
+The only journey is the one within.
+
+Buddha
+The only real failure in life is not to be true to the best one knows.
+
+Lee Iacocca
+The only rock I know that stays steady, the only institution I know that works, is the family.
+
+Albert Einstein
+The only sure way to avoid making mistakes is to have no new ideas.
+
+Helen Gurley Brown
+The only thing that separates successful people from the ones who aren't is the willingness to work very, very hard.
+
+Ray Manzarek
+The only thing that ultimately matters is to eat an ice-cream cone, play a slide trombone, plant a small tree, good God, now you're free.
+
+Arthur C. Clarke
+The only way to discover the limits of the possible is to go beyond them into the impossible.
+
+George Carlin
+The other night I ate at a real nice family restaurant. Every table had an argument going.
+
+Unknown
+The past cannot be changed. The future is yet in your power.
+
+Henry Drummond
+The people who influence you are the people who believe in you.
+
+Robert Herrick
+The person lives twice who lives the first life well.
+
+Bennett Cerf
+The person who can bring the spirit of laughter into a room is indeed blessed.
+
+Norman Vincent Peale
+The person who sends out positive thoughts activates the world around him positively and draws back to himself positive results.
+
+Anais Nin
+The personal life deeply lived always expands into truths beyond itself.
+
+John Muir
+The power of imagination makes us infinite.
+
+Henry David Thoreau
+The price of anything is the amount of life you exchange for it.
+
+Winston Churchill
+The price of greatness is responsibility.
+
+Joseph Campbell
+The privilege of a lifetime is being who you are.
+
+Robert Byrne
+The purpose of life is a life of purpose.
+
+Dalai Lama
+The purpose of our lives is to be happy.
+
+Martin Luther King, Jr.
+The quality, not the longevity, of one's life is what is important.
+
+Theodore Roosevelt
+The reactionary is always willing to take a progressive attitude on any issue that is dead.
+
+Gilbert Parker
+The real business of life is trying to understand each other.
+
+Thomas Paine
+The real man smiles in trouble, gathers strength from distress, and grows brave by reflection.
+
+Zig Ziglar
+The real opportunity for success lies within the person and not in the job.
+
+Walter Chrysler
+The real secret of success is enthusiasm.
+
+Charles R. Swindoll
+The remarkable thing is, we have a choice everyday regarding the attitude we will embrace for that day.
+
+Lily Tomlin
+The road to success is always under construction.
+
+Saadi
+The rose and the thorn, and sorrow and gladness are linked together.
+
+Hannah Arendt
+The sad truth is that most evil is done by people who never make up their minds to be good or evil.
+
+Gloria Estefan
+The sad truth is that opportunity doesn't knock twice.
+
+Henry David Thoreau
+The secret of achievement is to hold a picture of a successful outcome in mind.
+
+Aldous Huxley
+The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm.
+
+Mark Twain
+The secret of getting ahead is getting started.
+
+Benjamin Disraeli
+The secret of success is constancy to purpose.
+
+Mark Twain
+The secret of success is making your vocation your vacation.
+
+Carl Jung
+The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+
+Tom Peters
+The simple act of paying positive attention to people has a great deal to do with productivity.
+
+Johann Wolfgang von Goethe
+The soul that sees beauty may sometimes walk alone.
+
+Jimi Hendrix
+The story of life is quicker than the blink of an eye, the story of love is hello, goodbye.
+
+Dale Carnegie
+The successful man will profit from his mistakes and try again in a different way.
+
+Thomas Aquinas
+The things that we love tell us what we are.
+
+Luc de Clapiers
+The things we know best are the things we haven't been taught.
+
+Moliere
+The trees that are slow to grow bear the best fruit.
+
+Gilbert K. Chesterton
+The true object of all human life is play. Earth is a task garden; heaven is a playground.
+
+William Morris
+The true secret of happiness lies in taking a genuine interest in all the details of daily life.
+
+Emile Zola
+The truth is on the march and nothing will stop it.
+
+Eminem
+The truth is you don't know what is going to happen tomorrow. Life is a crazy ride, and nothing is guaranteed.
+
+Ray Kroc
+The two most important requirements for major success are: first, being in the right place at the right time, and second, doing something about it.
+
+Muhammad Iqbal
+The ultimate aim of the ego is not to see something, but to be something.
+
+Richard L. Evans
+The undertaking of a new action brings new strength.
+
+Jim Rohn
+The walls we build around us to keep sadness out also keeps out the joy.
+
+B. F. Skinner
+The way positive reinforcement is carried out is more important than the amount.
+
+Walt Disney
+The way to get started is to quit talking and begin doing.
+
+Sylvia Browne
+The weeds keep multiplying in our garden, which is our mind ruled by fear. Rip them out and call them by name.
+
+Horace Walpole
+The whole secret of life is to be interested in one thing profoundly and in a thousand things well.
+
+Bobby Knight
+The will to succeed is important, but what's more important is the will to prepare.
+
+Confucius
+The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
+
+Edward Fitzgerald
+The Wine of Life keeps oozing drop by drop, The Leaves of Life keep falling one by one.
+
+Baltasar Gracian
+The wise does at once what the fool does at last.
+
+Carl Jung
+The word 'happy' would lose its meaning if it were not balanced by sadness.
+
+Irena Sendler
+The world can be better if there's love, tolerance and humility.
+
+Armistead Maupin
+The world changes in direct proportion to the number of people willing to be honest about their lives.
+
+Bertrand Russell
+The world is full of magical things patiently waiting for our wits to grow sharper.
+
+Francis Bacon
+The worst men often give the best advice.
+
+Will Rogers
+The worst thing that happens to you may be the best thing for you if you don't let it get the best of you.
+
+Domenico Dolce
+The worst times can be the best if you think with positive energy.
+
+Charles Kettering
+The Wright brothers flew right through the smoke screen of impossibility.
+
+Robert Quillen
+There are glimpses of heaven to us in every act, or thought, or word, that raises us above ourselves.
+
+William J. Brennan, Jr.
+There are no menial jobs, only menial attitudes.
+
+William Butler Yeats
+There are no strangers here; Only friends you haven't yet met.
+
+Millie Bobby Brown
+There are positive things that come of social media as well as negative.
+
+Orison Swett Marden
+There are powers inside of you which, if you could discover and use, would make of you everything you ever dreamed or imagined you could become.
+
+Willa Cather
+There are some things you learn best in calm, and some in storm.
+
+Robert Kennedy
+There are those who look at things the way they are, and ask why... I dream of things that never were, and ask why not?
+
+Stephen Covey
+There are three constants in life... change, choice and principles.
+
+Edith Wharton
+There are two ways of spreading light: to be the candle or the mirror that reflects it.
+
+Conrad Hall
+There is a kind of beauty in imperfection.
+
+Henry Van Dyke
+There is a loftier ambition than merely to stand high in the world. It is to stoop down and lift mankind a little higher.
+
+Tadao Ando
+There is a role and function for beauty in our time.
+
+Hillary Clinton
+There is a sense that things, if you keep positive and optimistic about what can be done, do work out.
+
+Daniel Webster
+There is always room at the top.
+
+Euripides
+There is just one life for each of us: our own.
+
+Mahatma Gandhi
+There is more to life than increasing its speed.
+
+Brian Koslow
+There is no advertisement as powerful as a positive reputation traveling fast.
+
+Maria Mitchell
+There is no cosmetic for beauty like happiness.
+
+Liv Tyler
+There is no definition of beauty, but when you can see someone's spirit coming through, something unexplainable, that's beautiful to me.
+
+Oliver Wendell Holmes, Sr.
+There is no friend like an old friend who has shared our morning days, no greeting like his welcome, no homage like his praise.
+
+Nelson Mandela
+There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
+
+Mark Twain
+There is no sadder sight than a young pessimist.
+
+Jerry Seinfeld
+There is no such thing as fun for the whole family.
+
+John Ruskin
+There is no wealth but life.
+
+Richard Rorty
+There is nothing deep down inside us except what we have put there ourselves.
+
+Alexander the Great
+There is nothing impossible to him who will try.
+
+Thomas Aquinas
+There is nothing on this earth more to be prized than true friendship.
+
+Han Suyin
+There is nothing stronger in the world than gentleness.
+
+Aldous Huxley
+There is only one corner of the universe you can be certain of improving, and that's your own self.
+
+Robert Louis Stevenson
+There is only one difference between a long life and a good dinner: that, in the dinner, the sweets come last.
+
+Doris Lessing
+There is only one real sin and that is to persuade oneself that the second best is anything but second best.
+
+Christopher Morley
+There is only one success - to be able to spend your life in your own way.
+
+Edgar Cayce
+There is progress whether ye are going forward or backward! The thing is to move!
+
+Chanakya
+There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+
+Buzz Aldrin
+There may be aliens in our Milky Way galaxy, and there are billions of other galaxies. The probability is almost certain that there is life somewhere in space.
+
+Brit Hume
+There's a certain elitism that has crept into the attitudes of some in journalism, and it played out perfectly over the issue of these little American flag lapel pins.
+
+Thomas A. Edison
+There's a way to do it better - find it.
+
+Willie Stargell
+There's nothing I value more than the closeness of friends and family, a smile as I pass someone on the street.
+
+Virgil
+They can conquer who believe they can.
+
+Emily Dickinson
+They might not need me; but they might. I'll let my head be just in sight; a smile as small as mine might be precisely their necessity.
+
+Jean Anouilh
+Things are beautiful if you love them.
+
+Bill Watterson
+Things are never quite as scary when you've got a best friend.
+
+John F. Kennedy
+Things do not happen. Things are made to happen.
+
+Cain Velasquez
+Things happen for some reason. I don't know what, but I just think about the positives, focus on getting better, and that's it.
+
+John Wooden
+Things turn out best for the people who make the best of the way things turn out.
+
+Anne Frank
+Think of all the beauty still left around you and be happy.
+
+Taisen Deshimaru
+Think with your whole body.
+
+Plato
+Thinking: the talking of the soul with itself.
+
+Hannah Arendt
+This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.
+
+Golda Meir
+Those who don't know how to weep with their whole heart, don't know how to laugh either.
+
+Tariq Ali
+Those who really value Ukrainian sovereignty should opt for real independence and a positive neutrality: neither a plaything of the West nor Moscow.
+
+Augustus Hare
+Thought is the wind, knowledge the sail, and mankind the vessel.
+
+Buddha
+Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.
+
+Will Smith
+Throughout life people will make you mad, disrespect you and treat you bad. Let God deal with the things they do, cause hate in your heart will consume you too.
+
+Anais Nin
+Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country.
+
+John Cale
+Time plays a role in almost every decision. And some decisions define your attitude about time.
+
+Carl Sandburg
+To be a good loser is to learn how to win.
+
+John Dalberg-Acton
+To be able to look back upon one's past life with satisfaction is to live twice.
+
+Robert Louis Stevenson
+To be wholly devoted to some intellectual exercise is to have succeeded in life.
+
+William Wordsworth
+To begin, begin.
+
+Max Beerbohm
+To give and then not feel that one has given is the very best of all ways of giving.
+
+Steve Prefontaine
+To give anything less than your best, is to sacrifice the gift.
+
+Dorothy Thompson
+To have felt too much is to end in feeling nothing.
+
+Desiderius Erasmus
+To know nothing is the happiest life.
+
+Albert Camus
+To know oneself, one should assert oneself.
+
+Buddha
+To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.
+
+Samuel Butler
+To live is like to love - all reason is against it, and all healthy instinct for it.
+
+Emily Dickinson
+To live is so startling it leaves little time for anything else.
+
+John Henry Newman
+To live is to change, and to be perfect is to have changed often.
+
+Marcus Tullius Cicero
+To live is to think.
+
+William Makepeace Thackeray
+To love and win is the best thing. To love and lose, the next best.
+
+Victor Hugo
+To love beauty is to see light.
+
+Jerry Seinfeld
+To me, if life boils down to one thing, it's movement. To live is to keep moving.
+
+Richard Brinsley Sheridan
+To smile at the jest which plants a thorn in another's breast is to become a principal in the mischief.
+
+Tony Dorsett
+To succeed, you need to find something to hold on to, something to motivate you, something to inspire you.
+
+Lao Tzu
+To the mind that is still, the whole universe surrenders.
+
+Steve Jobs
+To turn really interesting ideas and fledgling technologies into a company that can continue to innovate for years, it requires a lot of disciplines.
+
+John Wooden
+Today is the only day. Yesterday is gone.
+
+Swami Sivananda
+Today is your own. Tomorrow perchance may never come.
+
+Ethel Waters
+Today or any day that phone may ring and bring good news.
+
+Edward Young
+Too low they build, who build beneath the stars.
+
+Oscar Wilde
+True friends stab you in the front.
+
+John W. Gardner
+True happiness involves the full use of one's power and talents.
+
+Leo Tolstoy
+True life is lived when tiny changes occur.
+
+Hrithik Roshan
+True power and true happiness are when you use your success to make others around you feel even more significant.
+
+Khalil Gibran
+Trust in dreams, for in them is hidden the gate to eternity.
+
+Gordon B. Hinckley
+Try a little harder to be a little better.
+
+Maya Angelou
+Try to be a rainbow in someone's cloud.
+
+Bill Copeland
+Try to be like the turtle - at ease in your own shell.
+
+Zig Ziglar
+Try to look at your weakness and convert it into your strength. That's success.
+
+Unknown
+Turn your face to the sun and the shadows fall behind you.
+
+Robert Frost
+Two roads diverged in a wood and I - I took the one less traveled by, and that has made all the difference.
+
+e. e. cummings
+Unbeing dead isn't being alive.
+
+Karl A. Menninger
+Unrest of spirit is a mark of life.
+
+Byron Katie
+Until we question our stressful thoughts, we remain victims of the images in our head.
+
+Francis Ford Coppola
+Usually, the stuff that's your best idea or work is going to be attacked the most.
+
+Lady Gaga
+Vanity can create a very cruel space for you if you don't know how to manage it.
+
+William Cowper
+Variety's the very spice of life, That gives it all its flavor.
+
+Marcus Aurelius
+Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+
+Napoleon Bonaparte
+Victory belongs to the most persevering.
+
+Lou Holtz
+Virtually nothing is impossible in this world if you just put your mind to it and maintain a positive attitude.
+
+F. Scott Fitzgerald
+Vitality shows in not only the ability to persist but the ability to start over.
+
+Helen Keller
+Walking with a friend in the dark is better than walking alone in the light.
+
+Barbara Kingsolver
+Wars and elections are both too big and too small to matter in the long run. The daily work - that goes on, it adds up.
+
+Ralph Waldo Emerson
+We aim above the mark to hit the mark.
+
+Will Rogers
+We are all here for a spell, get all the good laughs you can.
+
+Brad Garlinghouse
+We are all products of our experiences, good and bad. Sometimes you learn as much from the negative experiences as you do from the positive.
+
+William Osler
+We are here to add what we can to life, not to get what we can from life.
+
+W. Edwards Deming
+We are here to make another world.
+
+Mooji
+We are identifying with what is passing so fear comes. We are trying to make steady and permanent what is by nature impermanent.
+
+Ellsworth Huntington
+We are learning, too, that the love of beauty is one of Nature's greatest healers.
+
+Paulo Coelho
+We are not the person other people wish we were. We are who we decide to be.
+
+Martin Luther King, Jr.
+We are prone to judge success by the index of our salaries or the size of our automobiles rather than by the quality of our service and relationship to mankind.
+
+Robert Hall
+We are to seek wisdom and understanding only in the length of days.
+
+Ronald Reagan
+We can't help everyone, but everyone can help someone.
+
+Lauryn Hill
+We can't plan life. All we can do is be available for it.
+
+Jose Ortega y Gasset
+We cannot put off living until we are ready.
+
+Walt Whitman
+We convince by our presence.
+
+Cesare Pavese
+We do not remember days, we remember moments.
+
+Momo Hirai
+We feel pressure from every angle to meet expectations, but the pressure also pushes us in a positive was as well.
+
+Michael Hudson
+We go forward with our heads held high, but look back and remember where we come from.
+
+Thomas Paine
+We have it in our power to begin the world over again.
+
+William Shakespeare
+We know what we are, but know not what we may be.
+
+Paul Cezanne
+We live in a rainbow of chaos.
+
+Rabindranath Tagore
+We live in the world when we love it.
+
+Orison Swett Marden
+We make the world we live in and shape our own environment.
+
+Maya Angelou
+We may encounter many defeats but we must not be defeated.
+
+E. M. Forster
+We must be willing to let go of the life we have planned, so as to have the life that is waiting for us.
+
+Joseph Campbell
+We must let go of the life we have planned, so as to accept the one that is waiting for us.
+
+Pierre Corneille
+We never taste happiness in perfection, our most fortunate successes are mixed with sadness.
+
+Stephen Jay Gould
+We pass through this world but once.
+
+Helen Hayes
+We relish news of our heroes, forgetting that we are extraordinary to somebody too.
+
+Winston Churchill
+We shall draw from the heart of suffering itself the means of inspiration and survival.
+
+Mother Teresa
+We shall never know all the good that a simple smile can do.
+
+T. S. Eliot
+We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.
+
+Saba Qamar
+We should learn not to hold grudges and be positive all the time because life is too short and unpredictable.
+
+A. P. J. Abdul Kalam
+We should not give up and we should not allow the problem to defeat us.
+
+Albert Einstein
+Weakness of attitude becomes weakness of character.
+
+George Eliot
+Wear a smile and have friends; wear a scowl and have wrinkles.
+
+Loretta Young
+Wearing the correct dress for any occasion is a matter of good manners.
+
+Benjamin Franklin
+Well done is better than well said.
+
+Sidonie Gabrielle Colette
+What a wonderful life I've had! I only wish I'd realized it sooner.
+
+Albrecht Durer
+What beauty is, I know not, though it adheres to many things.
+
+George Eliot
+What do we live for, if not to make life less difficult for each other?
+
+Robert H. Schuller
+What great thing would you attempt if you knew you could not fail?
+
+Henry David Thoreau
+What is called genius is the abundance of life and health.
+
+Johann Wolfgang von Goethe
+What is important in life is life, and not the result of life.
+
+William Wordsworth
+What is pride? A rocket that emulates the stars.
+
+Ralph Waldo Emerson
+What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.
+
+Antoine de Saint-Exupery
+What makes the desert beautiful is that somewhere it hides a well.
+
+Plutarch
+What we achieve inwardly will change outer reality.
+
+Theodore Roethke
+What we need is more people who specialize in the impossible.
+
+Louis Armstrong
+What we play is life.
+
+Wayne Dyer
+What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+
+Ralph Marston
+What you do today can improve all your tomorrows.
+
+Sridevi
+What you feel inside reflects on your face. So be happy and positive all the time.
+
+Zig Ziglar
+What you get by achieving your goals is not as important as what you become by achieving your goals.
+
+James Joyce
+Whatever else is unsure in this stinking dunghill of a world a mother's love is not.
+
+James Rouse
+Whatever ought to be, can be.
+
+Paul J. Meyer
+Whatever you vividly imagine, ardently desire, sincerely believe, and enthusiastically act upon... must inevitably come to pass!
+
+Diane Sawyer
+Whatever you want in life, other people are going to want it too. Believe in yourself enough to accept the idea that you have an equal right to it.
+
+Christian Louboutin
+When a woman puts on a heel, she has a different posture, a different attitude. She really stands up and has a consciousness of her body.
+
+Pierre-Joseph Proudhon
+When deeds speak, words are nothing.
+
+Sydney J. Harris
+When I hear somebody sigh, 'Life is hard,' I am always tempted to ask, 'Compared to what?'
+
+Bill Moyers
+When I learn something new - and it happens every day - I feel a little more at home in this universe, a little more comfortable in the nest.
+
+Etta James
+When I look out at the people and they look at me and they're smiling, then I know that I'm loved. That is the time when I have no worries, no problems.
+
+Erma Bombeck
+When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left, and could say, 'I used everything you gave me'.
+
+Eleanor Roosevelt
+When life is too easy for us, we must beware or we may not be ready to meet the blows which sooner or later come to everyone, rich or poor.
+
+Robert Breault
+When life takes the wind out of your sails, it is to test you at the oars.
+
+Zig Ziglar
+When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
+
+Charlotte Whitton
+When one must, one can.
+
+Samuel Goldwyn
+When someone does something good, applaud! You will make two people happy.
+
+Maya Angelou
+When someone shows you who they are, believe them the first time.
+
+Wilma Rudolph
+When the sun is shining I can do anything; no mountain is too high, no trouble too difficult to overcome.
+
+George Lopez
+When things are bad, it's the best time to reinvent yourself.
+
+Guy Lafleur
+When trouble comes, it's your family that supports you.
+
+Viktor E. Frankl
+When we are no longer able to change a situation - we are challenged to change ourselves.
+
+Helen Keller
+When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another.
+
+Bob Hope
+When we recall the past, we usually find that it is the simplest things - not the great occasions - that in retrospect give off the greatest glow of happiness.
+
+Mark Twain
+When we remember we are all mad, the mysteries disappear and life stands explained.
+
+William Arthur Ward
+When we seek to discover the best in others, we somehow bring out the best in ourselves.
+
+Richard Pryor
+When you ain't got no money, you gotta get an attitude.
+
+Paulo Coelho
+When you are enthusiastic about what you do, you feel this positive energy. It's very simple.
+
+Meister Eckhart
+When you are thwarted, it is your own attitude that is out of order.
+
+Robert Bresson
+When you do not know what you are doing and what you are doing is the best - that is inspiration.
+
+Natalie Gulbis
+When you fail you learn from the mistakes you made and it motivates you to work even harder.
+
+Carol Burnett
+When you have a dream, you've got to grab it and never let go.
+
+Norman Vincent Peale
+When you pray for anyone you tend to modify your personal attitude toward him.
+
+Franklin D. Roosevelt
+When you reach the end of your rope, tie a knot in it and hang on.
+
+Dian Fossey
+When you realize the value of all life, you dwell less on what is past and concentrate more on the preservation of the future.
+
+Matt Kemp
+When you think positive, good things happen.
+
+William Cowper
+Where men of judgment creep and feel their way, The positive pronounce without dismay.
+
+Jim Elliot
+Wherever you are - be all there.
+
+Art Buchwald
+Whether it's the best of times or the worst of times, it's the only time we've got.
+
+Marcus Tullius Cicero
+While there's life, there's hope.
+
+Lucius Annaeus Seneca
+While we are postponing, life speeds by.
+
+Ugo Betti
+Who cares about great marks left behind? We have one life... just one. Our life. We have nothing else.
+
+Sophocles
+Who seeks shall find.
+
+Anne Frank
+Whoever is happy will make others happy too.
+
+Virgil van Dijk
+Why be negative when you can enjoy life and be positive? That's something I learned over the years.
+
+Joel Osteen
+Why don't you start believing that no matter what you have or haven't done, that your best days are still out in front of you.
+
+Dr. Seuss
+Why fit in when you were born to stand out?
+
+Clara Schumann
+Why hurry over beautiful things? Why not linger and enjoy them?
+
+Robert Kiyosaki
+Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.
+
+Brian Tracy
+Winners make a habit of manufacturing their own positive expectations in advance of the event.
+
+Confucius
+Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
+
+Doris Roberts
+With my talent, I can make people laugh and give them another attitude about life. What a blessing that is for me.
+
+Amelia Barr
+With renunciation life begins.
+
+Theodore Roosevelt
+With self-discipline most anything is possible.
+
+Eleanor Roosevelt
+With the new day comes new strength and new thoughts.
+
+Ralph Waldo Emerson
+With the past, I have nothing to do; nor with the future. I live now.
+
+Andre Maurois
+Without a family, man, alone in the world, trembles with the cold.
+
+Johannes Brahms
+Without craftsmanship, inspiration is a mere reed shaken in the wind.
+
+Gordon B. Hinckley
+Without hard work, nothing grows but weeds.
+
+Lou Holtz
+Without self-discipline, success is impossible, period.
+
+Grace Kelly
+Women's natural role is to be a pillar of the family.
+
+Abraham Joshua Heschel
+Wonder rather than doubt is the root of all knowledge.
+
+Jim Rohn
+Work hard at your job and you can make a living. Work hard on yourself and you can make a fortune.
+
+George Allen, Sr.
+Work hard, stay positive, and get up early. It's the best part of the day.
+
+Leo Buscaglia
+Worry never robs tomorrow of its sorrow, it only saps today of its joy.
+
+Jimmy Buffett
+Wrinkles will only go where the smiles have been.
+
+Theodor W. Adorno
+Wrong life cannot be lived rightly.
+
+Lyndon B. Johnson
+Yesterday is not ours to recover, but tomorrow is ours to win or lose.
+
+Khalil Gibran
+Yesterday we obeyed kings and bent our necks before emperors. But today we kneel only to truth, follow only beauty, and obey only love.
+
+Richard Bach
+You are always free to change your mind and choose a different future, or a different past.
+
+Richard Bach
+You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
+
+Les Brown
+You are never too old to set another goal or to dream a new dream.
+
+Joyce Meyer
+You are not hopeless. You are not helpless. Because there is a God who is alive and loves you!
+
+Ted Turner
+You can never quit. Winners never quit, and quitters never win.
+
+Oliver Goldsmith
+You can preach a better sermon with your life than with your lips.
+
+Henry Ford
+You can't build a reputation on what you are going to do.
+
+Rabindranath Tagore
+You can't cross the sea merely by standing and staring at the water.
+
+Flip Wilson
+You can't expect to hit the jackpot if you don't put a few nickels in the machine.
+
+Deepak Chopra
+You can't make positive choices for the rest of your life without an environment that makes those choices easy, natural, and enjoyable.
+
+Jack London
+You can't wait for inspiration. You have to go after it with a club.
+
+Russell Simmons
+You cannot find it anywhere, because it is located inside you... happiness is your natural state.
+
+Joyce Meyer
+You cannot have a positive life and a negative mind.
+
+Zig Ziglar
+You cannot tailor-make the situations in life but you can tailor-make the attitudes to fit those situations.
+
+Max Lucado
+You change your life by changing your heart.
+
+Shakti Gawain
+You create your opportunities by asking for them.
+
+Desmond Tutu
+You don't choose your family. They are God's gift to you, as you are to them.
+
+John Cleese
+You don't have to be the Dalai Lama to tell people that life's about change.
+
+Sandra Bullock
+You don't have to give birth to someone to have a family.
+
+Alan Watts
+You don't look out there for God, something in the sky, you look in you.
+
+Harvey S. Firestone
+You get the best out of others when you get the best out of yourself.
+
+Winston Churchill
+You have enemies? Good. That means you've stood up for something, sometime in your life.
+
+Vernon Howard
+You have succeeded in life when all you really want is only what you really need.
+
+Eleanor Roosevelt
+You have to accept whatever comes and the only important thing is that you meet it with courage and with the best that you have to give.
+
+Suzanne Vega
+You have to defend your honor. And your family.
+
+Unknown
+You have to learn the rules of the game. And then you have to play better than anyone else.
+
+Denis Diderot
+You have to make it happen.
+
+Edwin van der Sar
+You hope to bring your 'A Game' to any game, and of course you do in a final. You hope to bring experience, fitness, communication skills, motivational skills.
+
+Babe Ruth
+You just can't beat the person who never gives up.
+
+Richard Bandler
+You know what ? Certain people think they will feel good if certain things happen The trick is : you have to feel good for no reason
+
+Don Rickles
+You know what's funny to me? Attitude.
+
+Norman Schwarzkopf
+You learn far more from negative leadership than from positive leadership. Because you learn how not to do it. And, therefore, you learn how to do it.
+
+Anita Baker
+You leave home to seek your fortune and, when you get it, you go home and share it with your family.
+
+Alejandro Jodorowsky
+You live in the image you have of the world. Every one of us lives in a different world, with different space and different time.
+
+Maxwell Maltz
+You make mistakes. Mistakes don't make you.
+
+Eleanor Roosevelt
+You must do the things you think you cannot do.
+
+Emmet Fox
+You must not under any pretense allow your mind to dwell on any thought that is not positive, constructive, optimistic, kind.
+
+H. Jackson Brown, Jr.
+You must take action now that will move you towards your goals. Develop a sense of urgency in your life.
+
+George S. Patton
+You need to overcome the tug of people against you as you reach for high goals.
+
+R. Buckminster Fuller
+You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
+
+Cicely Tyson
+You never know what motivates you.
+
+George Lucas
+You simply have to put one foot in front of the other and keep going. Put blinders on and plow right ahead.
+
+Angelique Kerber
+You will always have ups and downs in your life and your career, but just stay positive and go for it.
+
+Albert Camus
+You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+
+Joel Osteen
+You will never change what you tolerate.
+
+Helen Rowland
+You will never win if you never begin.
+
+Charles de Gaulle
+You'll live. Only the best get killed.
+
+Joel Osteen
+You're going to go through tough times - that's life. But I say, 'Nothing happens to you, it happens for you.' See the positive in negative events.
+
+Walter Hagen
+You're only here for a short visit. Don't hurry, don't worry. And be sure to smell the flowers along the way.
+
+Brian Tracy
+Your ability to discipline yourself to set clear goals, and then to work toward them every day, will do more to guarantee your success than any other single factor.
+
+Zig Ziglar
+Your attitude, not your aptitude, will determine your altitude.
+
+Napoleon Hill
+Your big opportunity may be right where you are now.
+
+Anita DeFrantz
+Your goal should be out of reach but not out of sight.
+
+Morihei Ueshiba
+Your heart is full of fertile seeds, waiting to sprout.
+
+Norman Cousins
+Your heaviest artillery will be your will to live. Keep that big gun going.
+
+Jim Rohn
+Your life does not get better by chance, it gets better by change.
+
+Desmond Tutu
+Your ordinary acts of love and hope point to the extraordinary promise that every human life is of inestimable value.
+
+Khalil Gibran
+Your pain is the breaking of the shell that encloses your understanding.
+
+Shiv Khera
+Your positive action combined with positive thinking results in success.
+
+Nido Qubein
+Your present circumstances don't determine where you can go; they merely determine where you start.
+
+Les Brown
+Your smile will give you a positive countenance that will make people feel comfortable around you.
+
+Leo Buscaglia
+Your talent is God's gift to you. What you do with it is your gift back to God.
 
 Thomas Gray
-en - Youth smiles without any reason. It is one of its chiefest charms.
+Youth smiles without any reason. It is one of its chiefest charms.

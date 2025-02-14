@@ -29,9 +29,6 @@ Epictetus
 Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.
 
 Epictetus
-Only the educated are free.
-
-Epictetus
 People are not disturbed by things, but by the views they take of them.
 
 Epictetus
@@ -80,15 +77,6 @@ Epictetus
 A ship should not ride on a single anchor, nor life on a single hope.
 
 Epictetus
-If you would be a reader, read; if a writer, write.
-
-Epictetus
-If you wish to be a writer, write.
-
-Epictetus
-Small-minded people blame others. Average people blame themselves. The wise see all blame as foolishness.
-
-Epictetus
 It is not so much what happens to you as how you think about what happens.
 
 Epictetus
@@ -96,9 +84,6 @@ We are not disturbed by what happens to us, but by our thoughts about what happe
 
 Epictetus
 Events do not just happen, but arrive by appointment.
-
-Epictetus
-Asked, Who is the rich man? Epictetus replied, He who is content.
 
 Epictetus
 Demand not that things happen as you wish, but wish them to happen as they do, and you will go on well.
@@ -131,9 +116,6 @@ Epictetus
 Nature hath given men one tongue but two ears, that we may hear from others twice as much as we speak.
 
 Epictetus
-You may fetter my leg, but Zeus himself cannot get the better of my free will.
-
-Epictetus
 Difficulty shows what men are.
 
 Epictetus
@@ -141,9 +123,6 @@ Whoever is going to listen to the philosophers needs a considerable practice in 
 
 Epictetus
 There is but one way to tranquility of mind and happiness, and that is to account no external things thine own, but to commit all to God.
-
-Epictetus
-If any be unhappy, let him remember that he is unhappy by reason of himself alone. For God hath made all men to enjoy felicity and constancy of good.
 
 Epictetus
 On the occasion of every accident that befalls you, remember to turn to yourself and inquire what power you have for turning it to use.
@@ -185,16 +164,13 @@ Epictetus
 If you seek Truth, you will not seek to gain a victory by every possible means; and when you have found Truth, you need not fear being defeated.
 
 Epictetus
-God save me from fools with a little philosophy—no one is more difficult to reach.
-
-Epictetus
 If you wish to be good, first believe that you are bad.
 
 Epictetus
 Never say that I have taken it, only that I have given it back.
 
 Epictetus
-No man is free until he is a master of himself!!
+No man is free until he is a master of himself.
 
 Epictetus
 A city is not adorned by external things, but by the virtue of those who dwell in it.
@@ -215,9 +191,6 @@ Epictetus
 Everyone's life is a warfare, and that long and various.
 
 Epictetus
-As a man, casting off worn out garments taketh new ones, so the dweller in the body, entereth into ones that are new.
-
-Epictetus
 Freedom is secured not by the fulfilling of men's desires, but by the removal of desire.
 
 Epictetus
@@ -228,9 +201,6 @@ First say to yourself what you would be, and then do what you have to do.
 
 Epictetus
 If thy brother wrongs thee, remember not so much his wrong-doing, but more than ever that he is thy brother.
-
-Epictetus
-This is your business—to act well the given part, but to choose it belongs to another.
 
 Epictetus
 We cannot choose our external circumstances, but we can always choose how we respond to them.
@@ -258,9 +228,6 @@ There is only one way to happiness and that is to cease worrying about things wh
 
 Epictetus
 No one is ever unhappy because of someone else.
-
-Epictetus
-What saith Antisthenes? Hast thou never heard?— It is a kingly thing, O Cyrus, to do well and to be evil spoken of.
 
 Epictetus
 Men are disturbed not by things, but by the view which they take of them.
@@ -311,9 +278,6 @@ Epictetus
 There is a time and place for diversion and amusements, but you should never allow them to override your true purposes.
 
 Epictetus
-"But to be hanged — is that not unendurable?" Even so, when a man feels that it is reasonable, he goes off and hangs himself.
-
-Epictetus
 Let your will to avoid have no concern with what is not in man's power; direct it only to things in man's power that are contrary to nature.
 
 Epictetus
@@ -344,7 +308,7 @@ Epictetus
 Restrict yourself to choice and refusal; and exercise them carefully, with discipline and detachment.
 
 Epictetus
-CIRCUMSTANCES DON’T MAKE THE MAN, THEY ONLY REVEAL HIM TO HIMSELF.
+Circumstances don't make the man, they only reveal him to himself.
 
 Epictetus
 Man is disturbed not by things, but by the views he takes of them.
@@ -357,15 +321,6 @@ Who is your master? Whoever has authority over anything that you’re anxious to
 
 Epictetus
 We aren't filled with fear except by things that are bad; and not by them, either, as long as it is in our power to avoid them.
-
-Epictetus
-I want to die, even though I don't have to.
-
-Epictetus
-Why are you pestering me, pal? My own evils are enough for me.
-
-Epictetus
-You'd have a better chance persuading someone to change their sexual orientation than reaching people who have rendered themselves so deaf and blind.
 
 Epictetus
 People are ready to acknowledge some of their faults, but will admit to others only with reluctance.
@@ -410,7 +365,7 @@ Epictetus
 So don't make a show of your philosophical learning to the uninitiated, show them by your actions what you have absorbed.
 
 Epictetus
-On the occasion of every accident (event) that befalls you, remember to turn to yourself and inquire what power you have for turning it to use.
+On the occasion of every accident that befalls you, remember to turn to yourself and inquire what power you have for turning it to use.
 
 Epictetus
 It is impossible to begin to learn that which one thinks one already knows.
@@ -431,16 +386,10 @@ Epictetus
 Understand what words you use first, then use them.
 
 Epictetus
-You are a little soul carrying a dead body, as Epictetus said.
-
-Epictetus
 Happiness and freedom begin with a clear understanding of one principle: Some things are within our control, and some things are not.
 
 Epictetus
 Prefer enduring satisfaction to immediate gratification.
-
-Epictetus
-Lucky is the man who dies at work.
 
 Epictetus
 You're not yet Socrates, but you can still live as if you want to be him.
@@ -464,9 +413,6 @@ Epictetus
 Never say of anything that I've lost it, only that Ive given it back.
 
 Epictetus
-"Who is a friend?" his answer was, "A second self (alter ego)."
-
-Epictetus
 Tis true I know what evil I shall do but passion overpowers the better council.
 
 Epictetus
@@ -476,13 +422,7 @@ Epictetus
 Asked, Who is the rich man? Epictetus replied, "He who is content."
 
 Epictetus
-Yes, but my nose is running.’ Then what do you have hands for, you slave?
-
-Epictetus
 But first consider how much more sparing and patient of hardship the poor are than we.
-
-Epictetus
-Is it not the same distance to God everywhere?
 
 Epictetus
 Always remember what is your own and what is not, and you’ll never be troubled.
@@ -545,7 +485,7 @@ Epictetus
 When someone is properly grounded in life, they shouldn't have to look outside themselves for approval.
 
 Epictetus
-If then you desire (aim at) such great things remember that you must not (attempt to) lay hold of them with a small effort.
+If then you desire aim at such great things remember that you must not attempt to lay hold of them with a small effort.
 
 Epictetus
 If you have assumed any character beyond your strength, you have both demeaned yourself ill in that and quitted one which you might have supported.
@@ -584,7 +524,7 @@ Epictetus
 Working within our sphere of control, we are naturally free, independent, and strong. Beyond that sphere, we are weak, limited, and dependent.
 
 Epictetus
-And then we’ll be emulating Socrates,* once we’re able to write hymns of praise in prison.
+And then we’ll be emulating Socrates, once we’re able to write hymns of praise in prison.
 
 Epictetus
 Avoid banquets which are given by strangers and by ignorant persons.
@@ -593,7 +533,7 @@ Epictetus
 Give me by all means the shorter and nobler life, instead of one that is longer but of less account!
 
 Epictetus
-No man can rob us of our Will—no man can lord it over that!
+No man can rob us of our Will — no man can lord it over that!
 
 Epictetus
 Some things are up to us, and some things are not up to us.
@@ -626,7 +566,7 @@ Seneca
 Difficulties strengthen the mind, as labor does the body.
 
 Seneca
-"Non est ad astra mollis e terris via" - "There is no easy way from the earth to the stars."
+Non est ad astra mollis e terris via. (There is no easy way from the earth to the stars)
 
 Seneca
 As is a tale, so is life: not how long it is, but how good it is, is what matters.
@@ -812,7 +752,7 @@ Seneca
 What is harder than rock? What is softer than water? Yet hard rocks are hollowed out by soft water?
 
 Seneca
-You should … live in such a way that there is nothing which you could not as easily tell your enemy as keep to yourself.
+You should live in such a way that there is nothing which you could not as easily tell your enemy as keep to yourself.
 
 Seneca
 Of this one thing make sure against your dying day - that your faults die before you do.
@@ -828,9 +768,6 @@ It is of course better to know useless things than to know nothing.
 
 Seneca
 Light griefs are loquacious, but the great are dumb.
-
-Seneca
-Gold tests with fire, woman with gold, man with woman.
 
 Seneca
 To win true freeedom you must be a slave to philosophy.
@@ -869,7 +806,7 @@ Seneca
 Brave men rejoice in adversity, just as brave soldiers triumph in war.
 
 Seneca
-We are members of one great body, planted by nature…. We must consider that we were born for the good of the whole.
+We are members of one great body, planted by nature… We must consider that we were born for the good of the whole.
 
 Seneca
 Throw aside all hindrances and give up your time to attaining a sound mind.
@@ -878,7 +815,7 @@ Seneca
 What fortune has made yours is not your own.
 
 Seneca
-One hand washes the other. (Manus Manum Lavat).
+Manus Manum Lavat. (One hand washes the other)
 
 Seneca
 It is a great thing to know the season for speech and the season for silence.
@@ -920,10 +857,7 @@ Seneca
 As it is with a play, so it is with life - what matters is not how long the acting lasts, but how good it is.
 
 Seneca
-Distringit librorum multitudo  (the abundance of books is distraction).
-
-Seneca
-I will storm the gods, and shake the universe.
+Distringit librorum multitudo (the abundance of books is distraction).
 
 Seneca
 Hurry up and live.
@@ -1295,9 +1229,6 @@ Seneca
 A good man will not waste himself upon mean and discreditable work or be busy merely for the sake of being busy.
 
 Seneca
-Theseus: What is the crime for which you must pay by death? Phaedra: My life.
-
-Seneca
 Night brings our troubles to the light rather than banishes them.
 
 Seneca
@@ -1469,7 +1400,7 @@ Seneca
 That which takes effect by chance is not an art.
 
 Seneca
-For some persons the remedy should be merely prescribed; in the case of others, it should be forced down their throats. .
+For some persons the remedy should be merely prescribed; in the case of others, it should be forced down their throats.
 
 Seneca
 Wealth is the slave of the wise man and master of the fool.
@@ -1559,9 +1490,6 @@ Seneca
 Who can doubt, my dear Lucilius, that life is the gift of the immortal gods, but that living well is the gift of philosophy?
 
 Seneca
-Poor woman, do you want to know where hatred ends? Look to love.
-
-Seneca
 The first thing which philosophy undertakes to give is fellow-feeling with all men; in other words, sympathy and sociability.
 
 Seneca
@@ -1571,7 +1499,7 @@ Seneca
 The acquisition of riches has been for many men, not an end, but a change, of troubles.
 
 Seneca
-Do you ask what is the foundation of a sound mind? It is, not to find joy in useless things. .
+Do you ask what is the foundation of a sound mind? It is, not to find joy in useless things.
 
 Seneca
 Reason shows us there is nothing either good or bad but thinking makes it so.
@@ -1667,7 +1595,7 @@ Seneca
 How much happier is the man who owes nothing to anybody except the one he can most easily refuse, himself!
 
 Seneca
-Be deaf to those who love you most of all; they pray for bad things with good intentions. .
+Be deaf to those who love you most of all; they pray for bad things with good intentions.
 
 Seneca
 Every man, when he first sees light, is commanded to be content with milk and rags. Such is our beginning, and yet kingdoms are all too small for us!
@@ -1695,9 +1623,6 @@ No man finds it difficult to return to nature, except the man who has deserted n
 
 Seneca
 All the works of mortal man have been doomed to mortality, and in the midst of things which have been destined to die, we live!
-
-Seneca
-Ignis aurum probat, miseria fortes viros. Fire is the test of gold; adversity, of strong men.
 
 Seneca
 The fool, with all his other faults, has this also, he is always getting ready to live.
@@ -1775,7 +1700,7 @@ Seneca
 For it is disheartening to inspire in a man the desire, and to take away from him the hope, of emulation.
 
 Seneca
-Count your years, and you will be ashamed to desire and pursue the same things you desired in your boyhood days. .
+Count your years, and you will be ashamed to desire and pursue the same things you desired in your boyhood days.
 
 Seneca
 No man can have a peaceful life who thinks too much about lengthening it.
@@ -1820,7 +1745,7 @@ Seneca
 The greatest obstacle to living is expectancy, which hangs upon tomorrow and loses today.
 
 Seneca
-Sometimes even to live is an act of courage.”   Anger.
+Sometimes even to live is an act of courage.
 
 Seneca
 We are born under circumstances that would be favourable if we did not abandon them.
@@ -2111,7 +2036,7 @@ Seneca
 There is no such thing as good or bad fortune for the individual; we live in common.
 
 Seneca
-The only really leisured people are those who devote time to acquiring true knowledge rather than trivia. .
+The only really leisured people are those who devote time to acquiring true knowledge rather than trivia.
 
 Seneca
 Reflect that nothing merits admiration except the spirit, the impressiveness of which prevents it from being impressed by anything.
@@ -2639,9 +2564,6 @@ Marcus Aurelius
 How many together with whom I came into the world are already gone out of it.
 
 Marcus Aurelius
-If unwilling to rise in the morning, say to thyself, ‘I awake to do the work of a man.
-
-Marcus Aurelius
 Nothing is more scandalous than a man that is proud of his humility.
 
 Marcus Aurelius
@@ -2753,7 +2675,7 @@ Marcus Aurelius
 You could leave life right now. Let that determine what you do and say and think.
 
 Marcus Aurelius
-Every man is worth   just so much as the things are worth about which he busies himself. .
+Every man is worth just so much as the things are worth about which he busies himself.
 
 Marcus Aurelius
 What is divine deserves our respect because it is good; what is human deserves our affection because it is like us.
@@ -2816,9 +2738,6 @@ Marcus Aurelius
 Your mind will be like its habitual thoughts; for the soul becomes dyed with the color of its thoughts.
 
 Marcus Aurelius
-And give up your thirst for books, so that you do not die a grouch, but in true grace and heartfelt gratitude to the god.
-
-Marcus Aurelius
 It is not fit that I should give myself pain, for I have never intentionally given pain even to another.
 
 Marcus Aurelius
@@ -2832,9 +2751,6 @@ In a sense, people are our proper occupation. Our job is to do them good and put
 
 Marcus Aurelius
 For it is according to nature, and nothing is evil which is according to nature.
-
-Marcus Aurelius
-Remember how long thou hast already put off these things, and how.
 
 Marcus Aurelius
 Consider how quickly all things are dissolved and resolved.
@@ -2933,13 +2849,13 @@ Marcus Aurelius
 It can ruin your life only if it ruins your character. Otherwise it cannot harm you—inside or out.
 
 Marcus Aurelius
-Ask yourself at every moment, 'Is this necessary?
+Ask yourself at every moment, "Is this necessary?".
 
 Marcus Aurelius
 Think of yourself as dead. You have lived your life. Now take what's left and live it properly.
 
 Marcus Aurelius
-Dig deep; the water- goodness- is down there. And as long as you keep digging, it will keep bubbling up.
+Dig deep; the water goodness is down there. And as long as you keep digging, it will keep bubbling up.
 
 Marcus Aurelius
 To enter others’ minds and let them enter yours.
@@ -3302,9 +3218,6 @@ Marcus Aurelius
 Let the god that is within you be the champion of the being you are.
 
 Marcus Aurelius
-Then consider the Middle (and later the New) Comedy and what it aimed at—gradually degenerating into mere realism and empty technique.
-
-Marcus Aurelius
 Do you have reason? I have. Why then do you not use it? For if reason does its own work, what else could you wish for?
 
 Marcus Aurelius
@@ -3380,7 +3293,7 @@ Marcus Aurelius
 Enter their minds, and you'll find the judges you're so afraid of—and how judiciously they judge themselves.
 
 Marcus Aurelius
-You are but an impression, and not at all what you seem to be'.
+You are but an impression, and not at all what you seem to be.
 
 Marcus Aurelius
 Of all existing things some are in our power, and others are not in our power.
@@ -3390,9 +3303,6 @@ This that I am, whatever it be, is mere flesh and a little breath and the ruling
 
 Marcus Aurelius
 Some things are hurrying into existence, and others are hurrying out of it.
-
-Marcus Aurelius
-That I have such a wife, so obedient.
 
 Marcus Aurelius
 Continually, and, if possible, in the case of every mental image, consider its nature, realize its emotional content, and judge it rationally.
@@ -3419,7 +3329,7 @@ Marcus Aurelius
 How plain does it appear that there is not another condition of life so well suited for philosophising as this in which thou now happenest to be.
 
 Marcus Aurelius
-We are all mere nuggets of incense on the one altar. Some burn down now , some later - there is no difference .
+We are all mere nuggets of incense on the one altar. Some burn down now, some later - there is no difference.
 
 Marcus Aurelius
 Now a man should take away not only unnecessary acts, but also, unnecessary thoughts, for thus superfluous acts will not follow after.
@@ -3432,9 +3342,6 @@ A ripe mature man, a perfect sound man; one that could not endure to be flattere
 
 Marcus Aurelius
 Studying philosophy instills modesty and straightforwardness in your character.
-
-Marcus Aurelius
-HE WHO ACTS UNJUSTLY ACTS IMPIOUSLY.
 
 Marcus Aurelius
 Time is fixed for thee, which if thou dost not use for clearing away the clouds from thy mind, it will go and thou wilt go, and it will never return.
@@ -3470,9 +3377,6 @@ Marcus Aurelius
 Put from you the belief that I have been wronged and with it will go the feeling. Reject your sense of injury, and the injury itself disappears.
 
 Marcus Aurelius
-You have a mind? —Yes. Well, why not use it? Isn’t that all you want—for it to do its job?
-
-Marcus Aurelius
 Every man is worth just so much as the things are worth about which he busies himself.
 
 Marcus Aurelius
@@ -3494,7 +3398,7 @@ Marcus Aurelius
 There is nothing more shameful than perfidious friendship.
 
 Marcus Aurelius
-Our own worth is measured by what we devote our energy to.  4.
+Our own worth is measured by what we devote our energy to.
 
 Marcus Aurelius
 Never wilt your soul, never be just good, simple or unpolished. Manifest more then the body that surrounds yourself.
@@ -3548,7 +3452,7 @@ Marcus Aurelius
 Self reliance, always. And cheerfulness.
 
 Marcus Aurelius
-If within the power of another, whom do you blame—atoms or gods? To do either is folly.
+If within the power of another, whom do you blame - atoms or gods? To do either is folly.
 
 Marcus Aurelius
 Never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.
@@ -3564,9 +3468,6 @@ Anywhere you can lead your life, you can lead a good one.
 
 Marcus Aurelius
 The world is nothing but change. Our life is only perception.
-
-Marcus Aurelius
-Man, what are you talking about? Me in chains? You may fetter my leg but my will, not even Zeus himself can overpower.
 
 Marcus Aurelius
 And thou wilt give thyself relief, if thou doest every act of thy life as if it were the last.

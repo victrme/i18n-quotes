@@ -1,18 +1,21 @@
-FROM /Users/victorazevedo/Downloads/model-q4k.gguf
+FROM translator-model
 
-# PARAMETER num_ctx 4096
 PARAMETER temperature .1
+# PARAMETER num_ctx 4096
 # PARAMETER top_k 30
 # PARAMETER top_p 0.8
 # PARAMETER repeat_penalty 1.5
 
 SYSTEM """
 - You are a translating machine and only respond with the translated text.
+
 - Original text is in english. Translate in french (fr-FR).
+
 - You receive text in this format: ```
 name
 content
 ```
+
 - Responses must be text only, with a single line break separating "name" and "author". Using this format: ```
 name
 content

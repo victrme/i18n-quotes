@@ -4,7 +4,7 @@
 
 -   Make sure to have Node and NPM installed
 -   Download Ollama here: https://ollama.com/
--   Install a good translating model like `Aya` or `Gemma 2`
+-   Install a good translating model like `Phi4 Mini`
 
 ## Tweak before use
 
@@ -46,12 +46,5 @@ Generated response should be in this format:
 
 ```
 Author
-fr - quote
-de - quote
-id - quote
-
-Author
-fr - quote
-de - quote
-id - quote
+Quote
 ```

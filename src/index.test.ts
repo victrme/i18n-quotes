@@ -19,7 +19,7 @@ Deno.test('Classic', async (test) => {
 	})
 
 	await test.step('all langs are working', async () => {
-		const langs: Langs[] = ['en', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'sv']
+		const langs: Langs[] = ['de', 'en', 'es', 'fr', 'it', 'nl', 'pl', 'ru', 'sv']
 		let strings: string[] = []
 		let string = ''
 

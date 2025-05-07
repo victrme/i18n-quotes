@@ -1,6 +1,6 @@
 export type Quote = { author: string; content: string }
 export type QuoteType = 'classic' | 'kaamelott' | 'inspirobot' | 'stoic' | 'hitokoto' | 'office'
-export type Langs = 'en' | 'fr' | 'de' | 'it' | 'nl' | 'pl' | 'ru' | 'sv'
+export type Langs = 'de' | 'en' | 'es' | 'fr' | 'it' | 'nl' | 'pl' | 'ru' | 'sv'
 
 const QUOTES_VERSION = '02022025'
 
@@ -70,7 +70,7 @@ function getRandomSample(list: Quote[], amount: number): Quote[] {
 }
 
 function validLang(lang: string): Langs {
-	const LANGS: Langs[] = ['en', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'sv']
+	const LANGS: Langs[] = ['de', 'en', 'es', 'fr', 'it', 'nl', 'pl', 'ru', 'sv']
 	const isLang = (l: string): l is Langs => LANGS.includes(l as any)
 	return isLang(lang) ? lang : 'en'
 }

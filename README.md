@@ -16,26 +16,7 @@ _Random quotes are machine translated using the [Aya Expanse 8B](https://cohere.
 ```plaintext
 └── quotes
   ├── classic
-  │ ├── en
-  │ ├── fr
-  │ ├── de
-  │ ├── nl
-  │ ├── it
-  │ ├── es
-  │ ├── pt-PT
-  │ ├── pt-BR
-  │ ├── sv
-  │ ├── fi
-  │ ├── pl
-  │ ├── uk
-  │ ├── ru
-  │ ├── tr
-  │ ├── ar
-  │ ├── fa
-  │ ├── id
-  │ ├── zh-CN
-  │ ├── zh-HK
-  │ └── zh-TW
+  │ └── :lang
   ├── stoic
   ├── hitokoto
   ├── kaamelott

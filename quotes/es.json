@@ -53,7 +53,7 @@
 	},
 	{
 		"content": "La mayor declaración de amor es la que no se hace; el hombre que siente mucho, habla poco.",
-		"author": "Platón "
+		"author": "Platón"
 	},
 	{
 		"content": "La esperanza es un estimulante vital muy superior a la suerte.",
@@ -192,10 +192,6 @@
 		"author": "Jacinto Benavente"
 	},
 	{
-		"content": "No hay caminos para la paz; la paz es el camino.",
-		"author": "Mahatma Gandhi"
-	},
-	{
 		"content": "La timidez es una condición ajena al corazón, una categoría, una dimensión que desemboca en la soledad.",
 		"author": "Pablo Neruda"
 	},
@@ -241,7 +237,7 @@
 	},
 	{
 		"content": "Las personas son como la Luna. Siempre tienen un lado oscuro que no enseñan a nadie.",
-		"author": "Marx Twain"
+		"author": "Mark Twain"
 	},
 	{
 		"content": "El sabio no dice lo que sabe, y el necio no sabe lo que dice.",
@@ -374,5 +370,417 @@
 	{
 		"content": "La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos.",
 		"author": "Platón"
+	},
+	{
+		"content": "A veces, cuando estás en un lugar oscuro, crees que has sido enterrado, cuando en realidad has sido plantado.",
+		"author": "Christine Caine"
+	},
+	{
+		"content": "Acepta la responsabilidad en tu vida. Sé consciente de que serás tú quien te llevará a donde quieres ir, nadie más.",
+		"author": "Les Brown"
+	},
+	{
+		"content": "Busca la libertad y conviértete en cautivo de tus deseos. Busca la disciplina y encuentra la libertad.",
+		"author": "Frank Herbert"
+	},
+	{
+		"content": "Cada día me despierto diciéndome que estoy vivo, y que eso es un milagro.",
+		"author": "Jim Carrey"
+	},
+	{
+		"content": "Cuando todo parezca estar en tu contra, recuerda que los aviones despegan con el viento en contra, no a favor.",
+		"author": "Henry Ford"
+	},
+	{
+		"content": "El objetivo no está siempre destinado a ser alcanzado, a menudo sirve simplemente como una meta a la cual que apuntar.",
+		"author": "Bruce Lee"
+	},
+	{
+		"content": "El éxito no se logra solo con cualidades especiales. Es, sobre todo, un trabajo de constancia, de método y de organización.",
+		"author": "Víctor Hugo"
+	},
+	{
+		"content": "Es simple: solo haz que pase.",
+		"author": "Didier Diderot"
+	},
+	{
+		"content": "Hoy hacemos lo que ellos no harán para que mañana podamos lograr lo que ellos no pueden.",
+		"author": "Dwayne Johnson"
+	},
+	{
+		"content": "La dignidad de uno puede verse asaltada, vandalizada o cruelmente criticada, pero nadie te la puede arrebatar mientras no te rindas.",
+		"author": "Michael J. Fox"
+	},
+	{
+		"content": "La gran lección de la vida, cariño, es no tener nunca miedo de nada ni de nadie.",
+		"author": "Frank Sinatra"
+	},
+	{
+		"content": "La pasión es energía. Siente el poder que viene de centrarte en lo que te excita.",
+		"author": "Oprah Winfrey"
+	},
+	{
+		"content": "La pregunta no es quién me va a dejar; es quién va a detenerme.",
+		"author": "Ayn Rand"
+	},
+	{
+		"content": "La pregunta que me hago casi todos los días es: '¿Estoy haciendo lo más importante que puedo?'.",
+		"author": "Mark Zuckerberg"
+	},
+	{
+		"content": "La vida es un 10% lo que te sucede y un 90% de cómo reaccionas a ello.",
+		"author": "Charles R. Swindoll"
+	},
+	{
+		"content": "Las palabras amables pueden ser breves y fáciles de decir, pero sus ecos son realmente infinitos.",
+		"author": "Madre Teresa"
+	},
+	{
+		"content": "No digas que no tienes suficiente tiempo. Tienes exactamente el mismo número de horas que tuvieron Pasteur, Michelangelo, Helen Keller, Madre Teresa, Leonardo da Vinci, Thomas Jefferson y Albert Einstein.",
+		"author": "H. Jackson Brown Jr"
+	},
+	{
+		"content": "No es la montaña lo que debemos conquistar sino a nosotros mismos.",
+		"author": "Sir Edmund Hillary"
+	},
+	{
+		"content": "No hay que ir para atrás ni para darse impulso.",
+		"author": "Lao Tsé"
+	},
+	{
+		"content": "Odié cada minuto de entrenamiento, pero dije, no te rindas. Sufre ahora y vive el resto de tu vida como un campeón.",
+		"author": "Muhammad Ali"
+	},
+	{
+		"content": "Piensa por la mañana. Actúa al mediodía. Come por la tarde. Duerme de noche.",
+		"author": "William Blake"
+	},
+	{
+		"content": "Recuerda que no solo tienes el derecho de ser un individuo: tienes la obligación de ser uno.",
+		"author": "Eleanor Roosevelt"
+	},
+	{
+		"content": "Si no puedes volar, corre; si no puedes correr, camina; si no puedes caminar, gatea, pero sigue avanzando hacia tu meta.",
+		"author": "Martin Luther King"
+	},
+	{
+		"content": "Si solo te atreves a hacer lo de siempre deberás contentarte con lo de siempre.",
+		"author": "Jim Rohn"
+	},
+	{
+		"content": "Si vas a mirar atrás, que sea para ver lo que has trabajado para llegar donde estás.",
+		"author": "Mireia Belmonte"
+	},
+	{
+		"content": "Solo imagina lo precioso que puede ser arriesgarse y que todo salga bien.",
+		"author": "Mario Benedetti"
+	},
+	{
+		"content": "Sé brutalmente honesto con lo de corto plazo, y optimista y confiado con lo planteado a largo plazo.",
+		"author": "Reed Hastings"
+	},
+	{
+		"content": "Sé paciente contigo mismo. Nada en la naturaleza florece todo el año.",
+		"author": "Anónimo"
+	},
+	{
+		"content": "Todos nuestros sueños se pueden volver realidad si tenemos el coraje de perseguirlos.",
+		"author": "Walt Disney"
+	},
+	{
+		"content": "Únicamente aquellos que se atreven a tener grandes fracasos, terminan consiguiendo grandes éxitos.",
+		"author": "Robert F. Kennedy"
+	},
+	{
+		"content": "Cada fracaso enseña al individuo algo que necesitaba aprender.",
+		"author": "Charles Dickens"
+	},
+	{
+		"content": "Cuando era niño soñaba, pero dejé de soñar y empecé a hacer, porque es el poder de lo que se realiza lo que vuelve los sueños realidad.",
+		"author": "Usain Bolt"
+	},
+	{
+		"content": "El que pasa el tiempo arrepintiéndose del pasado, pierde el presente y arriesga el futuro.",
+		"author": "Francisco de Quevedo"
+	},
+	{
+		"content": "El que tiene fe en sí mismo no necesita que los demás crean en él.",
+		"author": "Miguel de Unamuno"
+	},
+	{
+		"content": "La mayor parte de las grandes cosas que ha conseguido el hombre fueron declaradas imposibles antes de que alguien las hiciera.",
+		"author": "Louis D. Brandeis"
+	},
+	{
+		"content": "La vida debe ser comprendida hacia detrás, pero debe ser vivida hacia delante.",
+		"author": "Søren Kierkegaard"
+	},
+	{
+		"content": "La vida es como montar en bicicleta. Para mantener el equilibrio tienes que avanzar.",
+		"author": "Albert Einstein"
+	},
+	{
+		"content": "No es la muerte lo que debes temer, sino nunca empezar a vivir.",
+		"author": "Marco Aurelio"
+	},
+	{
+		"content": "No podemos estar en modo de supervivencia. Tenemos que estar en modo de crecimiento.",
+		"author": "Jeff Bezos"
+	},
+	{
+		"content": "Nuestra mayor debilidad reside en rendirnos. La forma más segura de tener éxito es intentarlo una vez más.",
+		"author": "Thomas Edison"
+	},
+	{
+		"content": "Nuevo día, nuevos pensamientos, nuevas esperanzas y nuevas oportunidades.",
+		"author": "Lailah Gifty Akita"
+	},
+	{
+		"content": "Nunca nada habrá terminado. Es un ejercicio continuo.",
+		"author": "Dara Khosrowshahi"
+	},
+	{
+		"content": "Nunca pienso en las consecuencias de fallar un gran tiro. Cuando se piensa en las consecuencias, se está pensando en un resultado negativo.",
+		"author": "Michael Jordan"
+	},
+	{
+		"content": "Saber lo que hay que hacer elimina el miedo.",
+		"author": "Rosa Parks"
+	},
+	{
+		"content": "Siempre hay una oportunidad para marcar la diferencia.",
+		"author": "Michael Dell"
+	},
+	{
+		"content": "Sé claro. Sé auténtico. Pon límites. Analiza tu visión. Haz lo que te importa a ti. Y conoce lo que vales.",
+		"author": "Iyanla Vanzant"
+	},
+	{
+		"content": "Todo lo que siempre has querido está al otro lado del miedo.",
+		"author": "George Addair"
+	},
+	{
+		"content": "A veces hay que pelear las batallas más de una vez para ganarlas.",
+		"author": "Margaret Thatcher"
+	},
+	{
+		"content": "Aléjate de la gente que trata de empequeñecer tus ambiciones. La gente pequeña siempre hace eso, pero la gente realmente grande, te hace sentir que tú también puedes ser grande.",
+		"author": "Mark Twain"
+	},
+	{
+		"content": "Cada historia de éxito es una historia de constante adaptación, revisión y cambio.",
+		"author": "Richard Branson"
+	},
+	{
+		"content": "Cada logro comienza con la decisión de intentarlo.",
+		"author": "Gail Devers"
+	},
+	{
+		"content": "Cambia tus pensamientos y cambiarás tu mundo.",
+		"author": "Norman Vincent Peale"
+	},
+	{
+		"content": "Cuando haces feliz a otras personas, recibes más felicidad a cambio. Deberías meditar bien sobre cuánta felicidad eres capaz de dar.",
+		"author": "Eleanor Roosevelt"
+	},
+	{
+		"content": "Cuando todo el mundo está en silencio, incluso una sola voz se vuelve poderosa.",
+		"author": "Malala Yousafzai"
+	},
+	{
+		"content": "Cuanto más grande es la dificultad, más gloria hay en superarla.",
+		"author": "Epicuro"
+	},
+	{
+		"content": "Demasiada gente no vive sus sueños porque está ocupada viviendo sus miedos.",
+		"author": "Les Brown"
+	},
+	{
+		"content": "El aprendizaje no es un deporte para espectadores.",
+		"author": "D. Blocher"
+	},
+	{
+		"content": "El sueño de todos puede hacerse realidad si te limitas a él y trabajas duro.",
+		"author": "Serena Williams"
+	},
+	{
+		"content": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+		"author": "Robert Collier"
+	},
+	{
+		"content": "Hay dos grandes días en la vida de una persona: el día que nacemos y el día en que descubrimos para qué.",
+		"author": "William Barclay"
+	},
+	{
+		"content": "Hoy es el primer día del resto de tu vida.",
+		"author": "Abbie Hoffman"
+	},
+	{
+		"content": "La disciplina es el puente entre metas y logros.",
+		"author": "Jim Rohn"
+	},
+	{
+		"content": "La naturaleza nos ha dado las piezas necesarias para alcanzar una riqueza y un bienestar excepcionales, pero nos ha dejado la tarea de juntarlas.",
+		"author": "Diane McLaren"
+	},
+	{
+		"content": "La palabra 'no' solo significa que empiezas otra vez en un nivel superior.",
+		"author": "Peter Diamandis"
+	},
+	{
+		"content": "La perseverancia es caer 19 veces y levantarse 20.",
+		"author": "Julie Andrews"
+	},
+	{
+		"content": "La vida es o una gran aventura o nada.",
+		"author": "Helen Keller"
+	},
+	{
+		"content": "La vida no examinada no merece la pena ser vivida.",
+		"author": "Sócrates"
+	},
+	{
+		"content": "Las cosas se consiguen trabajando duro. Es el trabajo lo que genera cambios.",
+		"author": "Shonda Rhimes"
+	},
+	{
+		"content": "Las voluntades débiles se traducen en discursos; las fuertes, en actos.",
+		"author": "G. Le Bon"
+	},
+	{
+		"content": "Lo más difícil es la decisión de actuar, el resto es meramente tenacidad.",
+		"author": "Amelia Earhart"
+	},
+	{
+		"content": "Lo normal no es algo a lo que aspirar, es algo de lo que debes huir.",
+		"author": "Jodie Foster"
+	},
+	{
+		"content": "Lo que no me mata me alimenta.",
+		"author": "Frida Kahlo"
+	},
+	{
+		"content": "Lo único que te hará feliz es ser feliz con quien eres.",
+		"author": "Goldie Hawn"
+	},
+	{
+		"content": "Los desafíos hacen la vida interesante y superarlos la hace significativa.",
+		"author": "Joshua J. Marine"
+	},
+	{
+		"content": "Los verdaderos héroes están hechos de integridad.",
+		"author": "Hope Solo"
+	},
+	{
+		"content": "Me alegro de no estar ganando, eso significa que estoy aprendiendo.",
+		"author": "Naomi Osaka"
+	},
+	{
+		"content": "No hay sustituto del trabajo duro.",
+		"author": "Thomas Edison"
+	},
+	{
+		"content": "No importa de dónde vienes. Solo importa hacia dónde vas.",
+		"author": "Brian Tracy"
+	},
+	{
+		"content": "No podemos resolver nuestros problemas con el mismo pensamiento que usamos cuando los creamos.",
+		"author": "Albert Einstein"
+	},
+	{
+		"content": "No preguntes cuál es tu lugar en el mundo: siéntate en él.",
+		"author": "Emilio Valcárcel"
+	},
+	{
+		"content": "No se trata de dónde vienes, sino hacia dónde vas.",
+		"author": "Ella Fitzgerald"
+	},
+	{
+		"content": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+		"author": "George Eliot"
+	},
+	{
+		"content": "Perder el tiempo que disfruto no es tiempo perdido.",
+		"author": "Marta Troly"
+	},
+	{
+		"content": "Pies, ¿para qué os quiero? ¡Si tengo alas para volar!.",
+		"author": "Frida Kahlo"
+	},
+	{
+		"content": "Si hay algo en nosotros verdaderamente divino, es la voluntad. Por ella afirmamos la personalidad, templamos el carácter, desafiamos la adversidad, reconstruimos el cerebro y nos superamos diariamente.",
+		"author": "Santiago Ramón y Cajal"
+	},
+	{
+		"content": "Si no persigues lo que quieres, nunca lo tendrás. Si no vas hacia delante, siempre estarás en el mismo lugar.",
+		"author": "Nora Roberts"
+	},
+	{
+		"content": "Si no pierdes, no puedes disfrutar de las victorias.",
+		"author": "Rafael Nadal"
+	},
+	{
+		"content": "Si quieres aprender, enseña.",
+		"author": "Cicerón"
+	},
+	{
+		"content": "Si tienes miedo de fallar, probablemente falles.",
+		"author": "Kobe Bryant"
+	},
+	{
+		"content": "Solo al arriesgarnos podemos hacer que nuestras vidas mejoren. El principal riesgo y el más difícil de asumir es ser honestos.",
+		"author": "Walter Anderson"
+	},
+	{
+		"content": "Solo el que intenta lo absurdo es capaz de conseguir lo que parecía imposible.",
+		"author": "Miguel de Unamuno"
+	},
+	{
+		"content": "Ten siempre la mente abierta y el corazón compasivo.",
+		"author": "Phil Jackson"
+	},
+	{
+		"content": "Todas las cosas son imposibles, mientras lo parecen.",
+		"author": "Concepción Arenal"
+	},
+	{
+		"content": "Todo parece imposible hasta que se hace.",
+		"author": "Nelson Mandela"
+	},
+	{
+		"content": "Trabajar duro por algo que no te importa se llama estrés. Trabajar duro por algo que te importa de verdad, se llama pasión.",
+		"author": "Simon Sinek"
+	},
+	{
+		"content": "Un viaje de 1000 pasos da comienzo con un solo primer paso.",
+		"author": "Lao Tzu"
+	},
+	{
+		"content": "Vive como si fueras a morir mañana; aprende como si fueras a vivir siempre.",
+		"author": "Mahatma Gandhi"
+	},
+	{
+		"content": "La excelencia no es un acto, es un hábito.",
+		"author": "Aristóteles"
+	},
+	{
+		"content": "Cada día nos trae nuevas opciones.",
+		"author": "Martha Beck"
+	},
+	{
+		"content": "Sé el cambio que deseas ver en el mundo.",
+		"author": "Mahatma Gandhi"
+	},
+	{
+		"content": "Quien no se mueve no siente las cadenas.",
+		"author": "Rosa Luxemburgo"
+	},
+	{
+		"content": "Haz de cada día tu obra maestra.",
+		"author": "John Wooden"
+	},
+	{
+		"content": "No cuánto tiempo, sino lo bien que has vivido es lo principal.",
+		"author": "Séneca"
 	}
 ]

@@ -782,5 +782,637 @@
 	{
 		"content": "No cuánto tiempo, sino lo bien que has vivido es lo principal.",
 		"author": "Séneca"
+	},
+	{
+		"content": "No importa lo lento que vayas, siempre y cuando no te detengas.",
+		"author": "Confucio"
+	},
+	{
+		"content": "La única manera de hacer un gran trabajo es amar lo que haces.",
+		"author": "Steve Jobs"
+	},
+	{
+		"content": "Lo que importa no es lo bueno que eres, sino lo bueno que quieres ser.",
+		"author": "San Francisco de Sales"
+	},
+	{
+		"content": "No cuentes los días, haz que los días cuenten.",
+		"author": "Muhammad Ali"
+	},
+	{
+		"content": "Antes de encontrar a tu alma gemela, primero debes descubrir la tuya.",
+		"author": "Charles F. Glassman"
+	},
+	{
+		"content": "La gente dice que nada es imposible, pero yo hago nada todos los días.",
+		"author": "Winnie the Pooh"
+	},
+	{
+		"content": "La vida es como una cloaca... Lo que obtienes de ella depende de lo que hayas depositado en ella.",
+		"author": "Tom Lehrer"
+	},
+	{
+		"content": "Siempre quise ser alguien, pero ahora me doy cuenta de que debería haber sido algo más específico.",
+		"author": "Lily Tomlin"
+	},
+	{
+		"content": "A todos nos gusta el trabajo, pero cuando ya está hecho.",
+		"author": "Noel Clarasó"
+	},
+	{
+		"content": "Seamos realistas y hagamos lo imposible.",
+		"author": "Ernesto Che Guevara"
+	},
+	{
+		"content": "Creo que si la vida te da limones, debes hacer limonada... Y tratar de encontrar a alguien cuya vida le haya dado vodka y hacer una fiesta.",
+		"author": "Ron White"
+	},
+	{
+		"content": "Sal y haz algo. No es tu habitación la que es una prisión, eres tú mismo.",
+		"author": "Silvia Plath"
+	},
+	{
+		"content": "La mala noticia es que el tiempo vuela. La buena noticia es que tú eres el piloto.",
+		"author": "Michael Altshuler"
+	},
+	{
+		"content": "Objetivos para hoy: café y cariño. Bueno, que sean 2 tazas de café y luego cariño.",
+		"author": "Nanea Hoffman"
+	},
+	{
+		"content": "No se trata de si van a derribarte, se trata de si vas a levantarte cuando lo hagan.",
+		"author": "Vince Lombardi"
+	},
+	{
+		"content": "Si quieres el arcoíris, tienes que aguantar la lluvia.",
+		"author": "Dolly Parton"
+	},
+	{
+		"content": "Lo poco que he aprendido carece de valor comparado con lo que ignoro y no desespero en aprender.",
+		"author": "René Descartes"
+	},
+	{
+		"content": "En esta vida, la única forma de sobrellevar los problemas es reírse. O se llora o se ríe, y yo prefiero reír, ya que llorar me produce jaqueca.",
+		"author": "Marjorie Pay Hinckley"
+	},
+	{
+		"content": "A veces dejas la cama por las mañanas y piensas: 'no voy a lograrlo'. Pero te ríes por dentro, recordando todas las veces que te has sentido de esa manera.",
+		"author": "Charles Bukowski"
+	},
+	{
+		"content": "Si tienes todo bajo control, no te estás moviendo lo suficientemente rápido.",
+		"author": "Mario Andretti"
+	},
+	{
+		"content": "Si la vida te da un limón, haz limonada.",
+		"author": "Dale Carnegie"
+	},
+	{
+		"content": "Lo que haces hace una diferencia y tienes que decidir qué tipo de diferencia quieres hacer.",
+		"author": "Jane Goodall"
+	},
+	{
+		"content": "Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.",
+		"author": "Confucio"
+	},
+	{
+		"content": "Nunca puedes dejar huellas que duren si siempre estás caminando de puntillas.",
+		"author": "Leymah Gbowee"
+	},
+	{
+		"content": "La mejor manera de empezar algo es dejar de hablar de ello y hacerlo.",
+		"author": "Walt Disney"
+	},
+	{
+		"content": "No hay atajos para ningún lugar al que valga la pena ir.",
+		"author": "Beverly Sills"
+	},
+	{
+		"content": "Puede que no haya ido a donde quería ir, pero creo que he terminado donde tenía que estar.",
+		"author": "Douglas Adams"
+	},
+	{
+		"content": "La diferencia entre ordinario y extraordinario es ese pequeño extra.",
+		"author": "Jimmy Johnson"
+	},
+	{
+		"content": "Rodéate de personas que reten tus límites, no de personas que limiten tus retos.",
+		"author": "Pilar Jericó"
+	},
+	{
+		"content": "El aprendizaje es un simple apéndice de nosotros mismos; dondequiera que estemos, está también nuestro aprendizaje.",
+		"author": "William Shakespeare"
+	},
+	{
+		"content": "La vida se encoge o se expande en proporción a tu coraje.",
+		"author": "Anis Nin"
+	},
+	{
+		"content": "Un barco en un puerto está a salvo, pero no es para eso para lo que se construye un barco.",
+		"author": "Grace Hopper"
+	},
+	{
+		"content": "Muchos piensan en cambiar el mundo, pero casi nadie piensa en cambiarse a sí mismo.",
+		"author": "León Tolstói"
+	},
+	{
+		"content": "Un mal plan es mejor que no tener ningún plan.",
+		"author": "Frank Marshall"
+	},
+	{
+		"content": "Si no te gustan las cosas, ¡cámbialas! No eres un árbol.",
+		"author": "Jim Rohn"
+	},
+	{
+		"content": "Aprender es como remar contra corriente: en cuanto se deja, se retrocede.",
+		"author": "Edward Benjamin Britten"
+	},
+	{
+		"content": "No tienes que ser grande para empezar. Pero tienes que empezar para poder ser grande.",
+		"author": "Zig Ziglar"
+	},
+	{
+		"content": "La mejor forma de predecir el futuro es crearlo.",
+		"author": "Abraham Lincoln"
+	},
+	{
+		"content": "Asegúrate de que tu peor enemigo no vive entre tus dos orejas.",
+		"author": "Laird Hamilton"
+	},
+	{
+		"content": "Es duro el camino que conduce a la grandeza.",
+		"author": "Séneca"
+	},
+	{
+		"content": "Lo grandioso no sucede solo por impulso, es una sucesión de pequeñas cosas que se juntan.",
+		"author": "Vincent Van Gogh"
+	},
+	{
+		"content": "Si cuidamos los pequeños momentos, los años cuidarán de nosotros.",
+		"author": "Maria Edgeworth"
+	},
+	{
+		"content": "A veces la magia es simplemente alguien dedicándole más tiempo a algo de lo que cualquiera podría esperar.",
+		"author": "Raymond Joseph Teller"
+	},
+	{
+		"content": "Lo que importa no es la voluntad de ganar, todo el mundo la tiene. Lo que importa es la voluntad de prepararse para ganar.",
+		"author": "Paul Bryant"
+	},
+	{
+		"content": "No dejes que el ayer ocupe mucho espacio de tu hoy.",
+		"author": "Will Rogers"
+	},
+	{
+		"content": "Si trabajas en algo que te gusta y te apasiona, no necesitas un empujón. Tu visión será tu impulso.",
+		"author": "Steve Jobs"
+	},
+	{
+		"content": "La experiencia es una maestra dura porque primero te hace el examen y luego te da la lección.",
+		"author": "Vernon Sanders Law"
+	},
+	{
+		"content": "No hay lugar adonde ir salvo a cualquier parte, así que sigue caminando.",
+		"author": "Jack Kerouac"
+	},
+	{
+		"content": "Para volar, hay que crear el espacio de aire necesario para que las alas se desplieguen.",
+		"author": "Jorge Bucay"
+	},
+	{
+		"content": "Convierte siempre una situación negativa en una positiva.",
+		"author": "Michael Jordan"
+	},
+	{
+		"content": "La experiencia no es lo que te ocurre, es lo que haces con lo que te ocurre.",
+		"author": "Aldous Huxley"
+	},
+	{
+		"content": "Aprendí que no se puede dar marcha atrás, que la esencia de la vida es ir hacia adelante.",
+		"author": "Agatha Christie"
+	},
+	{
+		"content": "He aprendido que el valor no es la ausencia de miedo, sino el triunfo sobre él. El hombre valiente no es el que no siente miedo, sino el que lo domina.",
+		"author": "Nelson Mandela"
+	},
+	{
+		"content": "Saber cuánto puedes llegar a saber es el primer paso para aprender a vivir.",
+		"author": "Dorothy West"
+	},
+	{
+		"content": "Fijarse metas es el secreto para un futuro grandioso.",
+		"author": "Tony Robbins"
+	},
+	{
+		"content": "Nunca renuncies a un sueño simplemente por el tiempo que necesitarás para lograrlo. El tiempo pasará de todos modos.",
+		"author": "Earl Nightingale"
+	},
+	{
+		"content": "No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas.",
+		"author": "Robert Louis Stevenson"
+	},
+	{
+		"content": "La felicidad no es algo que se pospone para el futuro, es algo que se diseña para el presente.",
+		"author": "Jim Rohn"
+	},
+	{
+		"content": "Deberíamos usar el pasado como trampolín y no como sofá.",
+		"author": "Harold Macmillan"
+	},
+	{
+		"content": "Sé tú mismo. Todos los demás puestos están ocupados.",
+		"author": "Oscar Wilde"
+	},
+	{
+		"content": "No fuisteis criados para vivir como bestias, sino para seguir en pos de la virtud y la sabiduría.",
+		"author": "Dante Alighieri"
+	},
+	{
+		"content": "Siempre sé la mejor versión de ti mismo y la segunda mejor versión de todos los demás.",
+		"author": "Judy Garland"
+	},
+	{
+		"content": "Los sabios son los que buscan la sabiduría; los necios piensan ya haberla encontrado.",
+		"author": "Napoleón Bonaparte"
+	},
+	{
+		"content": "No mires el reloj; haz lo mismo que él, ve avanzando.",
+		"author": "Sam Levenson"
+	},
+	{
+		"content": "Si escuchas una voz dentro de ti que dice 'no puedes pintar', entonces pinta, y la voz será silenciada.",
+		"author": "Vincent Van Gogh"
+	},
+	{
+		"content": "No te preocupes por los fracasos, preocúpate por las oportunidades que pierdes cuando ni siquiera lo intentas.",
+		"author": "Jack Canfield"
+	},
+	{
+		"content": "Si no podéis convencerlos, confundirlos.",
+		"author": "Confucio"
+	},
+	{
+		"content": "Si no sabes para dónde vas, cualquier camino te llevará allí.",
+		"author": "Lewis Carroll"
+	},
+	{
+		"content": "La vida sería trágica si no fuera graciosa.",
+		"author": "Stephen Hawking"
+	},
+	{
+		"content": "El ascensor hacia el éxito no funciona. Tendrás que usar las escaleras, un peldaño cada vez.",
+		"author": "Joe Girard"
+	},
+	{
+		"content": "Sé como un trampolín de energía positiva: absorbe cuanto necesitas y rebota todavía más.",
+		"author": "Dave Carolan"
+	},
+	{
+		"content": "La gente suele decir que la motivación no dura. Pero tampoco lo hace una ducha: por eso la recomendamos a diario.",
+		"author": "Zig Ziglar"
+	},
+	{
+		"content": "Soy tan inteligente que a veces no entiendo ni una sola palabra de lo que estoy diciendo.",
+		"author": "Oscar Wilde"
+	},
+	{
+		"content": "Con cada combate te haces más fuerte.",
+		"author": "Cinderella Man, 1999"
+	},
+	{
+		"content": "Solo tú puedes decidir qué hacer con el tiempo que se te ha dado.",
+		"author": "El Señor de los Anillos: La comunidad del anillo, 2001"
+	},
+	{
+		"content": "Seguir respirando, porque mañana volverá a amanecer, y quién sabe qué traerá la marea.",
+		"author": "Náufrago, 2000"
+	},
+	{
+		"content": "Yo solo puedo mostrarte la puerta, tú tienes que atravesarla.",
+		"author": "Matrix, 1999"
+	},
+	{
+		"content": "Tarde o temprano te darás cuenta, igual que yo, de que hay una diferencia entre conocer el camino y caminar por el camino.",
+		"author": "Matrix, 1999"
+	},
+	{
+		"content": "No es un problema grave si no lo conviertes en un problema grave.",
+		"author": "Abierto hasta el amanecer, 1996"
+	},
+	{
+		"content": "Por muy dura que nos parezca la vida, mientras haya vida hay esperanza.",
+		"author": "La teoría del todo, 2014"
+	},
+	{
+		"content": "Lo único que está entre tu meta y tú, es la historia que te sigues contando a ti mismo de por qué no puedes lograrla.",
+		"author": "El lobo de Wall Street, 2013"
+	},
+	{
+		"content": "Ir a una ronda más cuando piensas que no puedes marca toda la diferencia en tu vida.",
+		"author": "Rocky IV, 1985"
+	},
+	{
+		"content": "Las grandes cosas tienen pequeños comienzos.",
+		"author": "Prometheus, 2013"
+	},
+	{
+		"content": "Tienes que perderte antes de encontrarte.",
+		"author": "Ciudades de papel, 2015"
+	},
+	{
+		"content": "No saber no es tan malo. La clave es seguir buscando, mirando, siempre con hambre, ¿verdad?.",
+		"author": "Antes del anochecer, 2013"
+	},
+	{
+		"content": "Es toda una experiencia vivir con miedo, ¿verdad? Eso es lo que significa ser un esclavo.",
+		"author": "Blade Runner, 1982"
+	},
+	{
+		"content": "Soy el maestro de mi destino, soy el capitán de mi alma.",
+		"author": "Invictus, 2009"
+	},
+	{
+		"content": "A veces toda tu vida se define por una loca acción.",
+		"author": "Avatar, 2009"
+	},
+	{
+		"content": "El futuro no está establecido. No hay destino. Solo existe el que nosotros hacemos.",
+		"author": "Terminator 2: el juicio final, 1991"
+	},
+	{
+		"content": "Soñar no te hara ningún bien si olvidas vivir.",
+		"author": "Harry Potter y el prisionero de Azkaban, 2004"
+	},
+	{
+		"content": "Si pones tu mente en ello, puedes lograr lo que sea.",
+		"author": "Regreso al futuro, 1985"
+	},
+	{
+		"content": "Los grandes hombres no nacen siendo grandes, crecen grandiosamente.",
+		"author": "El padrino, 1972"
+	},
+	{
+		"content": "Creo que a veces es la gente de la que nadie espera nada la que hace cosas que nadie puede imaginar.",
+		"author": "Descifrando Enigma, 2014"
+	},
+	{
+		"content": "La mejor forma de olvidar las malas cosas de la vida es aprender a recordar las cosas buenas.",
+		"author": "Mark Amend"
+	},
+	{
+		"content": "Acepta tus victorias, sean las que sean, valóralas, úsalas, pero no te conformes con ellas.",
+		"author": "Mia Hamm"
+	},
+	{
+		"content": "Alguien está sentado hoy a la sombra porque alguien plantó un árbol hace mucho tiempo.",
+		"author": "Warren Buffet"
+	},
+	{
+		"content": "Amor son dos personas que se quedan a observar su destrucción y no tiemblan ante el desastre.",
+		"author": "Elena Poe"
+	},
+	{
+		"content": "Cuando el amor es la norma, no hay voluntad de poder, y donde el poder se impone, el amor falta.",
+		"author": "Carl Jung"
+	},
+	{
+		"content": "Cuando piensas en positivo, cosas buenas ocurren.",
+		"author": "Matt Kemp"
+	},
+	{
+		"content": "Cuando te levantes por la mañana piensa en qué privilegio es estar vivo, pensar, disfrutar, amar.",
+		"author": "Marco Aurelio"
+	},
+	{
+		"content": "Da siempre lo mejor de ti cada día. Lo que plantas ahora, se cosechará más tarde.",
+		"author": "Og Mandino"
+	},
+	{
+		"content": "Debemos ofrecer nuestra mano con amistad y dignidad, tanto a quienes se harían amigos nuestros como a quienes podrían convertirse en nuestros enemigos.",
+		"author": "Arthur Ashe"
+	},
+	{
+		"content": "Donde reina el amor, siempre sobran las leyes.",
+		"author": "Platón"
+	},
+	{
+		"content": "El amor es un crimen que no puede realizarse sin cómplice.",
+		"author": "Charles Baudelaire"
+	},
+	{
+		"content": "El amor está conformado por un alma que habita en varios cuerpos.",
+		"author": "Aristóteles"
+	},
+	{
+		"content": "El amor no necesita ser entendido, simplemente necesita ser demostrado.",
+		"author": "Paulo Coelho"
+	},
+	{
+		"content": "El amor no reclama posesiones sino que da libertad.",
+		"author": "Ranbindranath Tagore"
+	},
+	{
+		"content": "El amor no reconoce barreras. Salta obstáculos, brinca vallas, penetra paredes para llegar a su destino lleno de esperanza.",
+		"author": "Maya Angelou"
+	},
+	{
+		"content": "El amor no se manifiesta en el deseo de acostarse con alguien, sino en el deseo de dormir junto a alguien.",
+		"author": "Milan Kundera"
+	},
+	{
+		"content": "El amor puede hacerlo todo, y también lo contrario de todo.",
+		"author": "Alberto Moravia"
+	},
+	{
+		"content": "El mejor tipo de amor es el que despierta el alma y nos hace aspirar a más, que planta un fuego en el corazón y trae paz a la mente.",
+		"author": "Nicholas Sparks"
+	},
+	{
+		"content": "El optimismo es la fe que conduce al logro; nada puede realizarse sin esperanza.",
+		"author": "Helen Keller"
+	},
+	{
+		"content": "El optimista ve la rosa y no las espinas, pero el pesimista se fija tanto en las espinas que no sabe que también hay una rosa.",
+		"author": "Khalil Gibran"
+	},
+	{
+		"content": "El que ama, se hace humilde. Aquellos que aman, por decirlo de alguna manera, renuncian a una parte de su narcisismo.",
+		"author": "Sigmund Freud"
+	},
+	{
+		"content": "El que puede tener paciencia, puede tener lo que quiera.",
+		"author": "Benjamin Franklin"
+	},
+	{
+		"content": "En un beso, sabrás todo lo que he callado.",
+		"author": "Pablo Neruda"
+	},
+	{
+		"content": "Está bien celebrar el éxito, pero es más importante prestar atención a las lecciones del fracaso.",
+		"author": "Bill Gates"
+	},
+	{
+		"content": "Existe una vitalidad, una fuerza de vida, una energía, una urgencia que a través de ti se traduce en acción, y puesto que solo hay una como tú, esta expresión es única. Si la bloqueas, nunca existirá a través de ningún otro medio y se perderá.",
+		"author": "Martha Graham"
+	},
+	{
+		"content": "Fíjate unas metas altas, y no te detengas hasta alcanzarlas.",
+		"author": "Bo Jackson"
+	},
+	{
+		"content": "Hacer el amor implica una conexión con el amor que no se da todo el tiempo, ni siquiera entre dos personas que se aman.",
+		"author": "Jorge Bucay"
+	},
+	{
+		"content": "La juventud es el paraíso de la vida, la alegría es la juventud eterna del espíritu.",
+		"author": "Ippolito Nievo"
+	},
+	{
+		"content": "La verdadera libertad es imposible sin una mente liberada por la disciplina.",
+		"author": "Mortimer J. Adler"
+	},
+	{
+		"content": "La vida no es siempre una cuestión de tener buenas cartas, sino, a veces, de jugar bien una mala mano.",
+		"author": "Jack London"
+	},
+	{
+		"content": "La vida te depara miles de posibilidades positivas si abres tu mente a ello.",
+		"author": "Rafael Santandreu"
+	},
+	{
+		"content": "La única persona que puede decirte 'no puedes lograrlo' eres tú misma, y no debes escucharla.",
+		"author": "Jessica Ennis"
+	},
+	{
+		"content": "Las verdaderas historias de amor nunca tienen un final.",
+		"author": "Richard Bach"
+	},
+	{
+		"content": "Lo pequeño es algo más que un paso en el camino. Es un destino en sí mismo.",
+		"author": "Jason Fried"
+	},
+	{
+		"content": "Los ríos lo saben: no hay prisa. Algún día llegaremos.",
+		"author": "A. A. Milne"
+	},
+	{
+		"content": "Me enamoré de la vida, es la única que no me dejará sin antes yo hacerlo.",
+		"author": "Pablo Neruda"
+	},
+	{
+		"content": "Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente y optimismo desafiante para encarar el futuro.",
+		"author": "Isabel Allende"
+	},
+	{
+		"content": "Ningún amor es más verdadero que aquel que muere sin haber sido revelado.",
+		"author": "Oliver Wendell Holmes"
+	},
+	{
+		"content": "Ningún pesimista ha descubierto los secretos de las estrellas, los misterios de tierras ignotas o los cielos que se abren al espíritu humano.",
+		"author": "Helen Keller"
+	},
+	{
+		"content": "No hay cosa más fuerte que el verdadero amor.",
+		"author": "Séneca"
+	},
+	{
+		"content": "No hay suficientes días en la eternidad para permitirme expresar plenamente la profundidad de mi amor por ti.",
+		"author": "Steve Maraboli"
+	},
+	{
+		"content": "No mires a tus pies para ver si lo estás haciendo bien. Simplemente, baila.",
+		"author": "Anne Lamott"
+	},
+	{
+		"content": "No tengas miedo de abandonar lo bueno para ir a por lo grandioso.",
+		"author": "John D. Rockefeller"
+	},
+	{
+		"content": "Nuestra mayor gloria no es no haber caído nunca, sino levantarnos cada vez que caemos.",
+		"author": "Confucio"
+	},
+	{
+		"content": "Perdí mi camino cuando iba camino a ti, y en ti he encontrado el camino de vuelta a mí.",
+		"author": "Atticus"
+	},
+	{
+		"content": "Quien vive de sus temores no encontrará libertad.",
+		"author": "Paul Young"
+	},
+	{
+		"content": "Qué maravilloso es que nadie tenga que esperar ni un segundo para empezar a mejorar el mundo.",
+		"author": "Anna Frank"
+	},
+	{
+		"content": "Sabes que estás enamorado en el momento en que puedes tocar las estrellas sin llegar.",
+		"author": "Melisa M. Hamling"
+	},
+	{
+		"content": "Se necesita valor para el amor, pero el dolor a través del amor es el fuego purificador que conocen los que aman generosamente.",
+		"author": "Eleanor Roosevelt"
+	},
+	{
+		"content": "Si cambias la forma en que miras las cosas, las cosas que miras cambian.",
+		"author": "Wayne Dyer"
+	},
+	{
+		"content": "Si supiera que el mundo se acaba mañana, yo, hoy todavía, plantaría un árbol.",
+		"author": "Martin Luther King"
+	},
+	{
+		"content": "Solo hay una felicidad en la vida, amar y ser amado.",
+		"author": "George Sand"
+	},
+	{
+		"content": "Sonríe cuando te mires al espejo, hazlo todas las mañanas y comenzarás a ver una gran diferencia en tu vida.",
+		"author": "Yoko Ono"
+	},
+	{
+		"content": "Te quiero no por quien eres, sino por quien soy cuando estoy contigo.",
+		"author": "Gabriel García Márquez"
+	},
+	{
+		"content": "Ten en cuenta que el gran amor y los grandes logros requieren grandes riesgos.",
+		"author": "Dalai Lama"
+	},
+	{
+		"content": "Toda persona tiene capacidad para cambiarse a sí misma.",
+		"author": "Albert Ellis"
+	},
+	{
+		"content": "Todo gira alrededor del amor, porque este no es solo un sentimiento; es, por encima de todo, la acción expresiva que procura el bien del otro.",
+		"author": "Alex Rovira"
+	},
+	{
+		"content": "Trabajar duro, una mente positiva y levantarse temprano son las claves para tener un gran día.",
+		"author": "George Allen"
+	},
+	{
+		"content": "Tus acciones positivas combinadas con los pensamientos positivos generan éxitos.",
+		"author": "Shiv Khera"
+	},
+	{
+		"content": "Un optimista entiende que la vida puede tener baches, pero que lleva a un lugar. Los optimistas aprenden de sus errores y fracasos y no tienen miedo de volver a fallar.",
+		"author": "Harvey MacKay"
+	},
+	{
+		"content": "Un optimista ve oportunidades en toda calamidad. Un pesimista ve calamidades en toda oportunidad.",
+		"author": "Winston Churchill"
+	},
+	{
+		"content": "Una actitud fuertemente positiva creará más milagros que cualquier droga.",
+		"author": "Patricia Neal"
+	},
+	{
+		"content": "Ven a dormir conmigo: no haremos el amor, él nos lo hará.",
+		"author": "Julio Cortázar"
+	},
+	{
+		"content": "Y cuando vi tu sonrisa lo supe. Esa era la sonrisa que quería ver siempre al despertar durante el resto de mi vida.",
+		"author": "Mario Benedetti"
+	},
+	{
+		"content": "Árbol de la esperanza, mantente firme.",
+		"author": "Frida Kahlo"
 	}
 ]
